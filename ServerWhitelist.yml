@@ -1,0 +1,8 @@
+# Server whitelist for Wabbjack
+
+GoogleIDs:
+    - 1QxugzSXxVA7p5R0dCcxIQTnP5pozlrzM # 3DNPCS for Skyrim SE
+        
+AllowedPrefixes:
+    - https://skse.silverlock.org/
+    - http://enbseries.enbdev.com/
