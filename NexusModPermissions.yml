@@ -22,18 +22,18 @@
 
 
 Arthmoor:
-	Permissions:
-		CanExtractBSAs: false
-		CanModifyAssets: false
-		CanModifyESPs: false
-		CanUseInOtherGames: false
+    Permissions:
+        CanExtractBSAs: false
+        CanModifyAssets: false
+        CanModifyESPs: false
+        CanUseInOtherGames: false
 
-	Games:
-		Skyrim:
-			Mods:
-				266: # Unofficial Skyrim Special Edition Patch
-					Permissions:
-						CanExtractBSAs: false
-						CanModifyAssets: false
-						CanModifyESPs: false
-						CanUseInOtherGames: false
+    Games:
+        Skyrim:
+            Mods:
+                266: # Unofficial Skyrim Special Edition Patch
+                    Permissions:
+                        CanExtractBSAs: false
+                        CanModifyAssets: false
+                        CanModifyESPs: false
+                        CanUseInOtherGames: false
