@@ -2,6 +2,8 @@
 
 GoogleIDs:
     - 1QxugzSXxVA7p5R0dCcxIQTnP5pozlrzM # 3DNPCS for Skyrim SE
+    - 1Q2-riavf6jDIoSsC4I6Y6njwLRL8o7Fz # Skyrim Uncapper VR Beta
+    
         
 AllowedPrefixes:
     # Common Sites
@@ -28,4 +30,12 @@ AllowedPrefixes:
     - https://www.dropbox.com:443/s/xv00gxw3pwpvoou/DBM%20Zims%20ThaneWeapons%20Patch%20Update%20for%20Zim%201.5.1.rar?dl=1 # DBM Zims ThaneWeapons Patch Update for Zim 1.5.1.rar
     - https://www.dropbox.com:443/s/i9s15cy4mqv9dk3/Moon%20and%20Star%20Replacer.7z?dl=1 # Moon and Star Replacer.7z
     - https://www.dropbox.com:443/s/iwc7d4suyrtbv5j/Skyrim%20SE%20Nvidia%20Inspector%20Profile.nip?dl=1 # Skyrim SE Nvidia Inspector Profile.nip
+
+    # Oblivion Files
+    - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
+
+    # Skyirm VR
+    - https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI # VR Visual Enhancements
+    - https://mega.nz/#!M5BCWABI!GgOE0PCgVFd7xpEMDfuMfh5Mhx7kpR_kca1U1O2t8f0 # Immersive Armors CTD Fix
+    - https://www.dropbox.com:443/sh/iazpayeexiyazeh/AACcdrQHN-uccBNkiachZqwua/loot_update/Wrye%20Bash%20307.201909300237%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash Nightly Build 307.201909300237
    
