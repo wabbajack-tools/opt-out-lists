@@ -4,8 +4,28 @@ GoogleIDs:
     - 1QxugzSXxVA7p5R0dCcxIQTnP5pozlrzM # 3DNPCS for Skyrim SE
         
 AllowedPrefixes:
+    # Common Sites
     - https://skse.silverlock.org/
     - https://f4se.silverlock.org/
     - http://enbseries.enbdev.com/
     - http://enbdev.com/
     - https://github.com/
+    - https://www.moddb.com/
+    - https://3dnpc.files.wordpress.com/
+    - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
+
+    # Common files
+    - https://mega.nz/#!RVxiWBYA!Uipp7y8vwpPvyRnNRyHoLVT3wFjIEbIdmouMqfsQm60 # SSE-Terrain-Tamriel.esm
+    - https://mega.nz/#!uocRkAYQ!9xktCGw-757oJ-JEroAZBhsl6tKmjwBp6Vjw7Jdu8pM # Skyrim_Particle_Patch_for_ENB-SSE.zip
+    - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
+    - https://mega.nz/#!AUx0jCAZ!ErV9kZkwAOTJsQV8cO7UGNsK-AP-SbSPVrE-rdfnaHA # xLODGen.51.7z
+    - https://mega.nz/#!tVISya7T!CzWGBIN0JMyvyCOBOUEU-kt_8cQAbrhPmdkUvPzRi4k # DynDOLOD-Standalone.2.72.7z
+    
+    # Unofficial Lexy LOTD patches & files
+    - https://www.dropbox.com:443/s/xpg5u3s1n7zwjv5/CreationKitCustom.7z
+    - https://mega.nz/#!K4dEAa4S!rrg78Fck-0QL-bcyHt9sPxJOat9ZA5Fau0JJEPiXGvY # CreationKit downgrade
+    - https://www.dropbox.com:443/s/7iezl521xmpep5x/Faster%20Mining%20Plus%20SE%20-%20Ars%20Metallica%20%2B%20Fossil%20Mining%20Script%20Fix.7z?dl=1 # Faster Mining Plus SE - Ars Metallica + Fossil Mining Script Fix.7z
+    - https://www.dropbox.com:443/s/xv00gxw3pwpvoou/DBM%20Zims%20ThaneWeapons%20Patch%20Update%20for%20Zim%201.5.1.rar?dl=1 # DBM Zims ThaneWeapons Patch Update for Zim 1.5.1.rar
+    - https://www.dropbox.com:443/s/i9s15cy4mqv9dk3/Moon%20and%20Star%20Replacer.7z?dl=1 # Moon and Star Replacer.7z
+    - https://www.dropbox.com:443/s/iwc7d4suyrtbv5j/Skyrim%20SE%20Nvidia%20Inspector%20Profile.nip?dl=1 # Skyrim SE Nvidia Inspector Profile.nip
+   
