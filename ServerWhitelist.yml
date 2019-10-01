@@ -3,7 +3,13 @@
 GoogleIDs:
     - 1QxugzSXxVA7p5R0dCcxIQTnP5pozlrzM # 3DNPCS for Skyrim SE
     - 1Q2-riavf6jDIoSsC4I6Y6njwLRL8o7Fz # Skyrim Uncapper VR Beta
-    
+    - 1p9SZSutr-nEeynf0VcSH2H5NC3Jq_HT0 # Yukichigai Gameplay Tweaks (VNV Version)
+    - 1iB3jeuALcOCIEiLnBVKWz4uPr7QmkDL # Textures Over Time LOD Fix
+    - 1IxFAshbcPrTAIN8Sz01_rDNpM7uc2WHp # Ojo Bueno Securitrons
+    - 1e5h0kBmMFSkQ0JJwpm_plJwyPhFH0YRE # MCM Matches HUD Color (VUI+ Version)
+    - 1pP0Rw_1RfFAC4jYYlY7hPFBaaxSXaxKs # MTUI Dialogue Background (VUI+ Version)
+    - 1n4eYVGJsIb-iQhMDcueHBffsW8FAMNsx # ETL - Terrain LOD Noise
+    - 1dZTW1CU7k0BeKIEWhBMW_dWrAQPbRxHd # NVR1.3.0    
         
 AllowedPrefixes:
     # Common Sites
@@ -16,6 +22,8 @@ AllowedPrefixes:
     - https://3dnpc.files.wordpress.com/
     - https://lotdplus.com/
     - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
+    - http://nvse.silverlock.org/ # New Vegas Script Extender
+    - https://cdn.bethsoft.com/ # Bethesda tools
 
     # Common files
     - https://mega.nz/#!RVxiWBYA!Uipp7y8vwpPvyRnNRyHoLVT3wFjIEbIdmouMqfsQm60 # SSE-Terrain-Tamriel.esm
@@ -43,4 +51,7 @@ AllowedPrefixes:
     - https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI # VR Visual Enhancements
     - https://mega.nz/#!M5BCWABI!GgOE0PCgVFd7xpEMDfuMfh5Mhx7kpR_kca1U1O2t8f0 # Immersive Armors CTD Fix
     - https://www.dropbox.com:443/sh/iazpayeexiyazeh/AACcdrQHN-uccBNkiachZqwua/loot_update/Wrye%20Bash%20307.201909300237%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash Nightly Build 307.201909300237
-   
+ 
+     # Viva New Vegas patches & files
+     - http://modsreloaded.com/file1659.html # Simple_Street_Lights_v1_1
+ 
