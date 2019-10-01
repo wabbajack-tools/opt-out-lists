@@ -5,6 +5,7 @@ GoogleIDs:
         
 AllowedPrefixes:
     - https://skse.silverlock.org/
-    - https://f4se.silverlock.org
+    - https://f4se.silverlock.org/
     - http://enbseries.enbdev.com/
     - http://enbdev.com/
+    - https://github.com/
