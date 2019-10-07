@@ -12,6 +12,9 @@ GoogleIDs:
     - 1dZTW1CU7k0BeKIEWhBMW_dWrAQPbRxHd # NVR1.3.0
     - 1koW6d7doH3gZzio2Xgy38LH8Et97oSNu # Oblivion: Hackdirt Alive Fix
     - 1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2 # Oblivion: Kvatch GF / Devastation Patch
+    
+    # Unofficial Lexy LOTD patches & files
+    - 1WPnhY9fT6mLMm-nrUGw1r81Y0sgknkpE # Lexy's LOTD Replacer Files
         
 AllowedPrefixes:
     # Common Sites
@@ -38,14 +41,6 @@ AllowedPrefixes:
     - https://mega.nz/#!YAARAArC!hA3KmN_-k5l9Mljh373f_uyYZrpLZ6Fh9B1BsVAyfQE # DynDOLOD-Resources-SE.2.73.7z
     - https://mega.nz/#!K4dEAa4S!rrg78Fck-0QL-bcyHt9sPxJOat9ZA5Fau0JJEPiXGvY
     
-    # Unofficial Lexy LOTD patches & files
-    - https://www.dropbox.com:443/s/xpg5u3s1n7zwjv5/CreationKitCustom.7z
-    - https://www.dropbox.com:443/s/7iezl521xmpep5x/Faster%20Mining%20Plus%20SE%20-%20Ars%20Metallica%20%2B%20Fossil%20Mining%20Script%20Fix.7z?dl=1 # Faster Mining Plus SE - Ars Metallica + Fossil Mining Script Fix.7z
-    - https://www.dropbox.com:443/s/xv00gxw3pwpvoou/DBM%20Zims%20ThaneWeapons%20Patch%20Update%20for%20Zim%201.5.1.rar?dl=1 # DBM Zims ThaneWeapons Patch Update for Zim 1.5.1.rar
-    - https://www.dropbox.com:443/s/i9s15cy4mqv9dk3/Moon%20and%20Star%20Replacer.7z?dl=1 # Moon and Star Replacer.7z
-    - https://www.dropbox.com:443/s/iwc7d4suyrtbv5j/Skyrim%20SE%20Nvidia%20Inspector%20Profile.nip?dl=1 # Skyrim SE Nvidia Inspector Profile.nip
-    - https://www.dropbox.com:443/s/42vedlfm7ndocno/Lexy%27s%20LOTD%20SE%20-%20CAO%20Profiles.7z # Lexy's LOTD SE - CAO Profiles.7z
-
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
 
