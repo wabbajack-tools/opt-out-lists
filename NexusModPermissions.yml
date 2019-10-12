@@ -37,3 +37,10 @@ Arthmoor:
                         CanModifyAssets: false
                         CanModifyESPs: false
                         CanUseInOtherGames: false
+
+Mentha:
+    Permissions:
+        CanExtractBSAs: false
+        CanModifyAssets: false
+        CanModifyESPs: false
+        CanUseInOtherGames: false
