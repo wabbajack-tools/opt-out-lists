@@ -19,6 +19,7 @@ GoogleIDs:
 AllowedPrefixes:
     # Common Sites
     - https://skse.silverlock.org/
+    - http://skse.silverlock.org/
     - https://f4se.silverlock.org/
     - http://enbseries.enbdev.com/
     - http://enbdev.com/
@@ -31,11 +32,13 @@ AllowedPrefixes:
     - https://cdn.bethsoft.com/ # Bethesda tools
 
     # Common files
+    - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip
     - https://mega.nz/#!RVxiWBYA!Uipp7y8vwpPvyRnNRyHoLVT3wFjIEbIdmouMqfsQm60 # SSE-Terrain-Tamriel.esm
     - https://mega.nz/#!uocRkAYQ!9xktCGw-757oJ-JEroAZBhsl6tKmjwBp6Vjw7Jdu8pM # Skyrim_Particle_Patch_for_ENB-SSE.zip
     - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
     - https://mega.nz/#!AUx0jCAZ!ErV9kZkwAOTJsQV8cO7UGNsK-AP-SbSPVrE-rdfnaHA # xLODGen.51.7z
     - https://mega.nz/#!IZpyTIjA!LxbZLytZwxpzSeboiYm8InI77mlvrnpGysYz7ajcinM # xLODGen.55.7z
+    - https://mega.nz/#!kJZ1DALZ!N-BZtK-sarhMpIfwXT5IT_n8qx7sPc5pOy9u-5RkEN4 # xLODGen.56.7z
     - https://mega.nz/#!tVISya7T!CzWGBIN0JMyvyCOBOUEU-kt_8cQAbrhPmdkUvPzRi4k # DynDOLOD-Standalone.2.72.7z
     - https://mega.nz/#!cMZ3AKLA!8uQdXz3-PqksUVodxQ5mulvubrUZqOY_cQSr3pktyYQ # DynDOLOD-Standalone.2.73.7z
     - https://mega.nz/#!YAARAArC!hA3KmN_-k5l9Mljh373f_uyYZrpLZ6Fh9B1BsVAyfQE # DynDOLOD-Resources-SE.2.73.7z
