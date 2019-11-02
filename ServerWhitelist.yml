@@ -45,6 +45,7 @@ AllowedPrefixes:
     - https://mega.nz/#!cMZ3AKLA!8uQdXz3-PqksUVodxQ5mulvubrUZqOY_cQSr3pktyYQ # DynDOLOD-Standalone.2.73.7z
     - https://mega.nz/#!YAARAArC!hA3KmN_-k5l9Mljh373f_uyYZrpLZ6Fh9B1BsVAyfQE # DynDOLOD-Resources-SE.2.73.7z
     - https://mega.nz/#!K4dEAa4S!rrg78Fck-0QL-bcyHt9sPxJOat9ZA5Fau0JJEPiXGvY
+    - https://archive.org/download/Wyrmstooth1.17B/Wyrmstooth%201.17B.zip # Wrymstooth 1.17B
     
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
@@ -56,4 +57,12 @@ AllowedPrefixes:
  
     # Viva New Vegas patches & files
     - http://modsreloaded.com/file1659.html # Simple_Street_Lights_v1_1
+    
+    # Ultimate Skyrim Files
+    - https://mega.nz/#!SEFkRIBa!Q15HlAtUYmIw8dBoMk5voLMXBI_oOtCNmAX0L9puxUc # .ini files
+    - https://mega.nz/#!2U0l3SwQ!uQk3aKsndflck3jtG9EcN1x8ToPXkSGxcLQFx8CJ7Ss # Gamepad bindings config
+    - https://mega.nz/#!aNsFlQRB!75ni3zM5qDAqsU_9aOjEH5Nu0V6xni4prMv7FLUFCtU # Keyboard bindings config
+    - https://mega.nz/#!bE8lQSJL!Q9Sv4F7s7wi3LSuSdsTMz883Krx8zs8ycha2YG5vA6E # Post-Install files
+    - https://mega.nz/#!mZ1nzCxR!C4oq9YgoSbtYxdG9IOlZnFUExSJHk2bKmbt1rVudmFw # DynDOLOD Resources
+    - https://www.ultimateskyrim.com/s/Custom-Snowfall-ENB-Files.rar # Custom ENB files
  
