@@ -17,6 +17,9 @@ GoogleIDs:
     # Unofficial Lexy LOTD patches & files
     - 1DdtJzHdgsVqN2lnbp1tuMacIsUUu8mTv # Lexy's LOTD Replacer Files
     - 1jbn31MTajVTrcottU7kHX2YAniCw43vp # Lexy's LOTD Finishing Line Files
+    
+    # TAF Requiem files
+    - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
         
 AllowedPrefixes:
     # Common Sites
@@ -68,7 +71,6 @@ AllowedPrefixes:
     - https://mega.nz/#!SANlQY7R!deorWwQBDDw4GoHYfJ-7NJVOWQ1U-KsoH1HrdG4PFaI # DynDOLOD Resources
     - https://www.ultimateskyrim.com/s/Custom-Snowfall-ENB-Files.rar # Custom ENB files
     
-    # Total Requiem Files
+    # TAF Requiem Files
     - http://www.mediafire.com/file/1dl687e7t33nh1x/HDT-SMP_Plugins_1.5.80.7z/file # HDT-SMP Plugin
-    - http://www.everplanet.tk/SkyrimSSE/Requiem_v1.9/Requiem_v1.9.4.1_FULL_FOMOD_INSTALL.zip # Requiem 1.9.4.1 SSE conversion
-    - https://drive.google.com/file/d/0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # ANoobInDisguise Requiem Patches
+    - https://mega.nz/#F!s98CDCQJ!jM0JNxz0hcOaEcSVzOY5kQ?0g8lyI5A # Requiem 1.9.4.1 SSE conversion
