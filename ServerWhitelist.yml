@@ -24,6 +24,12 @@ GoogleIDs:
     
     # NOISE files
     - 1uogcJegA-WdOJ7Md-VpHYQJbHAgPF3fj # NOISE - Distant Land Files
+    
+    # Lively Noise Fork files
+    - 1clLHg4f2bz-KEd4PAb-pnj5POwabT_Mt # SSELODGen_Output
+    - 1sRpvxVuboJnnBU1vznsHavAHkqq6SjJJ # TexGen Output
+    - 1XhNZLct4AC-BFFOqiGmmC6ukK80K3zHr # DynDOLOD Output
+    - 15Ogff5Fyu5agMDTU8C-CUKW79MHbZRf1 # Lodgen Occlusion
         
 AllowedPrefixes:
     # Common Sites
