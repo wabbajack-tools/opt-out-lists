@@ -20,8 +20,10 @@ GoogleIDs:
     - 1DdtJzHdgsVqN2lnbp1tuMacIsUUu8mTv # Lexy's LOTD Replacer Files
     - 1jDmDiKQiBd-VYItiGPC6AkBPFwqgOIQV # Lexy's LOTD Finishing Line Files
     
-    # TAF Requiem files
+    # Total Skyrim Overhaul files
     - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
+    - 1JHe1KPX0vI5Sivlcezt05_OZ7gyAt7bE # Bodyslide Output
+    - 1EfLJtGEVGnIJM98_aSjDLHX1-y9Ck-EO # Lod Files
     
     # NOISE files
     - 1uogcJegA-WdOJ7Md-VpHYQJbHAgPF3fj # NOISE - Distant Land Files
@@ -103,8 +105,3 @@ AllowedPrefixes:
     - https://mega.nz/#!zNF1XIjQ!9YgmmL5khCY-irDVpupjp8pJFERCa5ksAqm-a8UY3yU # Post-Install files
     - https://mega.nz/#!SANlQY7R!deorWwQBDDw4GoHYfJ-7NJVOWQ1U-KsoH1HrdG4PFaI # DynDOLOD Resources
     - https://www.ultimateskyrim.com/s/Custom-Snowfall-ENB-Files.rar # Custom ENB files
-    
-    # TAF Requiem Files
-    - http://www.mediafire.com/file/1dl687e7t33nh1x/HDT-SMP_Plugins_1.5.80.7z/file # HDT-SMP Plugin
-    - https://mega.nz/#F!s98CDCQJ!jM0JNxz0hcOaEcSVzOY5kQ?0g8lyI5A # Requiem 1.9.4.1 SSE conversion
-    - http://www.everplanet.tk/SkyrimSSE/Requiem_v1.9/Requiem_v1.9.4.1_FULL_FOMOD_INSTALL.zip # Alternate Requiem 1.9.4.1 SSE Conversion
