@@ -126,6 +126,9 @@ AllowedPrefixes:
     
     # Pierre Files
     - https://mega.nz/#!EgFQHaoK!zIJW7tlTYW_DCef3LI21Mogj6T7WipVk-GLBpdYeAas # Simple Children USSEP Fix
+    - 1KArhySRfhdqkHfCpnLaFgi-VdrzyPKLX # TexGen Output
+    - 1aTlZJ5jjuHZW_-cDNXvYS9Y9S1cVK0vv # DynDOLOD Output
+    
     
     # MO2 dev builds
     - https://www.dropbox.com/s/ff1nsrh9ezajsgl/Mod.Organizer-2.2.2rc7.7z?dl=1 # 2.2.2 RC7      
