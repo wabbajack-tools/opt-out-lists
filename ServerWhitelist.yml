@@ -49,21 +49,25 @@ GoogleIDs:
     - 1aTlZJ5jjuHZW_-cDNXvYS9Y9S1cVK0vv # DynDOLOD Output
         
 AllowedPrefixes:
+    # Script Extenders for Bethesda Games
+    - https://f4se.silverlock.org/  # FO4 Script Extender
+    - http://nvse.silverlock.org/   # New Vegas Script Extender
+    - http://obse.silverlock.org/   # Oblivion Script Extender
+    - https://obse.silverlock.org/  # Oblivion Script Extender
+    - https://skse.silverlock.org/  # Skyrim Script Extender
+    - http://skse.silverlock.org/   # Skyrim Script Extender
+    
     # Common Sites
-    - https://skse.silverlock.org/
-    - http://skse.silverlock.org/
-    - https://f4se.silverlock.org/
     - http://enbseries.enbdev.com/
     - http://enbdev.com/
     - https://github.com/
     - https://www.moddb.com/
     - https://3dnpc.files.wordpress.com/
     - https://lotdplus.com/
-    - http://nvse.silverlock.org/ # New Vegas Script Extender
     - https://cdn.bethsoft.com/ # Bethesda tools
 
     # Common files
-    - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip
+    - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
     - https://mega.nz/#!RVxiWBYA!Uipp7y8vwpPvyRnNRyHoLVT3wFjIEbIdmouMqfsQm60 # SSE-Terrain-Tamriel.esm
     - https://mega.nz/#!uocRkAYQ!9xktCGw-757oJ-JEroAZBhsl6tKmjwBp6Vjw7Jdu8pM # Skyrim_Particle_Patch_for_ENB-SSE.zip
     - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
@@ -83,13 +87,14 @@ AllowedPrefixes:
     
     - https://mega.nz/#!9JwlDYjK!ZpxPNRgTb5pMJerwowgP-FZJmca1qZfecnpj-46hwEs # DynDOLOD-DLL-SE.1.5.80.7z
     - https://mega.nz/#!BBpADYpA!gOHRMZv6Ncd3uSLGD2BGE5hVeL6049R4QbpXVQcmC5Y # DynDOLOD-DLL-VR.1.4.15.7z
-    - https://mega.nz/#!K4dEAa4S!rrg78Fck-0QL-bcyHt9sPxJOat9ZA5Fau0JJEPiXGvY
-    - https://archive.org/download/Wyrmstooth1.17B/Wyrmstooth%201.17B.zip # Wrymstooth 1.17B
+    - https://mega.nz/#!K4dEAa4S!rrg78Fck-0QL-bcyHt9sPxJOat9ZA5Fau0JJEPiXGvY # Creation Kit 1.5.3
+    - https://archive.org/download/Wyrmstooth1.17B/Wyrmstooth%201.17B.zip    # Wrymstooth 1.17B
     - https://mega.nz/#!210REASY!YX-EBJs656xjtTLcWHrYKoUZGeAsfZH2dRw-HCHs4JM # Skyrim Particle Patch for ENB LE
     - https://mega.nz/#!C5URxZgZ!POqE1rSektbubtL9z58k4yFr5_MP4aBDZBIYHfl5UKc # Skyrim Subsurface Scattering Patch for ENB LE
     
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
+    - http://download1523.mediafire.com/7w3ri4nuv6lg/r251peo5b4cuw3i/Maxim+Hair+Pack+Newsea.7z # Maxim Hair Pack Newsea
 
     # Skyrim VR
     - https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI # VR Visual Enhancements
