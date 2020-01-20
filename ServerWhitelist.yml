@@ -16,13 +16,6 @@ GoogleIDs:
     - 1UecVzTiVnTpkL18QtprLPLcSoApLAq3J # FNVLODGen_Output.7z
     - 1mvgmXs_VV_sqWc9xQeIvff8wlwdMDK00 # VRIK V0.8.1 In-Dev Build 4.7z
     - 12wP2DkkZu9v9-Of5AMq425sIADEZ9nq_ # Merge Plugin Hide
-   
-    # Unofficial Lexy LOTD patches & files
-    - 1Xs7ghzlDZ4OXucye92OjhWDRvJZmbHZq # Lexy's LOTD Replacer Files
-    - 1E0pIqzRlP-ucAfO9na-0rZfCn3Y0CyQ9 # Lexy's LOTD Finishing Line Files
-    - 1BdtnhzFJTLh0ZIQuvFPJUJtazVYeVrm7 # xLODGen Output
-    - 1q_U2A1I4KEk7YYwA52rCGgLMJRzEensN # TexGen Output
-    - 1h_5tKRq5NuHJ-jH0kEL8mgtRTBDt8Sfp # DynDOLOD Output
     
     # Total Skyrim Overhaul files
     - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
@@ -142,4 +135,8 @@ AllowedPrefixes:
     - https://mega.nz/#!EgFQHaoK!zIJW7tlTYW_DCef3LI21Mogj6T7WipVk-GLBpdYeAas # Simple Children USSEP Fix
     
     # MO2 dev builds
-    - https://www.dropbox.com/s/ff1nsrh9ezajsgl/Mod.Organizer-2.2.2rc7.7z?dl=1 # 2.2.2 RC7      
+    - https://www.dropbox.com/s/ff1nsrh9ezajsgl/Mod.Organizer-2.2.2rc7.7z?dl=1 # 2.2.2 RC7
+    
+    # Unofficial Lexy LOTD patches & files
+    - https://mega.nz/#!FYslkC7Z!lNHJstUcUy9_ySCwNll45ZU7QC3Lzy8cKP6CQHBOYj0 # Lexy's LOTD Replacer Files
+    - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Finishing Line Files
