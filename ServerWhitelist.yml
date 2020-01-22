@@ -46,6 +46,8 @@ GoogleIDs:
         
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
+    - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
+    
     # Script Extenders for Bethesda Games
     - https://f4se.silverlock.org/  # FO4 Script Extender
     - http://nvse.silverlock.org/   # New Vegas Script Extender
