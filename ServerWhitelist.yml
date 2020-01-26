@@ -16,6 +16,7 @@ GoogleIDs:
     - 1UecVzTiVnTpkL18QtprLPLcSoApLAq3J # FNVLODGen_Output.7z
     - 1mvgmXs_VV_sqWc9xQeIvff8wlwdMDK00 # VRIK V0.8.1 In-Dev Build 4.7z
     - 12wP2DkkZu9v9-Of5AMq425sIADEZ9nq_ # Merge Plugin Hide
+    - 12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw # Particle Patch SE (16/01/2020)
     
     # Total Skyrim Overhaul files
     - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
@@ -27,6 +28,11 @@ GoogleIDs:
     - https://mega.nz/#!XzBVDYSJ!fSmNYRs66gz-jMoytOW6gdiVDZvgBwXH0ER4ptmBluw # NOISE - xLODGEN Output
     - https://mega.nz/#!37IhAaDa!70aZrBQskexef1XEjUZHHI8qaOwYidEGQE-MH_1-M2s # NOISE - TexGen Output
     - https://mega.nz/#!bqQnnAZY!74oiLZSP16ytjTceo1KFrvvvRwqIvPK7p9BayjUP_JI # NOISE - DynDOLOD Output
+    
+    # Helidoc65 NOISE Fork files
+    - 1njsamTJxxtvojbJk7PrRHCuoxXoK4m-d # NOISE - xLODGEN Output
+    - 1nlJ4SWCw8-Eox1J8tErS3x4p1yVYGwrz # NOISE - TexGen Output
+    - 1trq-KUEe-F64tm6DUQ2BebT35dTqpzny # NOISE - DynDOLOD Output
     
     # Lively Noise Fork files
     - 1qSpGlt5foXkp776m0UOb3qHtu1A2Ry_M # LODGen_Output
@@ -47,7 +53,14 @@ GoogleIDs:
     # Keizaal
     - 1KArhySRfhdqkHfCpnLaFgi-VdrzyPKLX # TexGen Output
     - 1aTlZJ5jjuHZW_-cDNXvYS9Y9S1cVK0vv # DynDOLOD Output
-        
+    
+    # Living Skyrim (FogottenGlory)
+    - 1otaVdyXCffjpm-yQBEwzN-O4a7cgnxuV # xLODGEN Occlusion
+    - 133kfcHIh13jvQ6m5ik4yK5msDYNTkr28 # TexGen Output
+    - 1_UkxHpduyCYYIX6lp_4DizigHnrVzqmK # SSELODGen
+    - 1jHXyfyjGyHyNuKtUbAZFm4a74FEoTw0V # DynDOLOD Output
+    - 1v20cZX9qy1V1RSKS4JyK-uw7tyq8wKlH # BodySlideOutfit Studio - Overwrite 
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
