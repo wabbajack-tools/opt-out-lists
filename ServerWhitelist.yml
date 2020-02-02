@@ -18,6 +18,7 @@ GoogleIDs:
     - 13-T6k9KUvpAhXuw0h_F4I4HsWwqRQyPq # VRIK V0.8.1 In-Dev Build 15.7z
     - 12wP2DkkZu9v9-Of5AMq425sIADEZ9nq_ # Merge Plugin Hide
     - 12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw # Particle Patch SE (16/01/2020)
+    - 12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk # Improved Camera Beta 4 for Skyrim SE
     
     # Total Skyrim Overhaul files
     - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
@@ -158,5 +159,8 @@ AllowedPrefixes:
     - https://www.dropbox.com/s/ff1nsrh9ezajsgl/Mod.Organizer-2.2.2rc7.7z?dl=1 # 2.2.2 RC7
     
     # Unofficial Lexy LOTD patches & files
-    - https://mega.nz/#!FYslkC7Z!lNHJstUcUy9_ySCwNll45ZU7QC3Lzy8cKP6CQHBOYj0 # Lexy's LOTD Replacer Files
-    - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Finishing Line Files
+    - https://mega.nz/#!FYslkC7Z!lNHJstUcUy9_ySCwNll45ZU7QC3Lzy8cKP6CQHBOYj0 # xLODGEN Output
+    - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
+
+    # trawzifieds LOTD
+    - https://mega.nz/#!ghAWiQbD!PIq-mZN3Y3i6k2ounsPt41CZ6hqEMKvsWnMsuFSFrZg # trawzifieds Finishing Line Files
