@@ -37,10 +37,6 @@ GoogleIDs:
     - 1O80DHOiEYYtoy21YmQ-r3-A4RPq7_8Tc # DynDOLOD Output
     - 16WB71Xg0KKQpArdcs4IJyMYxfDvU4dNX # Lodgen Occlusion
     
-    # Phoenix Flavour Temp Lod Files
-    - 1gYj7FLCZiJviYEvyNiO5TUyy-KsKbO3T # Dyndolod Output
-    - 1vRPzP6R2ZebeOSxMDGBy-NpdFMCO-6_H # Texgen Output
-    
     # Wabbajack theme by erri120
     - 1rxVN9DYECtHZvKnbVhx74LlWBDZesOQ7
     
@@ -57,6 +53,9 @@ GoogleIDs:
     - 1_UkxHpduyCYYIX6lp_4DizigHnrVzqmK # SSELODGen
     - 1jHXyfyjGyHyNuKtUbAZFm4a74FEoTw0V # DynDOLOD Output
     - 1v20cZX9qy1V1RSKS4JyK-uw7tyq8wKlH # BodySlideOutfit Studio - Overwrite 
+    
+    # RoH - GAT Edition
+    - 0B2VgBVA9jE6RaFNyZURxa3JXUjQ # The Ultimate Dodge Mod
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
@@ -168,4 +167,3 @@ AllowedPrefixes:
     # RoH - GAT Edition
     - http://download946.mediafire.com/76k1v25ptnbg/tgnr65718bx82er/Danika+the+Warrior+Woman+SE.7z  # Danika the Warrior Woman
     - https://mega.nz/#!hw5CCIQA!KkuyqmRXUD_thmsy_TQ2dHZbJFK0GY-UiGm7TQ_IWpk # CGO zEdit Patcher
-    - 0B2VgBVA9jE6RaFNyZURxa3JXUjQ # The Ultimate Dodge Mod
