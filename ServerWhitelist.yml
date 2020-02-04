@@ -40,9 +40,6 @@ GoogleIDs:
     # Wabbajack theme by erri120
     - 1rxVN9DYECtHZvKnbVhx74LlWBDZesOQ7
     
-    #Descendants of Akatosh files (Nathan WIP thing)
-    - https://www.dropbox.com/s/n094x8x2o309k75/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0
-    
     # Keizaal
     - 1KArhySRfhdqkHfCpnLaFgi-VdrzyPKLX # TexGen Output
     - 1aTlZJ5jjuHZW_-cDNXvYS9Y9S1cVK0vv # DynDOLOD Output
@@ -163,6 +160,9 @@ AllowedPrefixes:
 
     # trawzifieds LOTD
     - https://mega.nz/#!ghAWiQbD!PIq-mZN3Y3i6k2ounsPt41CZ6hqEMKvsWnMsuFSFrZg # trawzifieds Finishing Line Files
+    
+    # Descendants of Akatosh files (Nathan WIP thing)
+    - https://www.dropbox.com/s/n094x8x2o309k75/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0
 
     # RoH - GAT Edition
     - http://download946.mediafire.com/76k1v25ptnbg/tgnr65718bx82er/Danika+the+Warrior+Woman+SE.7z  # Danika the Warrior Woman
