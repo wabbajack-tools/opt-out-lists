@@ -160,8 +160,11 @@ AllowedPrefixes:
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
 
     # trawzifieds LOTD
-    - https://mega.nz/#!ghAWiQbD!PIq-mZN3Y3i6k2ounsPt41CZ6hqEMKvsWnMsuFSFrZg # trawzifieds Finishing Line Files
-    
+
+    - https://mega.nz/#!Ns5xjarZ!D5QkhcCT02-Z1kOQANM7MFV21hf9glz8oapVnkojnbM # xLODGen Output
+    - https://mega.nz/#!l1x3GSxI!GIgRRedkjr4vUhEWHyu7fR5nPn_qkeAE4z2uWgczvYo # TexGen Output
+    - https://mega.nz/#!ExgHnIgA!EYFhLwUB2lkkzqI-1cPQ2RX6gdMNY8tTyw_fSo5Moo0 # DynDOLOD Output
+
     # Descendants of Akatosh files (Nathan WIP thing)
     - https://www.dropbox.com/s/n094x8x2o309k75/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0
 
