@@ -37,15 +37,8 @@ GoogleIDs:
     - 1O80DHOiEYYtoy21YmQ-r3-A4RPq7_8Tc # DynDOLOD Output
     - 16WB71Xg0KKQpArdcs4IJyMYxfDvU4dNX # Lodgen Occlusion
     
-    # Phoenix Flavour Temp Lod Files
-    - 1gYj7FLCZiJviYEvyNiO5TUyy-KsKbO3T # Dyndolod Output
-    - 1vRPzP6R2ZebeOSxMDGBy-NpdFMCO-6_H # Texgen Output
-    
     # Wabbajack theme by erri120
     - 1rxVN9DYECtHZvKnbVhx74LlWBDZesOQ7
-    
-    #Descendants of Akatosh files (Nathan WIP thing)
-    - https://www.dropbox.com/s/n094x8x2o309k75/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0
     
     # Keizaal
     - 1KArhySRfhdqkHfCpnLaFgi-VdrzyPKLX # TexGen Output
@@ -57,6 +50,9 @@ GoogleIDs:
     - 1_UkxHpduyCYYIX6lp_4DizigHnrVzqmK # SSELODGen
     - 1jHXyfyjGyHyNuKtUbAZFm4a74FEoTw0V # DynDOLOD Output
     - 1v20cZX9qy1V1RSKS4JyK-uw7tyq8wKlH # BodySlideOutfit Studio - Overwrite 
+    
+    # RoH - GAT Edition
+    - 0B2VgBVA9jE6RaFNyZURxa3JXUjQ # The Ultimate Dodge Mod
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
@@ -83,6 +79,7 @@ AllowedPrefixes:
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
     - https://mega.nz/#!RVxiWBYA!Uipp7y8vwpPvyRnNRyHoLVT3wFjIEbIdmouMqfsQm60 # SSE-Terrain-Tamriel.esm
     - https://mega.nz/#!r0Ei1QwB!wqSFfjiHywamVGdERbq_iKKudShZ5Om_7WDbAlwrdvU # Skyrim_Particle_Patch_for_ENB-SSE.zip
+    - https://mega.nz/#!qgcAAaYR!mHmS5Rkylq-XiOUVQOFQOPfXTFYn55lmF0BdLWLaKWk # Skyrim_HighPoly_Fern_Meshes-SSE.zip
     - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
     - https://mega.nz/#!AUx0jCAZ!ErV9kZkwAOTJsQV8cO7UGNsK-AP-SbSPVrE-rdfnaHA # xLODGen.51.7z
     - https://mega.nz/#!IZpyTIjA!LxbZLytZwxpzSeboiYm8InI77mlvrnpGysYz7ajcinM # xLODGen.55.7z
@@ -105,7 +102,7 @@ AllowedPrefixes:
     - https://mega.nz/#!JYgUDCCK!hgUAmavw2NUtYxQf8HfDuIOQNdX7hF_Vwbe8iDc6E0w # DynDOLOD-Scripts.7z For Skyrim VR
     - https://mega.nz/#!14olzQZa!YStuCzNaLC5_r7xKqwRXb5J-dlzs7jFe8WsKqm_f_sk # Wrye Bash Nightly 307.201912272350
     
-    - https://mega.nz/#!9JwlDYjK!ZpxPNRgTb5pMJerwowgP-FZJmca1qZfecnpj-46hwEs # DynDOLOD-DLL-SE.1.5.80.7z
+    - https://mega.nz/#!0VQ3jC7S!VmTf4nIqunv2GL9Zvh7lLWefJnc2kX4ZUWi42mjc6LE # DynDOLOD-DLL-SE.1.5.97.7z
     - https://mega.nz/#!BBpADYpA!gOHRMZv6Ncd3uSLGD2BGE5hVeL6049R4QbpXVQcmC5Y # DynDOLOD-DLL-VR.1.4.15.7z
     - https://mega.nz/#!K4dEAa4S!rrg78Fck-0QL-bcyHt9sPxJOat9ZA5Fau0JJEPiXGvY # Creation Kit 1.5.3
     - https://archive.org/download/Wyrmstooth1.17B/Wyrmstooth%201.17B.zip    # Wrymstooth 1.17B
@@ -163,6 +160,14 @@ AllowedPrefixes:
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
 
     # trawzifieds LOTD
+
     - https://mega.nz/#!Ns5xjarZ!D5QkhcCT02-Z1kOQANM7MFV21hf9glz8oapVnkojnbM # xLODGen Output
     - https://mega.nz/#!l1x3GSxI!GIgRRedkjr4vUhEWHyu7fR5nPn_qkeAE4z2uWgczvYo # TexGen Output
     - https://mega.nz/#!ExgHnIgA!EYFhLwUB2lkkzqI-1cPQ2RX6gdMNY8tTyw_fSo5Moo0 # DynDOLOD Output
+
+    # Descendants of Akatosh files (Nathan WIP thing)
+    - https://www.dropbox.com/s/n094x8x2o309k75/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0
+
+    # RoH - GAT Edition
+    - http://download946.mediafire.com/76k1v25ptnbg/tgnr65718bx82er/Danika+the+Warrior+Woman+SE.7z  # Danika the Warrior Woman
+    - https://mega.nz/#!hw5CCIQA!KkuyqmRXUD_thmsy_TQ2dHZbJFK0GY-UiGm7TQ_IWpk # CGO zEdit Patcher
