@@ -31,12 +31,6 @@ GoogleIDs:
     - 1KkkN-WlydFoXCraTozze_HYJVN4AkW8N # NOISE - TexGen Output
     - 1WlwbBYnjuawhf-77k909lK6awRBZyjNm # NOISE - DynDOLOD Output
     
-    # Lively Noise Fork files
-    - 1qSpGlt5foXkp776m0UOb3qHtu1A2Ry_M # LODGen_Output
-    - 1UMbI9pI_gvt8z5xB70DGUMw3NSF44Idt # TexGen_Output
-    - 1O80DHOiEYYtoy21YmQ-r3-A4RPq7_8Tc # DynDOLOD Output
-    - 16WB71Xg0KKQpArdcs4IJyMYxfDvU4dNX # Lodgen Occlusion
-    
     # Wabbajack theme by erri120
     - 1rxVN9DYECtHZvKnbVhx74LlWBDZesOQ7
     
@@ -188,6 +182,6 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=32912602&i=4973356 # SexLab Defeat Addon by BakaFactory 1.01V
     - https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y # AmorousAdventures 3.4 SE
     - https://www.loverslab.com/applications/core/interface/file/attachment.php?id=656802 # see issue 519 on the main repo
-
+    
     # Wojo
     - http://www.lostspires.com/misc/thelostspiresv14.zip # Lost Spires
