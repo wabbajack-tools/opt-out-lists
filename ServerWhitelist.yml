@@ -56,6 +56,11 @@ GoogleIDs:
     - 1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G # SexLab Aroused Redux V28b Modified by BakaFactory
     - 1z5PpyfEk8_wxOQOuiWz08WMx_K_6X2YR # [SE] 9204 The Witcher Caranthir by Rektas, Team TAL
     
+    # Wojo Oblivion Files
+    - 1E93rBXxorwjCzfYuqMSRrPE11Gw5agsO # Meshes, LOD, and trees for The Living And The Dead
+    - 14ibm_WU0zVVmtPxmQwQCmW2QQ3Z3d_0P # Music, sound, and video for The Living And The Dead
+    - 1mwC8-_lDReee79l6OP_Ff2Gx4lG-rnl1 # Textures for The Living And The Dead
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -183,3 +188,7 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=32912602&i=4973356 # SexLab Defeat Addon by BakaFactory 1.01V
     - https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y # AmorousAdventures 3.4 SE
     - https://www.loverslab.com/applications/core/interface/file/attachment.php?id=656802 # see issue 519 on the main repo
+
+    # Wojo Oblivion Files
+    - https://www.moddb.com/downloads/mirror/148021/123/51290c016468c11f2523b103c56c971a/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fthe-heart-of-the-dead # The Heart of the Dead 6.0
+    - https://www.moddb.com/downloads/mirror/148020/123/86194449389274b7ce5f7e5b42ee96e7/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fthe-heart-of-the-dead # The Heart of the Dead 6.1 patch
