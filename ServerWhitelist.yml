@@ -55,6 +55,12 @@ GoogleIDs:
     - 14ibm_WU0zVVmtPxmQwQCmW2QQ3Z3d_0P # Music, sound, and video for The Living And The Dead
     - 1mwC8-_lDReee79l6OP_Ff2Gx4lG-rnl1 # Textures for The Living And The Dead
     
+    # NOIR files
+    - 1ayBTGapzSqlCVxSHT_Mqe6Won8r9miDY # NOIR - xLODGEN Output
+    - 1CnuzWIPE7QRPJO1XX5gVATEd5jURXzon # NOIR - TexGen Output
+    - 14ylkuPWnqDzceK2yUIcoKG_6pcEz2YnI # NOIR - DynDOLOD Output
+    - 1k1uvMs4JEeWtzT7cqnUGDbh52XablPA3 # Requiem - Dragonborn Patch (from LL)
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
