@@ -134,9 +134,6 @@ AllowedPrefixes:
     - http://modsreloaded.com/file1659.html # Simple_Street_Lights_v1_1
     - http://download2134.mediafire.com/qd4svkwtzlbg/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z # Spice of Life Vanilla v1-5
     - https://3dnpc.files.wordpress.com/2015/07/fallout-nv-mods-the-blue-note-v0-02.zip # The Blue Note
-    - https://drive.google.com/uc?export=download&id=1p9SZSutr-nEeynf0VcSH2H5NC3Jq_HT0 # Yukichigai Gameplay Tweaks
-    - https://github.com/maletsna/xSE/releases/download/1.2/Unnecessary.Tweaks.1.2.7z # Unnecessary Tweaks
-    - https://github.com/maletsna/xSE/releases/download/1.2/Unnecessary.Tweaks.INI.7z # Unnecessary Tweaks
     - https://drive.google.com/uc?export=download&id=1e5h0kBmMFSkQ0JJwpm_plJwyPhFH0YRE # MCM Matches HUD Color
     - https://drive.google.com/uc?export=download&id=1n4eYVGJsIb-iQhMDcueHBffsW8FAMNsx # ETL - Terrain LOD Noise
     - https://drive.google.com/uc?export=download&id=1IxFAshbcPrTAIN8Sz01_rDNpM7uc2WHp # Ojo Bueno Securitrons
@@ -145,6 +142,7 @@ AllowedPrefixes:
     - https://www.moddb.com/addons/start/171596?referer=https%3A%2F%2Fvivanewvegas.github.io%2Fhuduivui%2B.html # Vanilla_UI_Plus_Remastered_Patch_1.83h
     - https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2Fdownloads # Vanilla_UI_Plus_New_Vegas_8.29
     - https://github.com/Audixas/No-Traps-Popup/releases/download/1.2/No_Traps_Popup-66714-1-2-1564766664.7z # No_Traps_Popup
+    - https://drive.google.com/uc?export=download&id=1ObrLuKDDRyPpNMihsuzDqqLNvSWn76M_ # Lore Friendly Armor Pack
     
     # Ultimate Skyrim Files
     - https://mega.nz/#!SEFkRIBa!Q15HlAtUYmIw8dBoMk5voLMXBI_oOtCNmAX0L9puxUc # .ini files
