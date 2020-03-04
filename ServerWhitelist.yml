@@ -151,9 +151,6 @@ AllowedPrefixes:
     # Keizaal
     - https://mega.nz/#!EgFQHaoK!zIJW7tlTYW_DCef3LI21Mogj6T7WipVk-GLBpdYeAas # Simple Children USSEP Fix
     
-    # MO2 dev builds
-    - https://www.dropbox.com/s/ff1nsrh9ezajsgl/Mod.Organizer-2.2.2rc7.7z?dl=1 # 2.2.2 RC7
-    
     # Unofficial Lexy LOTD patches & files
     - https://mega.nz/#!ZNUXhQzS!KjJJlbD0qedjVjDbaFmqENS4tYLO4z5XaCXx73xYC-w # Finishing Line Files
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
@@ -186,6 +183,7 @@ AllowedPrefixes:
     - https://mega.nz/#!rOAExQTa!7j72ccNTtSa6WM4W0Y0-blHNiEpLU80cbzAai6MF1GE # Minidress CBBE 3BBB Conversion by Nechrion#0145
     - https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A # HG Hairdos
     - https://mega.nz/#!LZFyGATK!iudVvbtdeBJpIronLHgaHgDBZIHyiJCUTwpT4VqsaqE # Thief 0.95.57 ENG
+    - https://mega.nz/#!PFl3WCgS!5FibzQbDviv-UW0tNXeSmRAGAe1EP_JljshfSocOba0 # Mod.Organizer-2.3.0alpha6.1
     
     # Wojo
     - http://www.lostspires.com/misc/thelostspiresv14.zip # Lost Spires
