@@ -66,6 +66,11 @@ GoogleIDs:
     - 14ylkuPWnqDzceK2yUIcoKG_6pcEz2YnI # NOIR - DynDOLOD Output
     - 1k1uvMs4JEeWtzT7cqnUGDbh52XablPA3 # Requiem - Dragonborn Patch (from LL)
     
+    # SkyRem - Unofficial (Testing)
+    - 1BheUkFf89sfHraXBsi0Gt3fOK_cn6hwG # DynDOLOD
+    - 1OkZ-hNDlE9MxzjC_J-uPEc01wAJ8r2WL # LODGen
+    - 1VOdlo87w-H6xrPjqqg7oNCp4ldJzhHn- # TexGen
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -219,8 +224,3 @@ AllowedPrefixes:
     - https://mega.nz/#!FKwRhDgI!Zq5iT9C0FoCqAfeZARjt1dzZx7SzmvVHZ2nbHCb6EY4 # LODGen
     - https://mega.nz/#!0ahXWDjR!7ik6mmrXN5YvA1G8hiBUxX7wA7vnK_Rev9YprR_zItM # TexGen
     - https://mega.nz/#!QHglgbIC!39QndN01erNG_uItE73Eby8OQcCN-O866JWu2xxrVKs # Occlusion
-    
-    # SkyRem - Unofficial (Testing)
-    - https://mega.nz/file/8ZoQXSJK#q7VnwioQ8BQ_XMnF31IgFT8pQK0hVgQ7MgY7ygZZLME # DynDOLOD
-    - https://mega.nz/file/scpCSawa#yrS8UPAeh2hCEpJeSTZZ2KQHmcP4rnHOzGt03faBTR8 # LODGen
-    - https://mega.nz/file/UF5kAQqR#nqMhFZbpJfLTNAoep5hhQRCTRjVPFd8-k8yCfhu0kxA # TexGen
