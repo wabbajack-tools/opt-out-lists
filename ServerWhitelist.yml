@@ -10,9 +10,6 @@ GoogleIDs:
     - 1pP0Rw_1RfFAC4jYYlY7hPFBaaxSXaxKs # MTUI Dialogue Background (VUI+ Version)
     - 1n4eYVGJsIb-iQhMDcueHBffsW8FAMNsx # ETL - Terrain LOD Noise
     - 1dZTW1CU7k0BeKIEWhBMW_dWrAQPbRxHd # NVR1.3.0
-    - 1koW6d7doH3gZzio2Xgy38LH8Et97oSNu # Oblivion: Hackdirt Alive Fix
-    - 1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2 # Oblivion: Kvatch GF / Devastation Patch
-    - 1lNQXFEkvZHzM_UKtlMgTTlVeLqsvlYpt # Oblivion: Oblivion Reloaded 7.0
     - 1ObrLuKDDRyPpNMihsuzDqqLNvSWn76M_ # Lore Friendly Armor Pack
     - 1mvgmXs_VV_sqWc9xQeIvff8wlwdMDK00 # VRIK V0.8.1 In-Dev Build 4.7z
     - 13-T6k9KUvpAhXuw0h_F4I4HsWwqRQyPq # VRIK V0.8.1 In-Dev Build 15.7z
@@ -54,6 +51,12 @@ GoogleIDs:
     # Lotus
     - 1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G # SexLab Aroused Redux V28b Modified by BakaFactory
     - 1z5PpyfEk8_wxOQOuiWz08WMx_K_6X2YR # [SE] 9204 The Witcher Caranthir by Rektas, Team TAL
+    
+    # Bevilex files
+    - 16xoabvyuMXIV6x_HR3NjZZW8zsfUkgfA # Oblivion Reloaded 7.0 PRESET
+    - 1koW6d7doH3gZzio2Xgy38LH8Et97oSNu # Hackdirt Alive Fix
+    - 1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2 # Kvatch GF / Devastation Patch
+    - 1lNQXFEkvZHzM_UKtlMgTTlVeLqsvlYpt # Oblivion Reloaded 7.0
     
     # Wojo Oblivion Files
     - 1Pw55xFC-8Nr53Mb-zlRSi8tUgrb1JEeC # Optimized Oblivion Assets
