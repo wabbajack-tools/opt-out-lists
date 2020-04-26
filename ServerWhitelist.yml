@@ -76,6 +76,9 @@ GoogleIDs:
     - 1BheUkFf89sfHraXBsi0Gt3fOK_cn6hwG # DynDOLOD
     - 1OkZ-hNDlE9MxzjC_J-uPEc01wAJ8r2WL # LODGen
     - 1VOdlo87w-H6xrPjqqg7oNCp4ldJzhHn- # TexGen
+
+    # Cupid
+    - 1rLyr7jk1PDiGW6cwFAMPVPSkT3hhslyc # DynDOLOD Output
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
@@ -232,3 +235,8 @@ AllowedPrefixes:
     - http://mw.modhistory.com/file.php?id=15577 # Traveling Merchants
     - https://download.fliggerty.com/file.php?id=874 # Westly's Pluginless Head and Hair Replacer
     - http://download.fliggerty.com/file.php?id=1175 # Ald Redaynia
+
+    # Cupid
+    - http://download912.mediafire.com/ov0hjcpya4ng/q8uvt66g2ey6plk/GomaPeroLand+SE+V6.7z # GomaPeroLand SE V6
+    - http://download2230.mediafire.com/emidp2mqhewg/m8tweucxev95rsx/Aether+Suite+SE.7z # Aether Suite SE
+    - http://download1586.mediafire.com/v90oftyat62g/crgx6aoa9zna0wg/Heels+Sound++1.5+SSE.7z # Heels Sound 1.5 SSE
