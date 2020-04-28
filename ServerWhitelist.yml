@@ -239,6 +239,6 @@ AllowedPrefixes:
     - http://download.fliggerty.com/file.php?id=1175 # Ald Redaynia
 
     # Cupid
-    - http://www.mediafire.com/file/q8uvt66g2ey6plk/GomaPeroLand_SE_V6.7z/file # GomaPeroLand SE V6
-    - http://www.mediafire.com/file/m8tweucxev95rsx/Aether_Suite_SE.7z/file # Aether Suite SE
+    - http://www.mediafire.com/file/q8uvt66g2ey6plk/GomaPeroLand_SE_V6.7z # GomaPeroLand SE V6
+    - http://www.mediafire.com/file/m8tweucxev95rsx/Aether_Suite_SE.7z # Aether Suite SE
     
