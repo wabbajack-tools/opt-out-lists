@@ -80,6 +80,14 @@ GoogleIDs:
     # Cupid
     - 1TTMVtKnz8uh0AdVF8wNH2GVnpe8Li46x # DynDOLOD Output
     
+    # LBS Files
+    - 1tsz7YgPBSuQ5J5Rjajk4uoRmF8LXQwOW # LODGen Objects
+    - 1BI3pvWP8adfr621oEYlrr61F1aUhjt9X # LODGen Terrain
+    - 1NiFq1Uiye8F_w7euzby8gAlsx9XLKfZT # TexGen
+    - 1d55Xhnbs41Pk7Jz0vDfl7MKp8tZLsant # DynDOLOD
+    - 1hLBDixc9WginI5c8usibRO_SlWaMOHeU # Relic Hunter BodySlide
+    - 1ut27HDenOPZUWSFPjRRg46CtDl3GROsv # Dwemer & Soulgem
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
