@@ -74,11 +74,6 @@ GoogleIDs:
     - 1CnuzWIPE7QRPJO1XX5gVATEd5jURXzon # NOIR - TexGen Output
     - 14ylkuPWnqDzceK2yUIcoKG_6pcEz2YnI # NOIR - DynDOLOD Output
     - 1k1uvMs4JEeWtzT7cqnUGDbh52XablPA3 # Requiem - Dragonborn Patch (from LL)
-    
-    # SkyRem - Unofficial (Testing)
-    - 1BheUkFf89sfHraXBsi0Gt3fOK_cn6hwG # DynDOLOD
-    - 1OkZ-hNDlE9MxzjC_J-uPEc01wAJ8r2WL # LODGen
-    - 1VOdlo87w-H6xrPjqqg7oNCp4ldJzhHn- # TexGen
 
     # Cupid
     - 1TTMVtKnz8uh0AdVF8wNH2GVnpe8Li46x # DynDOLOD Output
@@ -255,3 +250,6 @@ AllowedPrefixes:
     - https://mega.nz/file/OkpjVDDQ#L5pLwyoXeOMvb6-soCQxH1ISaMQEXIeDA2cR9AkyApk # SSELODGenx64 Objects Output
     - https://mega.nz/file/ukxxTRqA#EIWuKDK83_BCpBPP6BI_lTv1b3ld0ThZ28YHI1u2rnc # SSELODGenx64 Terrain Output
     - https://mega.nz/file/S8oVHBZS#bkuKdJokRamYclJxqoIf7hqLIe1ynG8K0ivd6H62sg4 # TexGenx64 Output
+    
+    # Xanza's LOTD
+    - https://mega.nz/file/sYQihS7b#9UHNmuw-ZhDnvUXC6RL-TaPXRxHHneSJR8cMWnv_7m8 # Finishing Line
