@@ -70,10 +70,9 @@ GoogleIDs:
     - 1gktYkwN5oMexTmrKC_mru-SIYzoQ5KTj # Integration/OCO Patch
     
     # NOIR files
-    - 1ayBTGapzSqlCVxSHT_Mqe6Won8r9miDY # NOIR - xLODGEN Output
-    - 1CnuzWIPE7QRPJO1XX5gVATEd5jURXzon # NOIR - TexGen Output
-    - 14ylkuPWnqDzceK2yUIcoKG_6pcEz2YnI # NOIR - DynDOLOD Output
-    - 1k1uvMs4JEeWtzT7cqnUGDbh52XablPA3 # Requiem - Dragonborn Patch (from LL)
+    - 1bgDTjDH0DN8V5aGF0V9E6yzUzR2E2NeB # NOIR - xLODGEN Output
+    - 1WMsmXJTmD_z8owEQ9R4kO3x0YrrQ7EkR # NOIR - TexGen Output
+    - 1zj28I0IFZN0ksbQJBKC5Tt3510_7jXeN # NOIR - DynDOLOD Output
 
     # Cupid
     - 1TTMVtKnz8uh0AdVF8wNH2GVnpe8Li46x # DynDOLOD Output
@@ -89,6 +88,7 @@ AllowedPrefixes:
     - https://obse.silverlock.org/  # Oblivion Script Extender
     - https://skse.silverlock.org/  # Skyrim Script Extender
     - http://skse.silverlock.org/   # Skyrim Script Extender
+    - http://fose.silverlock.org/   # FO3 Script Extender
     
     # Common Sites
     - http://enbseries.enbdev.com/
