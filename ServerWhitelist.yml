@@ -77,6 +77,9 @@ GoogleIDs:
     # Cupid
     - 1TTMVtKnz8uh0AdVF8wNH2GVnpe8Li46x # DynDOLOD Output
     
+    # Total Visual Overhaul
+    - 1f01Rt0Nxq9EUEZtSssWOvUfM_-91x3yL # TVO Generated Files
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
