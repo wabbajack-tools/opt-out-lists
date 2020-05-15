@@ -258,3 +258,6 @@ AllowedPrefixes:
     
     # Xanza's LOTD
     - https://mega.nz/file/5ZY3yQYJ#uQxDj2jq7feVdHRSTHY6WadnlsxFzsAhLK-eZwsldSs # LODS
+    
+    # Living Skyrim 2.0.0
+    - https://archive.org/download/Wyrmstooth1.17BSSE/Wyrmstooth%201.17B%20SSE.zip # Wyrmstooth 1.17B
