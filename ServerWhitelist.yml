@@ -26,6 +26,7 @@ GoogleIDs:
     - 1lqrFLiarQTCEZK1b21-SOSXtx1OCB0Fh # zEBD Beta 4
     - 1mHhQYvqRalLv07nxWiiaGq_fPCvaYLKx # FNVLODGEN High (VNV)
     - 1F_x0hrWKW7ro3EPRqAi0fuOzgA243OY9 # High Res Colorless Newspaper
+    - 1dGzWmkw8SBOzKVW4V9sxIS1-bMGTBq_I # SkGE v3.0.0
     
     # Total Skyrim Overhaul files
     - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
@@ -150,7 +151,7 @@ AllowedPrefixes:
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
     - http://download1523.mediafire.com/7w3ri4nuv6lg/r251peo5b4cuw3i/Maxim+Hair+Pack+Newsea.7z # Maxim Hair Pack Newsea
-
+    
     # Skyrim VR
     - https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI # VR Visual Enhancements
     - https://mega.nz/#!k4YyGIAC!2wqiBAuzPAXiOjWlVMJz73PPVJcfIlvjd6X2-bJcMis # VR xLOD Files a2.2.0
@@ -189,6 +190,9 @@ AllowedPrefixes:
     # RoH - GAT Edition
     - http://download946.mediafire.com/76k1v25ptnbg/tgnr65718bx82er/Danika+the+Warrior+Woman+SE.7z  # Danika the Warrior Woman
     - https://mega.nz/#!hw5CCIQA!KkuyqmRXUD_thmsy_TQ2dHZbJFK0GY-UiGm7TQ_IWpk # CGO zEdit Patcher
+    
+    # Enderal - My Way
+    - http://download855.mediafire.com/rre35ka0j3dg/4cgr1yeem36rkb9/Animation+Package_2.0.rar # Animation Package 2.0
     
     # Mania
     - https://archive.org/download/extendedencounters1.5sse/Extended%20Encounters%201.5%20SSE.zip # Extended Encounters SSE
