@@ -85,6 +85,10 @@ GoogleIDs:
     # Total Visual Overhaul
     - 1yrtEz2_OWHIkSIKpwi1TaetAWIOee6y5 # TVO Generated Files
     
+    # Serenity
+    - 1hX8Lxy-OOOPVTWGj1IWWLpkUGJk9OXqD # DynDOLOD
+    - 1iHdLTnT9XJeuRt-pScvQr3etZfZh_wMB # xLODGEN
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
