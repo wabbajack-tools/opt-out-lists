@@ -94,6 +94,18 @@ GoogleIDs:
     - 1revQ0ltImBmrmAoOBX5pHRPb3DjIiHPm # DynDOLOD Output
     - 16wRQ_q8_KovlYmAkGO84VkCtweBGOL5r # xLODGEN Output
     
+    # Enderal My Way
+    - 1iy7AywzXE9FNI3eBB1p92fgW-dgF3Xm1 # TeamTal Mueburius
+    - 1zkI2xduR4tVX45NkZI3Pt_6X_UM5zRWe # TeamTal BO HVO201M
+    - 16AeP543vWxaSuX9aRTVfpGhYZQ_z5XTW # TeamTal MBO 006
+    - 1sn6lFJEnpibT7twHjXUDu6CknTQD6V58 # TeamTal BDOR Gierach
+    - 1iMTi114vUM1XWvxseaIHIeK35CFDeW5y # TeamTal MBO 0016
+    - 1TCePH7SsBu2kY3d77HaCFmCFw1ZQ9L1K # TeamTal MBO 0027
+    - 1d5QuAHsX8np_k-cmNbOqrp-elyOoa7Hk # TeamTal MOB 0010
+    - 1PCW3QlbkMt-ybH_KecY3r80QxpILqR-8 # TeamTal BDOR Lemoria
+    - 1ouzM9Ie73h1AjWGCSFdqDe1-a8peZhjs # TeamTal Bless MS 0102
+    - 1NViMFoqkmVVRQA77vYj4NBDTho8gq8Ik # TeamTal Bless MD 0101
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -189,7 +201,6 @@ AllowedPrefixes:
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
 
     # trawzifieds LOTD
-
     - https://mega.nz/#!M0JjSQAQ!dqCGlRthzboffrFQzT083a1d5qr0jZEY_B2Hh1s4U_g # xLODGen Output
     - https://mega.nz/#!clIlgQIJ!2cvE0ICjY6biVe8vI8_o5RPBDPwQFoinhgrsSAzCJs0 # TexGen Output
     - https://mega.nz/#!hsZxVQxR!eYXVFmH-GIZ5kX5QU5hVwbnAZG0ZHvyogsC1gi6SrbE # DynDOLOD Output
@@ -203,6 +214,7 @@ AllowedPrefixes:
     
     # Enderal - My Way
     - http://download855.mediafire.com/dfd7lp0ghiug/4cgr1yeem36rkb9/Animation+Package_2.0.rar # Animation Package 2.0
+    - https://mega.nz/file/cegTSARa#xJTZGpnoZR1DlJMXMIh7FpU8y0JOhWQuPqsIqLEzzwA # TeamTal BDO Complete Pack
     
     # Mania
     - https://archive.org/download/extendedencounters1.5sse/Extended%20Encounters%201.5%20SSE.zip # Extended Encounters SSE
