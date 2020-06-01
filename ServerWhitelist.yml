@@ -89,6 +89,11 @@ GoogleIDs:
     - 1hX8Lxy-OOOPVTWGj1IWWLpkUGJk9OXqD # DynDOLOD
     - 1iHdLTnT9XJeuRt-pScvQr3etZfZh_wMB # xLODGEN
     
+    # Xanza's LOTD
+    - 1m5FloHZlqHJgnb7OABEbW9d9YXuzvenY # AllGUD Output
+    - 1revQ0ltImBmrmAoOBX5pHRPb3DjIiHPm # DynDOLOD Output
+    - 16wRQ_q8_KovlYmAkGO84VkCtweBGOL5r # xLODGEN Output
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
