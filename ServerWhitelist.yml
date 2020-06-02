@@ -106,6 +106,12 @@ GoogleIDs:
     - 1ouzM9Ie73h1AjWGCSFdqDe1-a8peZhjs # TeamTal Bless MS 0102
     - 1NViMFoqkmVVRQA77vYj4NBDTho8gq8Ik # TeamTal Bless MD 0101
     
+    # Wasabi
+    - 1I88yA5NovCSSwNdNcJtsR3NOytYfRbAs # BodySlide Output
+    - 1lIFbqFZMiduGexnnNRxgcw-tpD8jeQ1D # Bodyslide Output 2
+    - 1K2gswgpytqWz602VcpZ8jTUbJ3PPEDG0 # SSELODGen Output
+    - 1jTWILKtzHJodaHk03nUSnyKY7k89u9wT # TexGen Output
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
