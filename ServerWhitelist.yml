@@ -242,3 +242,5 @@ AllowedPrefixes:
     - http://www.mediafire.com/file/q8uvt66g2ey6plk/GomaPeroLand_SE_V6.7z # GomaPeroLand SE V6
     - http://www.mediafire.com/file/m8tweucxev95rsx/Aether_Suite_SE.7z # Aether Suite SE
     
+    # Wyrmstooth LE
+    - https://archive.org/download/wyrmstooth1.18/Wyrmstooth%201.18.zip
