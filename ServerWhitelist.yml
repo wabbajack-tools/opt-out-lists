@@ -106,11 +106,6 @@ GoogleIDs:
     - 1NViMFoqkmVVRQA77vYj4NBDTho8gq8Ik # TeamTal Bless MD 0101
     - 1ndLb2pZA4tmNYEoUa-jS3YBc-SqZE12c # TeamTal Bless HV0102
     
-    # Wasabi
-    - 1I88yA5NovCSSwNdNcJtsR3NOytYfRbAs # BodySlide Output
-    - 1lIFbqFZMiduGexnnNRxgcw-tpD8jeQ1D # Bodyslide Output 2
-    - 1K2gswgpytqWz602VcpZ8jTUbJ3PPEDG0 # SSELODGen Output
-    - 1jTWILKtzHJodaHk03nUSnyKY7k89u9wT # TexGen Output
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
@@ -303,3 +298,9 @@ AllowedPrefixes:
     - https://mega.nz/file/G0wGRC7b#dibuJIP2xB6qf4nfpwp3pYzax3S9WkO1JnoSkjatFYU # DynDOLOD Output
     - https://mega.nz/file/KghAjSzD#Plh_Rn4YlnTD81E9LEV6oI9paLIis3nj5PH3q2um7Ms # TexGen Output
     - https://mega.nz/file/285yGCDa#TvtvV4oYavkfezKs-WoD4nzQSP6ScKj_k-v1uVq_xuw # xLODGen Output
+    
+    # Wasabi
+    - https://mega.nz/file/8VY2VQzC#6tdaoz_Y5xEFkoMO9eEKDv1dcsDD0uMiTsM6p4zOK4g # BodySlide Output
+    - https://mega.nz/file/sNIWUaIC#mxbxs2xIprD_3tDf0K6_tSPeye0Ajvh5R-2Zi8sURbo # Bodyslide Output 2
+    - https://mega.nz/file/QBB0zICS#bWNT6HvOsm7J--ie3LUQuC_X0euHBS15xGm1eT7sfkE # SSELODGen Output
+    - https://mega.nz/file/pQRiFaQY#LRZA0sSL2aJ4ptHuUPQ-pEdveBPoySKWm4yeChP_8Go # TexGen Output
