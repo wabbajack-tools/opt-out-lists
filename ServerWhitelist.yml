@@ -132,6 +132,7 @@ AllowedPrefixes:
     - https://lotdplus.com/
     - https://cdn.bethsoft.com/ # Bethesda tools
     - https://downloads.vectorplexus.com/
+    - http://mw.modhistory.com/
 
     # Common files
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
