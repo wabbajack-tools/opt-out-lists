@@ -109,6 +109,12 @@ GoogleIDs:
     # TMO
     - 1Rce8n6Kshr9A4IQAk7URnAKW6FPPpIMD # Illustrious Whiterun Wood
     
+    # OMW
+    - 1YRAUXYARKJoDK9uiehxJe4tzPk_H41gX # SnusDungeons Data
+    - 1Ri6OLbw1TniBwXqZgztZ6RDUNijtgsR7 # SnusDungeons ESPs
+    - 1ojUfCtQ3NpPoznibPZQDez5Ssy00gAvy # Oblivion Reloaded 8
+    - 0BwErT4iSgUu3YlR2dDhGMm9GTTA      # OA HD Overhaul 
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -382,3 +388,18 @@ AllowedPrefixes:
     - https://www.moddb.com/downloads/mirror/116934/119/b2c027882dc51e55694ee5ca05acc6ae/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads
     - https://www.moddb.com/downloads/mirror/139489/119/9e3b78bbfd228fafa95684946b5afcef/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads
      
+    # OMW
+    - https://s1.modsfire.com/storage/7724/105825/TD_Alternative_Books_Covers.7z            # TD Alternative Book Covers
+    - https://s1.modsfire.com/storage/7724/105832/TD_Interiors.7z                           # TD Interiors
+    - https://s1.modsfire.com/storage/7724/105826/TD_Lower_Clutter.7z                       # TD Lower Clutter
+    - https://s1.modsfire.com/storage/7724/105827/TD_Unique_Anvil.7z                        # TD Unique Anvil
+    - https://s1.modsfire.com/storage/7724/105828/TD_Unique_Skingrad.7z                     # TD Unique Skingrad
+    - https://s1.modsfire.com/storage/7724/105835/TD_Watercolor_21.7z                       # TD Watercolor
+    - http://www.mediafire.com/file/12pm1kub6wb1q7w/TD_Middleclass_Replacer_v_3.0.7z/file   # TD Middleclass 3.0
+    - http://www.mediafire.com/file/y7qlopk3w0rv7el/TD_Middleclass_v_3.1.7z/file            # TD Middleclass 3.1 Update
+    - http://www.mediafire.com/file/5knlyey62zrmhf8/TD_Upperclass_v_3.1.7z/file             # TD Upperclass
+    - https://vk.com/doc396890194_497762625?hash=a5075b5bd1daf03322                         # katkat iron quiver and arrows
+    - https://vk.com/doc396890194_487527365?hash=3667a6a94f55359f01                         # katkat guard armors
+    - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon-1.7a-English.7z           # The Dungeons of Ivellon
+    - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon_Patch_1.8.7z              # The Dungeons of Ivellon 1.8 Update
+    
