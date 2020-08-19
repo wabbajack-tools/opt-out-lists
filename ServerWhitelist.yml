@@ -404,3 +404,7 @@ AllowedPrefixes:
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon-1.7a-English.7z           # The Dungeons of Ivellon
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon_Patch_1.8.7z              # The Dungeons of Ivellon 1.8 Update
     
+    #TTW
+    - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2_Full.7z
+    - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.1_Update.7z
+    - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.2_Update.7z
