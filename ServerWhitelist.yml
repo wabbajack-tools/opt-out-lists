@@ -139,6 +139,7 @@ AllowedPrefixes:
     - https://downloads.vectorplexus.com/
     - http://mw.modhistory.com/
     - http://www.theassimilationlab.com/
+    - http://tesalliance.org/
 
     # Common files
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
