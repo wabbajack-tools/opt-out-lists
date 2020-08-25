@@ -115,6 +115,11 @@ GoogleIDs:
     - 1ojUfCtQ3NpPoznibPZQDez5Ssy00gAvy # Oblivion Reloaded 8
     - 0BwErT4iSgUu3YlR2dDhGMm9GTTA      # OA HD Overhaul 
     
+    # Ultimate Skyrim LE
+    - https://mega.nz/file/DIEwQChJ#WW94IsBMhCW1l4_gxDGcS6Bk2iTJEMLrRFpGcCQPa_U # 4.0.7 Core Files
+    - https://mega.nz/file/SFFyjIib#WUSFoBuXrM2-FPrIVgZSGnhM7a5rP0-9e4fZ0a6Skbs # 4.0.7 DynDOLOD
+    - https://mega.nz/file/KRNGkYpI#vjNSZEBNwgnmvmJji3bUV3I6ZXSN-YpXXwL1tsUsq4E # 4.0.7 Post-Install
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
