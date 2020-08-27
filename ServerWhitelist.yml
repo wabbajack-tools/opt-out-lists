@@ -117,11 +117,6 @@ GoogleIDs:
     - 1ojUfCtQ3NpPoznibPZQDez5Ssy00gAvy # Oblivion Reloaded 8
     - 0BwErT4iSgUu3YlR2dDhGMm9GTTA      # OA HD Overhaul 
     
-    # Ultimate Skyrim LE
-    - https://mega.nz/file/rUcAzAhI#Up2XIYGy-DPtPU5GbmTZrgj7YaDLdNDb15IyLOaQfNY # 4.0.7 Core Files
-    - https://mega.nz/file/fFMSUIzD#EQqM7agK5EzKaeWxjw-BGL-lGyVBE_vFvNVBENbXAFA # 4.0.7 DynDOLOD
-    - https://mega.nz/file/2ZNyBIKC#Q0K2VW98sLuhTP4FIFjllVN0CPp9MRm59F7NS9cRjAQ # 4.0.7 Post-Install
-    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -418,4 +413,8 @@ AllowedPrefixes:
     - https://vk.com/doc396890194_487527365?hash=3667a6a94f55359f01                         # katkat guard armors
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon-1.7a-English.7z           # The Dungeons of Ivellon
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon_Patch_1.8.7z              # The Dungeons of Ivellon 1.8 Update
-    
+        
+    # Ultimate Skyrim LE
+    - https://mega.nz/file/rUcAzAhI#Up2XIYGy-DPtPU5GbmTZrgj7YaDLdNDb15IyLOaQfNY # 4.0.7 Core Files
+    - https://mega.nz/file/fFMSUIzD#EQqM7agK5EzKaeWxjw-BGL-lGyVBE_vFvNVBENbXAFA # 4.0.7 DynDOLOD
+    - https://mega.nz/file/2ZNyBIKC#Q0K2VW98sLuhTP4FIFjllVN0CPp9MRm59F7NS9cRjAQ # 4.0.7 Post-Install
