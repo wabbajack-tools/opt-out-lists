@@ -117,6 +117,9 @@ GoogleIDs:
     - 1ojUfCtQ3NpPoznibPZQDez5Ssy00gAvy # Oblivion Reloaded 8
     - 0BwErT4iSgUu3YlR2dDhGMm9GTTA      # OA HD Overhaul 
     
+    # TTW
+    - 1hIBZQztu3Vd4X-RRXaaVQ3AdWPJuLfUu # LOD Output
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
