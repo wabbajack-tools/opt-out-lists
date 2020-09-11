@@ -438,4 +438,6 @@ AllowedPrefixes:
     
     # Emperor's Wasteland
     
-    - https://mega.nz/file/oHI3SQDI#FjgwetZChvywhUwormQimhe6jwFiS9cRgqDSv5GLMH4 # 0.0.1 Body Slide Output
+    - https://mega.nz/file/oHI3SQDI#FjgwetZChvywhUwormQimhe6jwFiS9cRgqDSv5GLMH4 # 0.1.0 Body Slide Output
+    - https://mega.nz/file/4HpSACxb#COp5zvO2gkI9-U0HgJOGkxTUOEFvLrOCqTxW-OQvPjk # 0.1.0 Merged Patches
+    - https://mega.nz/file/EWAElY7a#3hWjfaHukWxxdjdXYiwAmPhMXICAq3GbvImXBdkZdqw # 0.1.0 Leveled Lists & Containers Patch
