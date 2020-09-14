@@ -54,11 +54,6 @@ GoogleIDs:
     - 1A2XrcOXdJWE0VxVlbb28pbreG6bZ-BWx # TexGen Output
     - 1CLhlkeB3is685ewlChGDTMY69k3gF7y1 # SSELODGen
     - 1VhPhW-pc5j2RxTsoG5teiXY5KVqP-2mB # DynDOLOD Output
-
-    # Living Skyrim Sexy Edition (FogottenGlory & Torhild)
-    - 1PPr6Vi7BWqP46oRE1UvV9nQjSWEKNvv3 # TexGen Output
-    - 1Ovusj3piKBaejGgACwUTO3_BEb-LzU8q # SSELODGen
-    - 1odqqMQekWKXB3u5HuU6HEgHGBGWHEvaa # DynDOLOD Output
     
     # RoH - GAT Edition
     - 0B2VgBVA9jE6RaFNyZURxa3JXUjQ # The Ultimate Dodge Mod
@@ -362,6 +357,11 @@ AllowedPrefixes:
     
     # Living Skyrim 2.0.0
     - https://archive.org/download/Wyrmstooth1.17BSSE/Wyrmstooth%201.17B%20SSE.zip # Wyrmstooth 1.17B
+
+    # Living Skyrim Sexy Edition LODs (FogottenGlory & Torhild)
+    - https://mega.nz/file/G9JiVA6C#f2_Kni53DFv977Jr0QFWde7U69PMOe0_4aovsHoJgYg # TexGen Output
+    - https://mega.nz/file/3pJWBSaZ#ocSRVThRXEpp9bIz9ZLFsuOf59pucQXUjED6hI1p0E8 # SSELODGen
+    - https://mega.nz/file/rsQCRIZJ#Gcznk7qOr7ZugmEM7s3P5_42GeoakE-UFnq1p_lG2Cs # DynDOLOD Output
     
     # Licentia 1.0
     
