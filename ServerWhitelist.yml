@@ -147,6 +147,7 @@ AllowedPrefixes:
     - http://mw.modhistory.com/
     - http://www.theassimilationlab.com/
     - http://tesalliance.org/
+    - https://taleoftwowastelands.com/
 
     # Common files
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
@@ -195,6 +196,9 @@ AllowedPrefixes:
     - https://gist.github.com/aers/953a50c61b3028bce7e5376e8590abed/archive/e82cb06b56ef68a6fc2473028f0319fb58ee3018.zip # count_loaded_refs_in_load_order.pas
     - https://www.patreon.com/file?h=35289631&i=5312963 # SC Horses
     - https://www.patreon.com/file?h=35289631&i=5428357 # SC Horses SSE Port
+    - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2_Full.7z # TTW 3.2
+    - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.1_Update.7z # TTW 3.2.1
+    - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.2_Update.7z # TTW 3.2.2
     
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
