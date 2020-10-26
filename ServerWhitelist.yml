@@ -2,7 +2,6 @@
 
 GoogleIDs:
     - 1QxugzSXxVA7p5R0dCcxIQTnP5pozlrzM # 3DNPCS for Skyrim SE
-    - 1Q2-riavf6jDIoSsC4I6Y6njwLRL8o7Fz # Skyrim Uncapper VR Beta
     - 1iB3jeuALcOCIEiLnBVKWz4uPr7QmkDL- # Textures Over Time LOD Fix
     - 1IxFAshbcPrTAIN8Sz01_rDNpM7uc2WHp # Ojo Bueno Securitrons
     - 1nrSgJG_ikUN65rZxuT7YVm5OV2AJEIVy # DarnUI VNV
@@ -12,10 +11,6 @@ GoogleIDs:
     - 1pP0Rw_1RfFAC4jYYlY7hPFBaaxSXaxKs # MTUI Dialogue Background (VUI+ Version)
     - 1n4eYVGJsIb-iQhMDcueHBffsW8FAMNsx # ETL - Terrain LOD Noise
     - 1dZTW1CU7k0BeKIEWhBMW_dWrAQPbRxHd # NVR1.3.0
-    - 1mvgmXs_VV_sqWc9xQeIvff8wlwdMDK00 # VRIK V0.8.1 In-Dev Build 4.7z
-    - 13-T6k9KUvpAhXuw0h_F4I4HsWwqRQyPq # VRIK V0.8.1 In-Dev Build 15.7z
-    - 1-1a26bqFtkxo0lC33FCE6gFRpNqOGd72 # VRIK V0.8.1 In-Dev Build 16.7z
-    - 1aEydEH73cTsvLumfjQAi-539RAqKVxeA # VRIK V0.8.1 In-Dev Build 22.7z
     - 12wP2DkkZu9v9-Of5AMq425sIADEZ9nq_ # Merge Plugin Hide
     - 12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw # Particle Patch SE (16/01/2020)
     - 12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk # Improved Camera Beta 4 for Skyrim SE
@@ -125,6 +120,10 @@ GoogleIDs:
     
     # TTW
     - 1hIBZQztu3Vd4X-RRXaaVQ3AdWPJuLfUu # LOD Output
+    
+    # UVRE
+    - 1SaF3NxiuZKy3GnSkuzI-3Ym-d1qgyLXo # Cathedral - 3D Pine Grass v541
+    - 1Q2-riavf6jDIoSsC4I6Y6njwLRL8o7Fz # Skyrim Uncapper VR Beta
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
