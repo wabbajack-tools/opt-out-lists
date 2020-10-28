@@ -470,3 +470,9 @@ AllowedPrefixes:
     - www.mediafire.com/file/5wfke2vhtg5i46p/%255BChristine%255D_Wood_Warden.7z/file
     - www.mediafire.com/file/2ntiawmf5yzoii4/%255BChristine%255D_Altmer_Archer.7z/file
     - www.mediafire.com/file/0ugqz89nzkhwbcu/file
+
+    # Servitium Test
+    
+    - https://mega.nz/file/EWogmRZB#u8rvndAb3p42f-nMgENOYLglAiD7RGCAHi28moZoNrg             # DynDOLOD Output
+    - https://mega.nz/file/oS42hJyL#gV5rk43vWpLGHZdwaM_sTgoB-x_xz7bDQSX-pp9k3gU             # LODGen Output
+    - https://mega.nz/file/wHpA2RQL#dZhRbxSfoP5C5C_8Yvim42s0cF68x7duELeRuPbCArY             # Texgen Output
