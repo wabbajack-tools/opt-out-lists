@@ -53,10 +53,6 @@ GoogleIDs:
     # Wabbajack theme by erri120
     - 1rxVN9DYECtHZvKnbVhx74LlWBDZesOQ7
     
-    # Keizaal
-    - 1KArhySRfhdqkHfCpnLaFgi-VdrzyPKLX # TexGen Output
-    - 1aTlZJ5jjuHZW_-cDNXvYS9Y9S1cVK0vv # DynDOLOD Output
-    
     # Living Skyrim (FogottenGlory)
     - 1A2XrcOXdJWE0VxVlbb28pbreG6bZ-BWx # TexGen Output
     - 1CLhlkeB3is685ewlChGDTMY69k3gF7y1 # SSELODGen
@@ -241,6 +237,7 @@ AllowedPrefixes:
     
     # Keizaal
     - https://mega.nz/#!EgFQHaoK!zIJW7tlTYW_DCef3LI21Mogj6T7WipVk-GLBpdYeAas # Simple Children USSEP Fix
+    - https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0 # Telvanni Reborn
     
     # Unofficial Lexy LOTD patches & files
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
