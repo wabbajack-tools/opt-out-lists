@@ -138,6 +138,9 @@ GoogleIDs:
     - 1kINY74ht6FpqTEPT63aneAmXXZWV1SJy # Imlerith by Team TAL
     - 1CXe4llor7UO13v_t7NXY37dm73LojIfX # Vindictus Sonic Blade by Team TAL
     
+    # Krosis
+    - 1gsb1dAzVOP8r2fxB7hsceIeQQfIzFegO # Krosis LODGEN
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -258,7 +261,7 @@ AllowedPrefixes:
     - http://download855.mediafire.com/dfd7lp0ghiug/4cgr1yeem36rkb9/Animation+Package_2.0.rar # Animation Package 2.0
     - https://mega.nz/file/cegTSARa#xJTZGpnoZR1DlJMXMIh7FpU8y0JOhWQuPqsIqLEzzwA # TeamTal BDO Complete Pack
     
-    # Mania
+    # Krosis
     - https://archive.org/download/extendedencounters1.5sse/Extended%20Encounters%201.5%20SSE.zip # Extended Encounters SSE
 
     # Common SSE LL Mods
