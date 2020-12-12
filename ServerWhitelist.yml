@@ -138,8 +138,6 @@ GoogleIDs:
     - 1kINY74ht6FpqTEPT63aneAmXXZWV1SJy # Imlerith by Team TAL
     - 1CXe4llor7UO13v_t7NXY37dm73LojIfX # Vindictus Sonic Blade by Team TAL
     
-    # Krosis
-    - 1gsb1dAzVOP8r2fxB7hsceIeQQfIzFegO # Krosis LODGEN
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
@@ -505,3 +503,8 @@ AllowedPrefixes:
     - https://mega.nz/file/eXwgyb5C#r7hvsRejf_XmXF-WkueFwAl4mwFm2K3HoviW3VYv0B8             # DynDOLOD Output
     - https://mega.nz/file/DGxiBRCT#rx0Qk4obLUgcgmPhy8sViDklUqA5T25-cdCt1y9mbRA             # TexGen Output
     - https://mega.nz/file/eC4E2ZiB#R_2rKIilNL1CyjUORj3B_dHXnVKgp8lBRGwV4JfKILY             # xLODGEN Output
+
+    # Krosis
+    
+    - https://mega.nz/file/ldxBHaSQ#aUErAqBo1oe5trZWfNPomYurOLtx13YgKXM-8VnXUl8             # Krosis Dyndolod
+    - https://mega.nz/file/0VwRiKKB#otXnj062Liok9pBHPkABaI2I0HfGCt7wgOHPMDu28z4             # Krosis LODGEN
