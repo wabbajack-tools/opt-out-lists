@@ -510,3 +510,6 @@ AllowedPrefixes:
     
     - https://mega.nz/file/ldxBHaSQ#aUErAqBo1oe5trZWfNPomYurOLtx13YgKXM-8VnXUl8             # Krosis Dyndolod
     - https://mega.nz/file/0VwRiKKB#otXnj062Liok9pBHPkABaI2I0HfGCt7wgOHPMDu28z4             # Krosis LODGEN
+    
+     # FOVR Essentials
+     - https://github.com/fholger/f4ovr_improvements/releases/download/cas/fo4_controller_fix_and_cas.7z          # Controller fix with Contast sharpener 
