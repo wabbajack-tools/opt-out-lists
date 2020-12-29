@@ -173,6 +173,8 @@ AllowedPrefixes:
     - http://www.theassimilationlab.com/
     - http://tesalliance.org/
     - https://taleoftwowastelands.com/
+    - http://www.loverslab.com
+    - https://www.loverslab.com
 
     # Common files
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
