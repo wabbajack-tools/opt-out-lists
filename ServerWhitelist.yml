@@ -44,6 +44,8 @@ GoogleIDs:
     - 1vHlz8Sh9XrIKNyKCewuF85n12mHpoN_4 # WiZkiD ENB for Obsidian
     - 1_QdPgt2nxc9vsXn-Va-JVdTMmesbwyAv # Wyrmstooth 1.19 Beta
     - 1fZYRkkwbwfG_NpKNSGt2e2Y91HEtajlx # Extended Encounters 1.6 SSE beta 3
+    - 0B2PjcA5rwSAmc1pKai1BeDBqa1k      # TDF Animated Prostitution / Gigolo 2.2.5.5 for LE
+    - 14i75k8JETLUjhJh6CeT8iSzSKpFILnNJ # BakaFactory Bikini Quest 2.70 LE
     
     # Total Skyrim Overhaul files
     - 0B_LfiBpZrUG1ZFhQMmF3S2RZYXM # Patches by ANoobInDisguise
@@ -233,6 +235,7 @@ AllowedPrefixes:
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com # TTW installer files
     - https://crowdcontrol.live/software/CrowdControl-SkyrimSE.zip # Crowd Control Skyrim
     - https://mega.nz/file/OkslwSLJ#UaAwZB-EbUoYUcNB9eXVCcBcq3XKiEZhrci1CfbNots # Skyrim_Particle_Patch_for_ENB--Selective.zip
+    - https://mega.nz/file/kJAVAK6B#f1K2o6kLKL-swzeFia8CP1852LgJS8DREFG36r2FCDY # xLodgen 66
     
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
@@ -536,3 +539,11 @@ AllowedPrefixes:
     - https://www.moddb.com/downloads/start/110403?referer=https%3A%2F%2Fwww.reddit.com%2F     # Tucked Hair
     - https://www.moddb.com/downloads/start/110255?referer=https%3A%2F%2Fwww.reddit.com%2F     # Less Gaudy Tints
     - https://www.moddb.com/downloads/start/110406?referer=https%3A%2F%2Fwww.reddit.com%2F     # Rescaled Swords
+    
+   # LLME (caco's LL utility list)
+   
+    - https://mega.nz/#!Ms5hSLIa!ORTf_PYX5ByiT8xrakR-31r6cttITEmpGocIrQ586y4                   # ZaZ 8.0+ Tara CBBE
+    - https://mega.nz/#!N8wAkTAA!kUX4m3Pzv5YyvxTNrWRXyDBCVSPDfP9zdRbGywlCk4k                   # ZaZ 8.0+ Tara UNP
+    - https://mega.nz/file/nNti1bLD#BPybXZOYFuwfQQIdTxVcV1vd5dCWiv7zaLRbtP6L_IQ                # Devious Devices 5.0
+    
+    
