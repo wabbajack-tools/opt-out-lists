@@ -550,4 +550,6 @@ AllowedPrefixes:
     - https://mega.nz/#!N8wAkTAA!kUX4m3Pzv5YyvxTNrWRXyDBCVSPDfP9zdRbGywlCk4k                   # ZaZ 8.0+ Tara UNP
     - https://mega.nz/file/nNti1bLD#BPybXZOYFuwfQQIdTxVcV1vd5dCWiv7zaLRbtP6L_IQ                # Devious Devices 5.0
     
-    
+   # Librum
+   
+    - https://www.dropbox.com/sh/gfz6ga6ctuduj6j/AACKL3ULA1F59ObnnwUF7YcAa/Wrye%20Bash%20308.202101111451%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash beta. Necessary for Librum
