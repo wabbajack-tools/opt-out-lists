@@ -46,9 +46,6 @@ GoogleIDs:
     - 1fZYRkkwbwfG_NpKNSGt2e2Y91HEtajlx # Extended Encounters 1.6 SSE beta 3
     - 0B2PjcA5rwSAmc1pKai1BeDBqa1k      # TDF Animated Prostitution / Gigolo 2.2.5.5 for LE
     - 14i75k8JETLUjhJh6CeT8iSzSKpFILnNJ # BakaFactory Bikini Quest 2.70 LE
-    - 1RcKQ0pJK_BfNhk0vIRbiTIjbxWv_NI83 # DynDOLOD_Output.7z (Tonii)
-    - 183jbggriGaSSGLsGlsHoAIJLYR42xor7 # TexGen-Output.7z (Tonii)
-    - 1sA3WcSUIA3eNVEaCa_abocKl-bPS_rVm # xLODgen-OUTPUT.7z (Tonii)
     - 1zVrxc2jPAZuq3zqylcGxgrlvDWhiM7KD # 3DNPC FNV Bundle
     
     # Total Skyrim Overhaul files
@@ -554,3 +551,8 @@ AllowedPrefixes:
    # Librum
    
     - https://www.dropbox.com/sh/gfz6ga6ctuduj6j/AACKL3ULA1F59ObnnwUF7YcAa/Wrye%20Bash%20308.202101111451%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash beta. Necessary for Librum
+   
+   # New Dawn
+   
+    - https://cf-files.nexusmods.com/cdn/1704/32382/DynDOLOD-32382-2-87-1605704222.7z?md5=B4UbdCxmeL8vvzcAIia-fQ&expires=1610883484&user_id=65333731&rip=139.216.13.31 #DynDOLOD (Tonii)
+    - https://mega.nz/file/hIpi1K4a#THx3hErf0AYNQpZIYlC1NP525yCpKtPMAF1Fs0lEXc4                # xLODGen (Tonii)
