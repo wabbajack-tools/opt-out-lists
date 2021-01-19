@@ -156,6 +156,12 @@ GoogleIDs:
     - 0B2VgBVA9jE6RTjJiYnRTTE9qRUE # TUDM x64
     - 16DPfflaWHICpSDgdbz0bI_4ja_XtoL2N # TAWOBA REMASTERED 4.1 CBBE
     
+    # Lover's Lab Modding Essentials
+
+    - 12PjpfL95kg60Zoqha3yqvYqK1mrbhBjV # Devious Devices Assets BHUNP
+    - 1gnQ5GKVRD0khn96PeCoAI8RV4IB4SlKt # Devious Devices Expansion BHUNP
+    - 1NVH4Xq1g0BGh9Q2XOfLBWB0l4yAut_xK # Deviously Cursed Loot BHUNP
+
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -543,11 +549,12 @@ AllowedPrefixes:
     - https://www.moddb.com/downloads/start/110406?referer=https%3A%2F%2Fwww.reddit.com%2F     # Rescaled Swords
     - https://www.dropbox.com/s/ufq152ljefsqbty/%5BDA2%5D%20Vanilla%20Face%20Skin%20Retexture.7z?dl=0&file_subpath=%2FKH_vanilla+skin+retex.erf    # HD Face Textures
     
-   # LLME (caco's LL utility list)
+   # Lover's Lab Modding Essentials
    
     - https://mega.nz/#!Ms5hSLIa!ORTf_PYX5ByiT8xrakR-31r6cttITEmpGocIrQ586y4                   # ZaZ 8.0+ Tara CBBE
     - https://mega.nz/#!N8wAkTAA!kUX4m3Pzv5YyvxTNrWRXyDBCVSPDfP9zdRbGywlCk4k                   # ZaZ 8.0+ Tara UNP
     - https://mega.nz/file/nNti1bLD#BPybXZOYFuwfQQIdTxVcV1vd5dCWiv7zaLRbtP6L_IQ                # Devious Devices 5.0
+    - https://yadi.sk/d/vZ8ANVOlDTw5Gg                                                         # Defeat Fixed by Themis (SKSE)
     
    # Librum
    
