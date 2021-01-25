@@ -213,6 +213,8 @@ AllowedPrefixes:
     - https://mega.nz/file/ZB5FjKoT#Sr5YL0JHiUp1AXyqeRYsG-3mSQj-d-iVWlU4l6m6y-w # xLODGEN.63.7z
     - https://mega.nz/file/VBJRFKAY#sm7YkovVCWczwnnNn4nmkV7PfHlkzQL67jAAUleZGng # xLODGen.64.7z
     - https://mega.nz/file/4Ux2zAZR#2OFEC6f19MlaZUyDdlbBPkoCtzhot-ZqQLChgcSAeus # xLODGen.67.7z
+    - https://mega.nz/file/hIpi1K4a#THx3hErf0AYNQpZIYlC1NP525yCpKtPMAF1Fs0lEXc4 # xLODGEN.68.7z
+    - https://mega.nz/file/ZMgTAQCB#4is4TCd0j6Oxhv-lY8_KUaXWv6tfqtQtQD6BLmUMus8 # xLODGEN.69.7z
     - https://mega.nz/#!tVISya7T!CzWGBIN0JMyvyCOBOUEU-kt_8cQAbrhPmdkUvPzRi4k # DynDOLOD-Standalone.2.72.7z
     - https://mega.nz/#!cMZ3AKLA!8uQdXz3-PqksUVodxQ5mulvubrUZqOY_cQSr3pktyYQ # DynDOLOD-Standalone.2.73.7z
     - https://mega.nz/#!5d5hwaLK!qfWM78pRe2xQUSmEjRRo5_NjJyh-DfCz_kHnAjDUt_c # DynDOLOD-Standalone.2.76.7z
@@ -551,8 +553,7 @@ AllowedPrefixes:
     - https://www.dropbox.com/sh/gfz6ga6ctuduj6j/AACKL3ULA1F59ObnnwUF7YcAa/Wrye%20Bash%20308.202101111451%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash beta. Necessary for Librum
     
     # New Dawn
-    
-    - https://mega.nz/file/hIpi1K4a#THx3hErf0AYNQpZIYlC1NP525yCpKtPMAF1Fs0lEXc4                # xLODGen (Tonii)
+
     - https://mega.nz/file/FElziYSD#E-YR2ATx6m4V0lubRlNUsH-A8B4BJVCeI_J6vm5B1RE                # DynDOLOD Output (Tonii)
     - https://mega.nz/file/9dtXXKyb#-Eg-Bwj3O85kDJ42qWUbjjWvrRtxnLRZHQK_DASOLG0                # TexGen Output (Tonii)
     - https://mega.nz/file/kUsDzKyS#w-JVSUkdt6kXRnJIz8VdTEl_MlGTn_f63vO6KsL2ru4                # xLODGen Output (Tonii)
