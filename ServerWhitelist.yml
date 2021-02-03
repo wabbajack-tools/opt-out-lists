@@ -154,6 +154,7 @@ GoogleIDs:
     - 1samT4itfWtLP01Rb9pw4KEcgdhdYmoM5 # new splash screen
     - 1kLjVLyt5x4FzE6gJToToxuMJrs7pzsJS # Nemesis output
     - 12rcV7r2N22lEX9dAz_kGhMy7qL7_cEQm # ENB
+    - 1_h8hlmsx-vfcGkVt3EaoWyIVAKxT2aJt # xLODGen
     
     # Licentia Ultimate
     
@@ -567,6 +568,8 @@ AllowedPrefixes:
    # Librum
    
     - https://www.dropbox.com/sh/gfz6ga6ctuduj6j/AACKL3ULA1F59ObnnwUF7YcAa/Wrye%20Bash%20308.202101111451%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash beta. Necessary for Librum
+    - https://mega.nz/#!MI41iADD!Qa47iXpHBZLxAICe7My9q-dSAX1Rh9uKQlXFk9vMIOc                   # SSE-Terrain-Tamriel for xLODGen
+    - https://mega.nz/#!sFoFRawS!_DSfPVm6Of8h0H_s2OR0Q5jDymcvlcyFCHYDAGQM4Ks                   # SSE-Terrain-Tamriel-Extend
     
     # New Dawn
 
