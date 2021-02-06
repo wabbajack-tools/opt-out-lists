@@ -215,6 +215,7 @@ AllowedPrefixes:
     - http://enbseries.enbdev.com/
     - http://enbdev.com/
     - https://github.com/
+    - https://raw.githubusercontent.com/
     - https://www.moddb.com/
     - https://3dnpc.files.wordpress.com/
     - https://lotdplus.com/
