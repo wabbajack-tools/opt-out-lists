@@ -678,3 +678,12 @@ AllowedPrefixes:
     # EMW
     
     - https://cdn.discordapp.com/attachments/569102896654843904/807974053683527690/RDENB_10_WIP_23.zip  # RDENB_10_WIP_23.zip
+    
+    # KSP Files
+    
+    - https://www.curseforge.com/kerbal/ksp-mods/ksp-interstellar-extended/download/3190666/file  # KSPIE 1.26.18
+    - https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/29/artifact/MechJeb2-2.12.0.0.zip  # MechJeb 2.12
+    - http://ksp.necrobones.com/files/ModRocketSys/ModularRocketSystem-1.13.2.zip  # Modular Rocket System 1.13.2
+    - https://ksp.sarbian.com/jenkins/job/SmokeScreen/87/artifact/SmokeScreen-2.8.14.0.zip  # Smokescreen 2.8.14
+    - http://ksp.necrobones.com/files/SpaceY-Lifters/SpaceY-Lifters-1.17.1.zip  # SpaceY Heavy Lifters 1.17.1
+    - 
