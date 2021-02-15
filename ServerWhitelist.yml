@@ -680,3 +680,9 @@ AllowedPrefixes:
     - http://ksp.necrobones.com/files/ModRocketSys/ModularRocketSystem-1.13.2.zip  # Modular Rocket System 1.13.2
     - https://ksp.sarbian.com/jenkins/job/SmokeScreen/87/artifact/SmokeScreen-2.8.14.0.zip  # Smokescreen 2.8.14
     - http://ksp.necrobones.com/files/SpaceY-Lifters/SpaceY-Lifters-1.17.1.zip  # SpaceY Heavy Lifters 1.17.1
+
+    # Arkay's Commandment
+    
+    - https://www.dropbox.com/s/81hvjhag5pdeg3v/xLODGen.71.7z?dl=0                              # xLODGen Output
+    - https://www.dropbox.com/s/807z5grrekxph5w/TexGen_Output.7z?dl=0                           # TexGen Output
+    - https://www.dropbox.com/s/wzzf4q7h57usgkk/DynDOLOD_Output.7z?dl=0                         # DynDOLOD Output
