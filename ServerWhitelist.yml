@@ -100,6 +100,10 @@ GoogleIDs:
     # RoH - GAT Edition
     - 0B2VgBVA9jE6RaFNyZURxa3JXUjQ # The Ultimate Dodge Mod
     
+    # The Phoenix Flavour
+    
+    - 0B1v4O3_0ZAnSeFZCUFFROEl3dlU # NPCsWithFaces zEdit Script
+    
     # Lotus
     - 1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G # SexLab Aroused Redux V28b Modified by BakaFactory
     - 1RQTvJ6q9FhtLyzcFBc4lFHGL-4cSP94h # TUDMPatcher
@@ -320,10 +324,7 @@ AllowedPrefixes:
     - https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0rc1.1/Mod.Organizer-2.4.0rc1.1.7z # Mod Organizer 2.4.0
     - https://mega.nz/#!8N5W3ZYB!U-xoDP54PqVQyL0VQTznUhk3Ha4Qn8PoHdmIegUwahI # DynDOLOD Standalone 3.0
     - https://mega.nz/#!ccxySTLS!vHC2q0NzkqGLo4BsJSDwZfBlk5eLmWYuunz6a_bkTGE # DynDOLOD Resources 3.0
-    
-    # The Phoenix Flavour
-    - https://mega.nz/file/5VViBThR#RhdtoTIzK9plp1A91ty0C6ZWTzW_aZ1iE6qmKnd1nIU # Armor Variants Lite 1.0 Beta 2
-    
+      
     # Unofficial Lexy LOTD patches & files
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
 
