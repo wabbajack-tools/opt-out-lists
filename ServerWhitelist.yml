@@ -202,6 +202,9 @@ GoogleIDs:
     - 1gnQ5GKVRD0khn96PeCoAI8RV4IB4SlKt # Devious Devices Expansion BHUNP
     - 1NVH4Xq1g0BGh9Q2XOfLBWB0l4yAut_xK # Deviously Cursed Loot BHUNP
 
+    # Cityscapes
+    - 1PymWUmPzHoLb_LPWwJ6qFw4qaSpbn3E0 # Synthesis output
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
