@@ -206,6 +206,11 @@ GoogleIDs:
     # Cityscapes
     - 1PymWUmPzHoLb_LPWwJ6qFw4qaSpbn3E0 # Synthesis output
     
+    # Tsukirim
+    
+    - 13JBVX_lx_NKdFr2UEr7JOGIcQBXaqIGA # Pubic Hair for Females Baka Edition
+    - 1MLyn1f44aEBlO0NNJGDLA0OXwDvk7hvD # Smooth Motion Pack
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -710,16 +715,13 @@ AllowedPrefixes:
     - https://mega.nz/file/fx9lyYJK#4C3pfvpMYP754aAHN27exbsqXxTDZqp-wZd0u-IheUY                 # xLODGen Output
     - https://mega.nz/file/f9sQRAyA#0yuZP8uIyYeSsG4M2O-N5dp-voZ8dBJq2YT2sm_3_Ss                 # TexGen Output
     - https://mega.nz/file/X88mlY5a#kZHTIxVGQqG-TVQfXQz7YW4cbXjubfrVZwk0H1CS-3M                 # DynDOLOD Output
-    
+      
     # Tsukirim
     
     - https://www.patreon.com/file?h=43719803&i=6717731                                             # Babo Creature Animations
     - https://www.patreon.com/file?h=43719803&i=6899813                                             # Babo Human Animations
-    - https://www.mediafire.com/file/8prv99y1b09wady/HG+Feet+and+Toes+BHUNP+SE.7z/file  # HG Feet and Toes
+    - https://www.mediafire.com/file/8prv99y1b09wady/HG+Feet+and+Toes+BHUNP+SE.7z/file              # HG Feet and Toes
     - https://mega.nz/file/7qx30S6b#oNGHcXw1rTj5w39jD7h9PmYWxtNafkcFSbOM1nLSXkg                     # Baka SOS female pubic hair addons expansion
-    - 13JBVX_lx_NKdFr2UEr7JOGIcQBXaqIGA                                                             # Pubic Hair for Females Baka Edition
-    - 1aE0pJwP0xRLyr8FQfWdN_TUryQLOixi2                                                             # Tullius Hair pack
-    - 1MLyn1f44aEBlO0NNJGDLA0OXwDvk7hvD                                                             # Smooth Motion Pack
     - https://mega.nz/file/a6wgTKDB#q86aZtMwcrsSUvLjtNmQaDZsI7QSyhdFSp-Hy1-QTlM                     # Tsukirim FNIS output
     - https://mega.nz/file/e3om2KRI#MWSyHfZlNloc0OJCLkc75NOtiQV1kNuj_cC77uwFAnw                     # Tsukirim Nemesis output
     
