@@ -548,21 +548,25 @@ AllowedPrefixes:
     - https://www.moddb.com/downloads/mirror/139489/119/9e3b78bbfd228fafa95684946b5afcef/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads
      
     # OMW
-    - https://s1.modsfire.com/storage/7724/105825/TD_Alternative_Books_Covers.7z            # TD Alternative Book Covers
-    - https://s1.modsfire.com/storage/7724/105832/TD_Interiors.7z                           # TD Interiors
-    - https://s1.modsfire.com/storage/7724/105826/TD_Lower_Clutter.7z                       # TD Lower Clutter
-    - https://s1.modsfire.com/storage/7724/105827/TD_Unique_Anvil.7z                        # TD Unique Anvil
-    - http://www.mediafire.com/file/2f9lwl81th6vnua/TD_Unique_Skingrad.7z/file              # TD Unique Skingrad
-    - https://s1.modsfire.com/storage/7724/105835/TD_Watercolor_21.7z                       # TD Watercolor
+    - http://www.mediafire.com/file/zdm8rceqe70sgla/TD_Alternative_Books_Covers.7z/file     # TD Alternative Book Covers
+    - http://www.mediafire.com/file/40pxhdl58whd5na/TD_CRT_Reborn.7z/file                   # TD CRT Reborn
+    - http://www.mediafire.com/file/ym9h7akxstgd1vt/TD_Interiors.7z/file                    # TD Interiors
+    - http://www.mediafire.com/file/q11ybezajoztnbk/TD_Hutors_1.1.7z/file                   # TD Hutors
+    - http://www.mediafire.com/file/y4hpcsfplpqmp80/TD_Lower_Clutter.7z/file                # TD Lower Clutter
     - http://www.mediafire.com/file/12pm1kub6wb1q7w/TD_Middleclass_Replacer_v_3.0.7z/file   # TD Middleclass 3.0
     - http://www.mediafire.com/file/y7qlopk3w0rv7el/TD_Middleclass_v_3.1.7z/file            # TD Middleclass 3.1 Update
+    - http://www.mediafire.com/file/jvbnoi2io6kp66i/TD_Tombstones.7z/file                   # TD Tombstones
+    - http://www.mediafire.com/file/pxrpq126ixq92s4/TD_Unique_Anvil.7z/file                 # TD Unique Anvil
+    - http://www.mediafire.com/file/2f9lwl81th6vnua/TD_Unique_Skingrad.7z/file              # TD Unique Skingrad
     - http://www.mediafire.com/file/yfayo83k5cjr2t8/TD_Upperclass_v_3.0.7z/file             # TD Upperclass 3.0
     - http://www.mediafire.com/file/5knlyey62zrmhf8/TD_Upperclass_v_3.1.7z/file             # TD Upperclass 3.1 Update
+    - http://www.mediafire.com/file/e5f7p96z6p9dy9i/TD_Wall_of_Fall.7z/file                 # TD Wall of Fall
+    - http://www.mediafire.com/file/0n3stjdg4b0v42x/TD_Watercolor_21.7z/file                # TD Watercolor
+    - http://www.mediafire.com/file/5iz4daloma4dukn/TD_Wooden_Sidewalk.7z/file              # TD Wooden Sidewalk
     - https://vk.com/doc396890194_497762625?hash=a5075b5bd1daf03322                         # katkat iron quiver and arrows
     - https://vk.com/doc396890194_487527365?hash=3667a6a94f55359f01                         # katkat guard armors
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon-1.7a-English.7z           # The Dungeons of Ivellon
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon_Patch_1.8.7z              # The Dungeons of Ivellon 1.8 Update
-    - http://www.mediafire.com/file/e5f7p96z6p9dy9i/TD_Wall_of_Fall.7z/file                 # TD Wall of Fall
         
     # Ultimate Skyrim LE
     - https://mega.nz/file/TY9hHBwK#HDUnz9IgfBqk4d0xhEXGwqIuD5TENlWkY4ufi-S69HE # 4.0.7 Core Files
