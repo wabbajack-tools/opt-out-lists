@@ -219,6 +219,10 @@ GoogleIDs:
     # Viva New Vegas
     - 1lznQ6JB8093BUrLsXR5jKK_x-INB7fX2 # Vanilla LOD
     
+    # Lunar Fallout Plus
+    - 1OtcQrS19DwL0MRwmbtjY5q_zlr7nuO_h # Object LOD
+    - 1WHTwh9cCLaKpZOQuAunjajO5KAt9bp79 # Terrain LOD
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -331,6 +335,7 @@ AllowedPrefixes:
     - https://www.dropbox.com/s/ufq152ljefsqbty/%5BDA2%5D%20Vanilla%20Face%20Skin%20Retexture.7z # DA2 Vanilla Face Retextures
     - https://www.moddb.com/downloads/start/129257?referer=https%3A%2F%2Fwww.nexusmods.com%2F # Vanilla UI Plus (Fallout 3)
     - https://www.mediafire.com/file/fd0d6qj78lpjbas/AllGUD_AlternateTextureModelsplosion_-_Fixed.pas/file # AllGUD Fixed Script
+    - https://mega.nz/#!BZhlVCAJ!s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4 #FO4LODGen Resources 
     
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
