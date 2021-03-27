@@ -721,11 +721,6 @@ AllowedPrefixes:
     - https://mega.nz/file/9dtXXKyb#-Eg-Bwj3O85kDJ42qWUbjjWvrRtxnLRZHQK_DASOLG0                # TexGen Output (Tonii)
     - https://mega.nz/file/kUsDzKyS#w-JVSUkdt6kXRnJIz8VdTEl_MlGTn_f63vO6KsL2ru4                # xLODGen Output (Tonii)
     
-    # EMW
-    
-    - https://cdn.discordapp.com/attachments/569102896654843904/807974053683527690/RDENB_10_WIP_23.zip  # RDENB_10_WIP_23.zip
-    - https://cdn.discordapp.com/attachments/569102896654843904/810888960640417822/RDENB_10_WIP_24.zip  # RDENB_10_WIP_24.zip
-    
     # KSP Files
     
     - https://www.curseforge.com/kerbal/ksp-mods/ksp-interstellar-extended/download/3190666/file  # KSPIE 1.26.18
@@ -754,3 +749,6 @@ AllowedPrefixes:
     - https://mega.nz/file/e3om2KRI#MWSyHfZlNloc0OJCLkc75NOtiQV1kNuj_cC77uwFAnw                     # Tsukirim Nemesis output
     - https://mega.nz/file/f3olkAzJ#wlS70hW9wT9aOXi2Q5ww-ffX9TjMr3OqjmSQni-8qus                     # Tsukirim bodygen female
     
+    # RGE
+    
+    - https://www.mediafire.com/file/f9si0f4vpypjyqn/NAT_%2526_ENB_3.0_WIP_4.zip/file         # PRT-X WIP 4
