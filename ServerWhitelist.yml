@@ -43,10 +43,8 @@ GoogleIDs:
     - 1fZYRkkwbwfG_NpKNSGt2e2Y91HEtajlx # Extended Encounters 1.6 SSE beta 3
     - 0B2PjcA5rwSAmc1pKai1BeDBqa1k      # TDF Animated Prostitution / Gigolo 2.2.5.5 for LE
     - 14i75k8JETLUjhJh6CeT8iSzSKpFILnNJ # BakaFactory Bikini Quest 2.70 LE
-    - 1zVrxc2jPAZuq3zqylcGxgrlvDWhiM7KD # 3DNPC FNV Bundle
-    - 1RrRPdjCJS-oaI6GhK69oF4x_wJkOVc8B # Tend To Your Frontier LOD
+    - 180VpARQRBPKKVeFwqR0ozntYTysNVKs6 # 3DNPC FNV Bundle
     - 1FoCh3ra_nViQIZS76TrYN_q37ltY6mzb # Wandering Frontiersman LOD
-    - 1KmCjAQxtD7t63yd47LPSsYS5UF2zWuj_ # That Lucky Old Mojave LOD
     - 1H2h3QL-NyulB8NK7GNcdjWObZyBTg-7G # Starstruck Courier LOD
     - 1iGTUk2szm0Cn7zBW_CYeBVMnAr3sCP8h # Unslaad Voiced Add-on Temporary Reupload - By Aelarr
     - 14k9bT0Ex1BoYGsub-nrbbCXtXhVOWMsd # UI Changes for FOVR - By CylonSurfer
@@ -101,6 +99,7 @@ GoogleIDs:
     - 1CLhlkeB3is685ewlChGDTMY69k3gF7y1 # SSELODGen
     - 1VhPhW-pc5j2RxTsoG5teiXY5KVqP-2mB # DynDOLOD Output
     - 1YM0lFTQdDh6P3JvEgWleOMb3adF_pQ_i # Inconsequential NPCs Visual Overhaul
+    - 1mfTQy2HIsdz8WWuTLDgiOR-t_IBZyTQC # Paper Maps SE v1.1
     
     # RoH - GAT Edition
     - 0B2VgBVA9jE6RaFNyZURxa3JXUjQ # The Ultimate Dodge Mod
@@ -222,6 +221,9 @@ GoogleIDs:
     # Lunar Fallout Plus
     - 1OtcQrS19DwL0MRwmbtjY5q_zlr7nuO_h # Object LOD
     - 1WHTwh9cCLaKpZOQuAunjajO5KAt9bp79 # Terrain LOD
+
+    # Degen Dungeon
+    - 15LTUnDIoqAqbV1_XnLMK3N6Y0oyS6nQL # All 7 skills at once
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
@@ -336,6 +338,7 @@ AllowedPrefixes:
     - https://www.moddb.com/downloads/start/129257?referer=https%3A%2F%2Fwww.nexusmods.com%2F # Vanilla UI Plus (Fallout 3)
     - https://www.mediafire.com/file/fd0d6qj78lpjbas/AllGUD_AlternateTextureModelsplosion_-_Fixed.pas/file # AllGUD Fixed Script
     - https://mega.nz/#!BZhlVCAJ!s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4 #FO4LODGen Resources 
+    - https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip # FNV GECK
     
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
@@ -356,10 +359,8 @@ AllowedPrefixes:
     - https://cdn.discordapp.com/attachments/229635753989242881/731516637605265418/ccc_icons_v2.7z # Perk-Style JIP CCC Icons
     
     # Keizaal
-    - https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0 # Telvanni Reborn
-    - https://mega.nz/#!8N5W3ZYB!U-xoDP54PqVQyL0VQTznUhk3Ha4Qn8PoHdmIegUwahI # DynDOLOD Standalone 3.0
-    - https://mega.nz/#!ccxySTLS!vHC2q0NzkqGLo4BsJSDwZfBlk5eLmWYuunz6a_bkTGE # DynDOLOD Resources 3.0
-    - https://mega.nz/#!0BhWBQpA!JNUgN6JUvYFR6z2_vuAoqXojElpHHurdQbga7XSM1-k # xLODGEN 75.7
+    - https://mega.nz/#!Ed4wWYjC!3wI37OKSV4lQoE8hkTmwJIpFl8FzUqWynVVfpUJFggs # DynDOLOD Standalone 3.0
+    - https://mega.nz/#!QdZgUZoL!7wfJuR1-uU7Du7SDy_vcuuPkUDfwGjMN9XlwU_0WD2E # DynDOLOD Resources 3.0
       
     # Unofficial Lexy LOTD patches & files
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
@@ -584,6 +585,7 @@ AllowedPrefixes:
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon-1.7a-English.7z           # The Dungeons of Ivellon
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon_Patch_1.8.7z              # The Dungeons of Ivellon 1.8 Update
     - https://cdn.discordapp.com/attachments/817007847673298994/822416372419395675/NAO-ENB_-_maybe_release.zip # NAO ENB RC
+    - https://cdn.discordapp.com/attachments/817007847673298994/823124969298985010/NAO-ENB_anotherWIP.zip # NAO ENB Another WIP
         
     # Ultimate Skyrim LE
     - https://mega.nz/file/TY9hHBwK#HDUnz9IgfBqk4d0xhEXGwqIuD5TENlWkY4ufi-S69HE # 4.0.7 Core Files
@@ -613,6 +615,7 @@ AllowedPrefixes:
     - https://www.mediafire.com/download/boi3u7tgqan5htt/ThePitt.7z
     - https://www.mediafire.com/download/fwksyu0v6auw32u/BrokenSteel.7z
     - https://www.mediafire.com/download/ql238cvbl494re3/PointLookout.7z
+    - https://mega.nz/file/bkoWUILB#e4J7qQAD_b4wwZh0m2R8NrcYGGZI4xecPpm4pXt7tgc
   
     # TSO
     - https://www.mediafire.com/file/4ke7032jzdo9s2c/%255BChristine%255D_Dragon_Veil.7z
@@ -633,7 +636,7 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/y7qbh72k4seaurb/Jingang_Outfit_2-0-0_SE.7z
     - https://www.mediafire.com/file/93l7kl2raszrtra/BDO_Valkyrie_SE_1-0-0.7z/
     - https://www.mediafire.com/file/nnutteyc53dfxnu/[Christine]+Ninian.7z/
-    - https://www.mediafire.com/file/21ae811fmlt26qv/%255BChristine%255D_Hunterborn.7z/
+    - https://www.mediafire.com/file/cn9jxly2unniocr/[Christine]+Hunterborn.7z/
     - https://www.mediafire.com/file/73ho5bkcn23xsnn/%255BChristine%255D_Dragon_Breaker.7z/
     - https://www.mediafire.com/file/pe0qh0grqv8nnqp/Dark_Souls_Regular_Knight.7z/
     - https://www.mediafire.com/file/wc56i3puwg8ccz6/Azera_Sorceress_SE.7z/
@@ -724,11 +727,6 @@ AllowedPrefixes:
     - https://mega.nz/file/9dtXXKyb#-Eg-Bwj3O85kDJ42qWUbjjWvrRtxnLRZHQK_DASOLG0                # TexGen Output (Tonii)
     - https://mega.nz/file/kUsDzKyS#w-JVSUkdt6kXRnJIz8VdTEl_MlGTn_f63vO6KsL2ru4                # xLODGen Output (Tonii)
     
-    # EMW
-    
-    - https://cdn.discordapp.com/attachments/569102896654843904/807974053683527690/RDENB_10_WIP_23.zip  # RDENB_10_WIP_23.zip
-    - https://cdn.discordapp.com/attachments/569102896654843904/810888960640417822/RDENB_10_WIP_24.zip  # RDENB_10_WIP_24.zip
-    
     # KSP Files
     
     - https://www.curseforge.com/kerbal/ksp-mods/ksp-interstellar-extended/download/3190666/file  # KSPIE 1.26.18
@@ -757,3 +755,6 @@ AllowedPrefixes:
     - https://mega.nz/file/e3om2KRI#MWSyHfZlNloc0OJCLkc75NOtiQV1kNuj_cC77uwFAnw                     # Tsukirim Nemesis output
     - https://mega.nz/file/f3olkAzJ#wlS70hW9wT9aOXi2Q5ww-ffX9TjMr3OqjmSQni-8qus                     # Tsukirim bodygen female
     
+    # RGE
+    
+    - https://www.mediafire.com/file/f9si0f4vpypjyqn/NAT_%2526_ENB_3.0_WIP_4.zip/file         # PRT-X WIP 4
