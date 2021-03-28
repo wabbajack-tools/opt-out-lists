@@ -218,6 +218,9 @@ GoogleIDs:
     # Viva New Vegas
     - 1lznQ6JB8093BUrLsXR5jKK_x-INB7fX2 # Vanilla LOD
     
+    # Degen Dungeon
+    - 15LTUnDIoqAqbV1_XnLMK3N6Y0oyS6nQL # All 7 skills at once
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -750,6 +753,3 @@ AllowedPrefixes:
     # RGE
     
     - https://www.mediafire.com/file/f9si0f4vpypjyqn/NAT_%2526_ENB_3.0_WIP_4.zip/file         # PRT-X WIP 4
-
-    # Degen Dungeon
-    - 15LTUnDIoqAqbV1_XnLMK3N6Y0oyS6nQL # All 7 skills at once
