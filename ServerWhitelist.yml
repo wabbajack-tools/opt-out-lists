@@ -210,10 +210,6 @@ GoogleIDs:
     
     - 13JBVX_lx_NKdFr2UEr7JOGIcQBXaqIGA # Pubic Hair for Females Baka Edition
     - 1MLyn1f44aEBlO0NNJGDLA0OXwDvk7hvD # Smooth Motion Pack
-    - 1D7v17YwtPOlMQictDquWOOAvIWr5zk52 # Tsukirim DynDoLOD
-    - 1tdh9UouRXWJeYho9ZSzBerTjul2mJTyv # Tsukirim texgen
-    - 1pik9e_i6dIgjXrZrvs0xzxAk8cG_IMSm # Tsukirim Grasscache
-    - 1FAxi8QGeQE6_IprI2UPPRS-KTCkAelZh # Tsukirim LodGen
 
     # Viva New Vegas
     - 1lznQ6JB8093BUrLsXR5jKK_x-INB7fX2 # Vanilla LOD
@@ -752,9 +748,14 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=43719803&i=6899813                                             # Babo Human Animations
     - https://www.mediafire.com/file/8prv99y1b09wady/HG+Feet+and+Toes+BHUNP+SE.7z/file              # HG Feet and Toes
     - https://mega.nz/file/7qx30S6b#oNGHcXw1rTj5w39jD7h9PmYWxtNafkcFSbOM1nLSXkg                     # Baka SOS female pubic hair addons expansion
-    - https://mega.nz/file/a6wgTKDB#q86aZtMwcrsSUvLjtNmQaDZsI7QSyhdFSp-Hy1-QTlM                     # Tsukirim FNIS output
-    - https://mega.nz/file/e3om2KRI#MWSyHfZlNloc0OJCLkc75NOtiQV1kNuj_cC77uwFAnw                     # Tsukirim Nemesis output
-    - https://mega.nz/file/f3olkAzJ#wlS70hW9wT9aOXi2Q5ww-ffX9TjMr3OqjmSQni-8qus                     # Tsukirim bodygen female
+    - https://mega.nz/file/ndgnBagR#lJ3QZ-3EECA9wpXdh0dyCho72ahw_us6N1xhjGhM0Wc                     # parallax teeth
+    - https://mega.nz/file/yqh03JZL#jH-hO1hctXRDYczAyagRXZgDXuWQ3SMU1g6U6ViBMLU                     # nemesis output
+    - https://mega.nz/file/iqgkTSTb#q86aZtMwcrsSUvLjtNmQaDZsI7QSyhdFSp-Hy1-QTlM                     # FNIS output
+    - https://mega.nz/file/Tnx2UYhb#wMmPMbmWGXNzoLZM-X-5nVOymABWEcF2YzO7XjeBNI8                     # allgud output
+    - https://mega.nz/file/H2oAASbD#4A9HqcT_GCN6D9qq6CutX-NYDSyQhFH6QzxyIYMeTPg                     # dyndolod output
+    - https://mega.nz/file/CnwmXZbD#_57phfsCnaU4ZrEyXrm_GbhedvqumgpRgl1HfTEnda4                     # patches
+    - https://mega.nz/file/G6w21JIR#FU7lDdph1oqn7mpP9Rz7EVyld8yVpC1dkKXfKZDWvEg                     # texgen
+    - https://mega.nz/file/6ih0hbgY#M9t-t3_ZH1cfMtvfR2J1_k7rtShhL1XS7EVHbwJBPpk                     # lodgen
     
     # RGE
     
