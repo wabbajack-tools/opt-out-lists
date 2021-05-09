@@ -235,6 +235,8 @@ GoogleIDs:
     - 1Yyw2Bwr3CozzpLAAM2UZvH-X_1WONN6A # SKSE Presets for RaceMenu and MCMs
     - 1_Aczc9qf4KvqUkcx-eLpUNHLMF7VUx5n # TexGen Output.
     - 1hyEL0brR8p2mMp5RfVzuHyEpc-frFwp- # xLODGen Output
+    - 1NR6H5rTa4VhciWQf_I7WUBsPzg7ky42Y # Synthesis - Overwrite
+    - 1gpE6cyrvdkxueLf6IeztyzFM7kSyDm5s # WyreBash - Overwrite
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
