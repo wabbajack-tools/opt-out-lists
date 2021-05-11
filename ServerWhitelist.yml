@@ -780,21 +780,17 @@ AllowedPrefixes:
       
     # Tsukirim
     
-    - https://www.patreon.com/file?h=43719803&i=6717731                                             # Babo Creature Animations
-    - https://www.patreon.com/file?h=43719803&i=6899813                                             # Babo Human Animations
-    - https://www.mediafire.com/file/8prv99y1b09wady/HG+Feet+and+Toes+BHUNP+SE.7z/file              # HG Feet and Toes
-    - https://mega.nz/file/7qx30S6b#oNGHcXw1rTj5w39jD7h9PmYWxtNafkcFSbOM1nLSXkg                     # Baka SOS female pubic hair addons expansion
-    - https://mega.nz/file/ndgnBagR#lJ3QZ-3EECA9wpXdh0dyCho72ahw_us6N1xhjGhM0Wc                     # parallax teeth
-    - https://mega.nz/file/rzwyBT7K#ifnnOKZcDoW_rfTgPA6k4VKvFttKA3ng04mY9mNlW3c                     # nemesis output
-    - https://mega.nz/file/iqgkTSTb#q86aZtMwcrsSUvLjtNmQaDZsI7QSyhdFSp-Hy1-QTlM                     # FNIS output
-    - https://mega.nz/file/Tnx2UYhb#wMmPMbmWGXNzoLZM-X-5nVOymABWEcF2YzO7XjeBNI8                     # allgud output
-    - https://mega.nz/file/H2oAASbD#4A9HqcT_GCN6D9qq6CutX-NYDSyQhFH6QzxyIYMeTPg                     # dyndolod output
-    - https://mega.nz/file/H3ZG1BjQ#MDswg9OJHG-srJ2e5Nj98QXVHYeNAq5nZJIcEDnaL1c                     # patches
-    - https://mega.nz/file/G6w21JIR#FU7lDdph1oqn7mpP9Rz7EVyld8yVpC1dkKXfKZDWvEg                     # texgen
-    - https://mega.nz/file/6ih0hbgY#M9t-t3_ZH1cfMtvfR2J1_k7rtShhL1XS7EVHbwJBPpk                     # lodgen
-    - https://mega.nz/file/irQGQbyJ#OWnNk9yND1_rDtoPfe0V8hWKI3bXeJ2Ik1x_Tqdzufs                     # facegen
-    - https://mega.nz/file/amZWzBZS#q_4svefKI7TqoLQBDMX7zFip42_7ygZPEAWRLqwzUIk                     # grasscache
-    - https://mega.nz/file/qrpXBIqS#qEIPhett_FZe4oI2NELeHNCtC1yiYPwG01Sa6eNqTR4                     # ks hair patch
+    - https://www.patreon.com/file?h=43719803&i=6717731                                                 # Babo Creature Animations
+    - https://www.patreon.com/file?h=43719803&i=6899813                                                 # Babo Human Animations
+    - https://www.mediafire.com/file/8prv99y1b09wady/HG+Feet+and+Toes+BHUNP+SE.7z/file                  # HG Feet and Toes
+    - https://www.mediafire.com/file/0li0x872uuwowvl/Dark_Disciple_%255BSE%255D_-_CBBE_-_BHUNP.7z/file  # Dark Disciple BHUNP SE
+    - https://mega.nz/file/7qx30S6b#oNGHcXw1rTj5w39jD7h9PmYWxtNafkcFSbOM1nLSXkg                         # Baka SOS female pubic hair addons expansion
+    - https://mega.nz/file/H2oAASbD#4A9HqcT_GCN6D9qq6CutX-NYDSyQhFH6QzxyIYMeTPg                         # dyndolod output
+    - https://mega.nz/file/G6w21JIR#FU7lDdph1oqn7mpP9Rz7EVyld8yVpC1dkKXfKZDWvEg                         # texgen
+    - https://mega.nz/file/6ih0hbgY#M9t-t3_ZH1cfMtvfR2J1_k7rtShhL1XS7EVHbwJBPpk                         # lodgen
+    - https://mega.nz/file/irQGQbyJ#OWnNk9yND1_rDtoPfe0V8hWKI3bXeJ2Ik1x_Tqdzufs                         # facegen
+    - https://mega.nz/file/amZWzBZS#q_4svefKI7TqoLQBDMX7zFip42_7ygZPEAWRLqwzUIk                         # grasscache
+    - https://mega.nz/file/qrpXBIqS#qEIPhett_FZe4oI2NELeHNCtC1yiYPwG01Sa6eNqTR4                         # ks hair patch
     
     # RGE
     
