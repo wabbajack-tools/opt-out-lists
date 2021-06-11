@@ -278,6 +278,7 @@ AllowedPrefixes:
     - https://www.loverslab.com
     - https://spacedock.info/
     - https://download.fliggerty.com
+    - http://www.shrine-of-kynareth.de # An Oblivion Modders selfhosted mods, lets hope it doesn't break like http://mw.modhistory.com/ 
 
     # Common files
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
@@ -372,6 +373,7 @@ AllowedPrefixes:
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
     - http://download1523.mediafire.com/7w3ri4nuv6lg/r251peo5b4cuw3i/Maxim+Hair+Pack+Newsea.7z # Maxim Hair Pack Newsea
+    - http://www.mediafire.com/file/r6nvavynocz6ku7/Alluring+Wine+Bottles+-+Mead+Patch.7z/file # Alluring Wine Bottles - Mead Patch
     
     # Skyrim VR
     - https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI # VR Visual Enhancements
