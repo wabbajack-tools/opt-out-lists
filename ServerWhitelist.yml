@@ -812,3 +812,7 @@ AllowedPrefixes:
     # RLSkyrim
     
     - https://mega.nz/file/uhIwVRjD#dw82REVLzVo-rIhm8C39v8SNTxKYw3hFQqBwygfP_uU                     # Output Files
+    
+    # Tales from Nirn: Morrowind
+    
+    - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4451      # Retexture of Vvardenfell and Solstheim in original style
