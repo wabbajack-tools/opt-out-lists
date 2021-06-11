@@ -233,7 +233,7 @@ GoogleIDs:
     # Degen Dungeon
     - 15LTUnDIoqAqbV1_XnLMK3N6Y0oyS6nQL # All 7 skills at once
     
-    #SkyREX Metal Edition
+    # SkyREX Metal Edition
     - 1jcZJ9GBmOd074QYtzNk5AZDYK3jA3ndz # DynDoLOD Output.
     - 1gpcmxA5eRVqDnn8HxyBz-bwfm7HHT3tO # patches for Heritage
     - 13zzKCU7ldl8xMq7I-JSBSaeseNwNC0-6 # Nemesis animations generated
@@ -242,6 +242,9 @@ GoogleIDs:
     - 1hyEL0brR8p2mMp5RfVzuHyEpc-frFwp- # xLODGen Output
     - 1NR6H5rTa4VhciWQf_I7WUBsPzg7ky42Y # Synthesis - Overwrite
     - 1gpE6cyrvdkxueLf6IeztyzFM7kSyDm5s # WyreBash - Overwrite
+    
+    # Narsil VR
+    - 1HJZAnWml7-dL4rCcYEKHs7Unv8vxf8ZW # xLODGen Output
     
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
