@@ -281,6 +281,7 @@ AllowedPrefixes:
     - http://www.shrine-of-kynareth.de # An Oblivion Modders selfhosted mods, lets hope it doesn't break like http://mw.modhistory.com/ 
 
     # Common files
+    - https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z # xEdit 4.0.3g (Official Discord Link)
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
     - https://mega.nz/#!RVxiWBYA!Uipp7y8vwpPvyRnNRyHoLVT3wFjIEbIdmouMqfsQm60 # SSE-Terrain-Tamriel.esm
     - https://mega.nz/file/MI41iADD#Qa47iXpHBZLxAICe7My9q-dSAX1Rh9uKQlXFk9vMIOc # SSE-Terrain-Tamriel.esm NEW
