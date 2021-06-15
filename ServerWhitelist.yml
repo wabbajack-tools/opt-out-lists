@@ -818,3 +818,7 @@ AllowedPrefixes:
     # Tales from Nirn: Morrowind
     
     - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4451      # Retexture of Vvardenfell and Solstheim in original style
+    
+    # Tales from the Northern Lands
+    
+    - https://blog.kakaocdn.net/dn/H1jDr/btq4oxONgle/6ENV1nGqob6zw5XHbevwqk/Disable%20Turn%20Animation.7z?knm=tfile.7z # Smooth's Disable Turn Animation Mod
