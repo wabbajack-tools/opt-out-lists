@@ -290,12 +290,6 @@ GoogleIDs:
     - 1NR6H5rTa4VhciWQf_I7WUBsPzg7ky42Y # Synthesis - Overwrite
     - 1gpE6cyrvdkxueLf6IeztyzFM7kSyDm5s # WyreBash - Overwrite
     
-    # Ultimate Skyrim LE
-    - 1rk4Kx0o-pXg_tdwfQfQR_I6ifQaPONaP # 4.2.0 - Core Files
-    - 1J_wQoEeIzY4irZt3MMveCeDI1clX4F2q # 4.2.0 - DynDOLOD
-    - 1jcs_4oUhzqX8pwcHhHFYJipLLhnb6n4e # 4.2.0 - Post-Install
-    - 1JUU8eW6Zzn_Cyg4USnYnov5CtVKrzrWw # 4.2.0 - UltSky Launcher
-    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
@@ -893,3 +887,9 @@ AllowedPrefixes:
     
     # Licentia 
     - http://www.mediafire.com/file/wi5enyq7q14w7ng/CalienteTools.rar/file - 3BBB Underwear BodySlides
+    
+    # Ultimate Skyrim LE
+    - https://mega.nz/file/iUFyhZKY#dfkmNvBHVHxThx8qZzkU6Kt9jEPxOPzjTixSjmiu8mM # 4.1.0 - Core Files
+    - https://mega.nz/file/3NMCjL6T#O6nabmF2ncs4_ancHgvQfqrPo9VqfCxKwBcMEMUa0uo # 4.1.0 - DynDOLOD
+    - https://mega.nz/file/qNUABRjb#ZBQNLSk0ODKYbwiAZr5vBuFlDeJOOzj_lfNZy_XWE9g # 4.1.0 - Post-Install
+    - https://mega.nz/file/LdcnnYiI#Yme9y44fWbBp455SJWB1kgOHKQlfeWSiZr9Vk5SZGFQ # 4.1.0 - UltSky Launcher
