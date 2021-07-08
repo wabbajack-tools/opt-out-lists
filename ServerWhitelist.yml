@@ -290,6 +290,16 @@ GoogleIDs:
     - 1NR6H5rTa4VhciWQf_I7WUBsPzg7ky42Y # Synthesis - Overwrite
     - 1gpE6cyrvdkxueLf6IeztyzFM7kSyDm5s # WyreBash - Overwrite
     
+    # ZaZ Skeleton
+    - 1eAUcQ79tgXzDhRCvnpH6WhNfaKFsjh3a # Zaz Skeleton 3.5
+
+    # BodyTalk
+    - 1yzuDyv2iPHp2bxPhyZu_Wlpo7Zb13_Sm # BodyTalk 3.15
+    
+    # Fusion Girl
+    - 17risPk85w0kQcdNicacpE8krW8tKF3sM # Fusion Girl 180REV1
+    
+    
 AllowedPrefixes:
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
