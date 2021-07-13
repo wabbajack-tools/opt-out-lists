@@ -323,7 +323,6 @@ AllowedPrefixes:
     - https://lotdplus.com/
     - https://cdn.bethsoft.com/ # Bethesda tools
     - https://downloads.vectorplexus.com/
-    - https://storage.vectorplexus.com/
     # - http://mw.modhistory.com/ Disabled because this site dies every 4 days and takes the build server with it
     - http://www.theassimilationlab.com/
     - http://tesalliance.org/
