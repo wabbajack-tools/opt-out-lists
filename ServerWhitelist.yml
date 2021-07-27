@@ -844,13 +844,15 @@ AllowedPrefixes:
 
     # Arkay's Commandment
     
-    - https://mega.nz/file/3gsSmKIa#FcnzpGkl_EBFBiRNS1fdoxAeUlAugMpMkPGR82xXU5k                 # AllGUD Output
-    - https://mega.nz/file/e19whJxA#Mz82hH1CBA1VMGagMkw_ByHDlkc-4-31TOSzj1OU6Wo                 # DynDOLOD Output
-    - https://mega.nz/file/GksEAYQL#jpITAxAUO4qiOPVu1m99qTAFKkTZ4yqQ-jlKDwu8y3o                 # Grass Cache Output
-    - https://mega.nz/file/qgk0HAib#HJaKx4ZnWiv4cWtpA1g-ms5QetrZWuOkRg1dfEiDVYE                 # Nemesis Output
-    - https://mega.nz/file/6xt1AKhY#0zzG2m1CmKJ6MeqLR1S17TSnQSJUtOE-6cR0EldGjUg                 # Requiem for the Indifferent
-    - https://mega.nz/file/mw8yBSbZ#ckQ3cR_186KuiTtwbzssnHFZK2N0_ffkhXVQGwcRUOk                 # TexGen Output
-    - https://mega.nz/file/PskgTABT#6AAnMteTFF-EtOubSzGmVqLgx8ILg-pyvG0EUiwqGik                 # xLODGen Output
+    - https://mega.nz/file/elthFCpL#ba91jd1RGorT96RGTWbCXYF_sutodh7aMWB0hGhuEYM                 # AllGUD Output
+    - https://mega.nz/file/ysl13azR#D1QvN3ea_tl8ANtZ1YKdy2fwhgiVXd44RkwLiKh3KR8                 # AllGUD Patch
+    - https://mega.nz/file/Op01lSia#DOl9wWNqeb5oBil6ZQGIb-SxQcHzk7MdxFTtmaRIM04                 # DynDOLOD Output
+    - https://mega.nz/file/z1l1xQ4B#N0T_AtQii4xXCHASVyLtaKejkaiw8FHb_dp1nKNUOW8                 # FaceGen
+    - https://mega.nz/file/fwlDkIJJ#-SBkW16XaM5P0ovlBQ-GCBCLO4FKbWUEDEe8G_usc1M                 # Grass Cache Output
+    - https://mega.nz/file/Tsth0arD#AEprfVynaDRcCgnyFgB36_lGOjbc8hNEm2U69Aob99k                 # Nemesis Output
+    - https://mega.nz/file/rp1TyQwQ#9_aHHQ9PJbdRPg6YYqcSQsMqv6klV5A6W8H6RJsLVgI                 # Requiem for the Indifferent
+    - https://mega.nz/file/rwlxRYoD#bqrepLG68R4vuZDgVSMc0_bu0gsoo9T-qEyfhJKTS-s                 # TexGen Output
+    - https://mega.nz/file/Gx9zQIzA#CUwm_6M6wYKqQSYt-llmi_jKyPKuPqeey_TFbVn7G6U                 # Terrain LOD
       
     # Tsukirim
     
