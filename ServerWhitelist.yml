@@ -101,6 +101,7 @@ GoogleIDs:
     - 1EgSOMhW086CuaDDrcc18tQr9KVKqHdX8	# 9204 DR Alicia
     - 1Uvi56ncH2_tt0p5sYArWOkBUp7ltjLMq # Streamlined Skyrim Texgen Output
     - 1eSocqYFfZ5_7KyqC-twIWn6lBx-O5fgj # Streamlined Skyrim Dyndolod Output
+    - 1yzuDyv2iPHp2bxPhyZu_Wlpo7Zb13_Sm # BodyTalk 3.15
     
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -909,3 +910,6 @@ AllowedPrefixes:
     
     # Big Wardeb
     - https://www.dropbox.com/s/886ca3m6bc99hc7/Texture%20Fixes.zip
+    
+    # Devil's Food Cake
+    - https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z
