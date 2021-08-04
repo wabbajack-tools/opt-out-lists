@@ -339,6 +339,7 @@ AllowedPrefixes:
     - https://download.fliggerty.com
     - http://www.shrine-of-kynareth.de # An Oblivion Modders selfhosted mods, lets hope it doesn't break like http://mw.modhistory.com/ 
     - https://gist.github.com/ # Github subdomain
+    - https://git.fireundubh.com/ # Fireundubh's Github subdomain
     - https://eddoursul.win/ # Eddoursul mods (Unfound Loot)
 
     # Common files
