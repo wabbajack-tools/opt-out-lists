@@ -114,6 +114,8 @@ GoogleIDs:
     - 11W4f1LQWSlwb4orxD4yVp8qiZ8mz8AO9 # Streamlined Skyrim LODGen
     - 1lD5J9YBdhiTvfUawticUn4z-OJS-wMRv # Streamlined Skyrim Occlusion
     - 1yzuDyv2iPHp2bxPhyZu_Wlpo7Zb13_Sm # BodyTalk 3.15
+    - 1dNsBIaXPNlZWoNMPbPpMjBUfnS4eFUsy # Zangdar Lux Final
+    - 1ffvswEcf6MghF-PbTFL85ZTWELgBQakq # Zangdar Lux ENB Fix
     
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -151,6 +153,11 @@ GoogleIDs:
     - 1RgKwQ3KpZHgxP-CIjvXqleIGZcI5KH3l # Moon Witch
     - 1AU3j37pKA9IWYOnxBB9gXnrZOI1Qz6RS # Robeaus
     - 1eNtJXE51oGmQHYORzIEdHMAa5c7zvGZi # UI
+    - 1iy9FT2kf8vq2g0aTOuFtlLNKiyUepfq9 # Checkmate
+    - 1v3NnIqN-x1Kow3GuYFS7OAeM4GHFvd1- # Shadowcat
+    - 1zx6pYunYVmbRw_G08ZIsKFxBUB5JnTNZ # Arena
+    - 13R4F59XHf3oZsESIGMrGRnbwbqlSULYN # Warden
+    - 1HhKZwprqrh0w8ybw5NUROgderVA2IANY # Ivish
     
     
     # NOISE files
@@ -833,6 +840,31 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/no6svg7y70cj0gx/Troll_Bone_Armor_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529.7z/
     - https://www.mediafire.com/file/htochky0n6j2weo/%255BChristine%255D_Farshadow_Ranger.7z/
     - https://www.mediafire.com/file/d1367rz51t1l6oo/BDO_India_%255BSE%255D_-_CBBE_-_BHUNP_-_%2528Physics_-_SMP%2529.7z/
+    - https://mega.nz/file/F6ZhBaJT#XKdDnI5TqaNaMfYwM9K1_A29nP4iIN7UfjvKOxrWyj8
+    - https://mega.nz/file/xzwQwQZa#lCD2KiMQuD7DAh7vToEjMv-7plMCNhluDHv7v-gXVhQ
+    - https://mega.nz/file/87JHyKSZ#1EWVru3vSWZsknJDUVuFzwreC0Uw7pNffgT5kU5ZSOc
+    - https://mega.nz/file/QmB0kQLZ#DGzlAlvVFuS5SgwMY1SIZk84TAxUDmq-lL6eOQG2nQU
+    - https://mega.nz/file/knQQhQZB#2CeI8ZpOeFCkJpf8Op6-hlzrdKd_eI_AmZtTOkeWRsc
+    - https://mega.nz/file/srR0yIbZ#rsTaW12GjDuG8QW1HuPYlui4ja-gVmNC1WEmTP8iRgQ
+    - https://mega.nz/file/g7IwQYaI#uASe7NJ04jHQ1WYVOmET4TbG5iM8c-xz_c8GtISZz_c
+    - https://mega.nz/file/xnYWwQxQ#zl7tNj9O1opkvDvOpSGGlDfz4wmjtW6A-VvQnFNpgRc
+    - https://mega.nz/file/EqZ2EQpb#dDi75Ix3W5zS_Ee7yOartTRi4_9zpfmrTYVwQKy5Mqg
+    - https://mega.nz/file/uH4E2JYD#sbGEhsJkXjWQol5ZmmYnCDuLtGAhjh73UZGVZsgMcFs
+    - https://www.mediafire.com/file/24drp59wvfmshh0/[Christine]+Nord+Ascended.7z/file
+    - https://www.mediafire.com/file/fgoyj3pxkh9r9ui/%255BChristine%255D_Companion_Moon.7z/file
+    - https://www.mediafire.com/file/jhjb2pajwwi0out/%255BChristine%255D_Exnem_Witch.7z/file
+    - https://www.mediafire.com/file/vme3216ry9ml63s/Gatti_Jewel.7z/file
+    - https://www.mediafire.com/file/y9nkxcyro826w5y/Ves.7z/file
+    - https://www.mediafire.com/file/7x52vaws8aizs7x/%255BChristine%255D_Exnem_Demonic.7z/file
+    - https://www.mediafire.com/file/ova7hrh4etntg7b/%255BChristine%255D_Eldergleam_Queen.7z/file
+    - https://www.mediafire.com/file/vav8pnnh2jpkbgk/Gatti_Misogi_Armor.7z/file
+    - https://www.mediafire.com/file/vlyb03viw5h66k1/(Royan)+Ryza.7z/file
+    - https://www.mediafire.com/file/hsaj1v2hghpwst3/[Christine]+College+Warrior.7z/file
+    - https://www.mediafire.com/file/45q12jkn68jgffs/[Christine]+Arathia.7z/file
+    - https://www.mediafire.com/file/zc5p0x3lrhc5kz2/[Christine]+Dragon+Slaughter.7z/file
+    - https://www.mediafire.com/file/j7hzddlilnk6zc4/[Christine]+Assassin+Girl.7z/file
+    - https://www.mediafire.com/file/jlg702e7u903p6r/TsunTsun+Armor+Remastered.7z/file
+    - https://www.mediafire.com/file/hn0ivyx4azp4us4/Black_Leather_Thief_CBBE_SE.7z/file
 
     # Servitium Test
     
