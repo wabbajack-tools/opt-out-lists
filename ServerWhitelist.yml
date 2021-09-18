@@ -513,6 +513,7 @@ AllowedPrefixes:
     - http://www.mediafire.com/file/pki7oc0ybjovifw/%255BChristine%255D_Forsworn_Retribution.7z/file # [Christine] Forsworn Retribution
     - http://www.mediafire.com/file/73ho5bkcn23xsnn/%255BChristine%255D_Dragon_Breaker.7z/file # [Christine] Dragon Breaker
     - https://www.mediafire.com/file/lcz0mjsf8fyrngy/Redguard+Royal+Armor.7z/file # Redguard Royal Armor
+    - https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.portable.zip #Antimicro - Gamepad tool
 
     # Common SSE LL Mods
     - https://mega.nz/#!jIRgUKDZ!1Px1-XXNSIwDKMeZc4IZe-X6dMXpvlVbNMUrOTiXNNI # SexLabFrameworkSE_v163_BETA8
