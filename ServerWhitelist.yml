@@ -994,3 +994,7 @@ AllowedPrefixes:
     # No, Not Vegas
     - https://c6-dev.github.io/mod/NMFL-NV.zip # No Muzzle Flash Lights
     - https://www.moddb.com/downloads/start/216910?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fa-very-uncreative-collection-of-fpge-mods # FPGE Misc Mods
+    
+    # Box of Rockets
+    - https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/32/artifact/MechJeb2-2.12.3.0.zip # MechJeb
+    - https://ksp.sarbian.com/jenkins/job/ModuleManager/161/artifact/ModuleManager-4.2.1.zip # ModuleManager
