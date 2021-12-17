@@ -336,6 +336,9 @@ GoogleIDs:
     
     # Arkay's Commandment
     - 1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8 # Pi-CHO ENB N6.75 for Azurite Weathers.7z
+
+    # F4WE - Fallout 4 Workshop Extended
+    - 1ujwJqYHtdOvAENRRi0G_783bKJpTVJdM # F4WE - LODGen Output
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
@@ -770,9 +773,6 @@ AllowedPrefixes:
     
     # FO4NSFW
     - https://mega.nz/file/OJlhjAIY#OOXFht6D-oR7t64YS07U2DSqVEG15fBSxst0iWY7M1U # DeviousDevicesFO4
-
-    # F4WE - Fallout 4 Workshop Extended
-    - https://mega.nz/file/2iIxUSaa#r99MJjk0Uz3Hfma5AP4OVOGkHdKGCRBdp7o1-yCfNtM # F4WE - LODGen Output
     
     # SkyrimVR:Dragons Die Twice 
     - https://www.patreon.com/file?h=33799784&i=5130771
