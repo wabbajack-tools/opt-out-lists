@@ -338,6 +338,7 @@ GoogleIDs:
     - 1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8 # Pi-CHO ENB N6.75 for Azurite Weathers.7z
     
 AllowedPrefixes:
+    - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
     
