@@ -336,6 +336,9 @@ GoogleIDs:
     
     # Arkay's Commandment
     - 1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8 # Pi-CHO ENB N6.75 for Azurite Weathers.7z
+
+    # F4WE - Fallout 4 Workshop Extended
+    - 1ujwJqYHtdOvAENRRi0G_783bKJpTVJdM # F4WE - LODGen Output
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
