@@ -343,6 +343,10 @@ GoogleIDs:
     # F4WE - Fallout 4 Workshop Extended
     - 1ujwJqYHtdOvAENRRi0G_783bKJpTVJdM # F4WE - LODGen Output
     
+    # Masterstroke
+    - 1jICQFhpY0miPmHOSjZLEvJtgoWRCFQDL # HIMBO KSO 1.0.3d Bodyslide
+    - 1DMWc4kzWRm-Cwtn3EAmIiRo7p1bJmx15 # Community Overlays 1 CBBE Male + Female Repack
+    
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
