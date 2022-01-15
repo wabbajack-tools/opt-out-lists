@@ -1171,3 +1171,10 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=52597345&i=9135202 # ORomance Stat Editor
     - https://www.patreon.com/file?h=58880671&i=9390040 # OSound
     - https://www.patreon.com/file?h=56220800&i=8891701 # OPubes
+
+    # Fallout 3 Retextures from modgames.net
+
+    - http://download2391.mediafire.com/2lxvv74yt1eg/d1c1vp8g1jbgb8y/Operation+Anchorage.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_operation_anchorage_retexture/33-1-0-16671
+    - http://download2390.mediafire.com/n1uzwcaexjwg/boi3u7tgqan5htt/ThePitt.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_the_pitt_retexture/33-1-0-16642
+    - http://download2391.mediafire.com/j1yia6uoo4hg/fwksyu0v6auw32u/BrokenSteel.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_broken_steel_retexture/33-1-0-16752
+    - http://download2389.mediafire.com/sj4bx967iasg/ql238cvbl494re3/PointLookout.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_point_lookout_retexture/33-1-0-16648
