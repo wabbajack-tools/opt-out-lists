@@ -391,6 +391,7 @@ AllowedPrefixes:
     - https://gist.github.com/ # Github subdomain
     - https://git.fireundubh.com/ # Fireundubh's Github subdomain
     - https://eddoursul.win/ # Eddoursul mods (Unfound Loot)
+    - https://stuporstar.sarahdimento.com/ # Morrowind Modders self hosted mods, has one of the most popular mods hosted there
 
     # Common files
     - https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z # xEdit 4.0.3g (Official Discord Link)
