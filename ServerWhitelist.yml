@@ -1204,3 +1204,9 @@ AllowedPrefixes:
     - http://download2391.mediafire.com/qgkjh16jdfmg/fwksyu0v6auw32u/BrokenSteel.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_broken_steel_retexture/33-1-0-16752
     - http://download2389.mediafire.com/3nh4x6oqaoyg/ql238cvbl494re3/PointLookout.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_point_lookout_retexture/33-1-0-16648
   
+    # Whispering Chills (SKK Mods)
+    
+    - https://skkmods.com/mod/skk-random-encounter-manager/ # SKK Random Encounter Manager (manual download)
+    - https://skkmods.com/?smd_process_download=1&download_id=2303 # SKK Random Encounter Manager (direct download)
+    - https://skkmods.com/?smd_process_download=1&download_id=1105 # SKK 4-76 Open World (direct download)
+    - https://skkmods.com/mod/fallout-476-open-world/ # SKK 4-76 Open World (manual download)
