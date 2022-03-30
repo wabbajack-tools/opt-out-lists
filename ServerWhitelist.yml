@@ -409,6 +409,7 @@ AllowedPrefixes:
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
+    - http://www.mediafire.com/file/d3rarxpig17gwca/bsp_textures2.zip/file # Superpele's Disordered ReTexture Pack v2.0
     - https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z # xEdit 4.0.3g (Official Discord Link)
     - https://cdn.discordapp.com/attachments/518048160526893057/863117377146191882/xEdit_4.0.3h.7z # xEdit 4.0.3h (Official Discord Link)
     - https://cdn.discordapp.com/attachments/518048160526893057/863262167415259146/xEdit_4.0.3h_Hotfix_1.7z # xEdit 4.0.3h Hotfix 1 (Official Discord Link)
