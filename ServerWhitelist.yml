@@ -407,6 +407,7 @@ AllowedPrefixes:
     - https://git.fireundubh.com/ # Fireundubh's Github subdomain
     - https://eddoursul.win/ # Eddoursul mods (Unfound Loot)
     - https://c6-dev.github.io # c6 (xNVSE Dev)'s Github subdomain
+    - https://audixas.github.io # Audixas (Guide and Mod author) Github subdomain
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
