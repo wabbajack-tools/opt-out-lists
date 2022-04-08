@@ -369,6 +369,7 @@ GoogleIDs:
     - 1Ui9npTWvJ0dkZnyRRrcvZcOc5ahsSz10 # DynDOLOD Output
     - 1ZStG2HZKtBKMRTGggG51bFGJnWtPGHNL # TexGen Output
     - 1VVUCNgMnUzULH_sX2fsrywV1d16MJQ4E # xLODGen Output
+    - 17Ox4I4P0rJUIHCPltum-iq8JTBx-vA9j # BakaFactory ABC
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
