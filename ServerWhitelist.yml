@@ -751,6 +751,7 @@ AllowedPrefixes:
     
     # Living Skyrim 3.0.0
     - https://archive.org/download/Wyrmstooth1.17BSSE/Wyrmstooth%201.17B%20SSE.zip # Wyrmstooth 1.17B
+    - https://www.skyrim-guild.com/s/ADXP_Beta_13.zip # ADXP/MCO Beta 1.3
 
     # Living Skyrim Sexy Edition LODs (FogottenGlory & Torhild)
     - https://mega.nz/file/G9JiVA6C#f2_Kni53DFv977Jr0QFWde7U69PMOe0_4aovsHoJgYg # TexGen Output
