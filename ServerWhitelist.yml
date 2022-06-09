@@ -143,7 +143,8 @@ GoogleIDs:
     - 1QHVkQYzuODU9GBjjvwByLHH5hOGalEHi # Morroblivion v66 Installer
     - 10qv1L8SPqCFWVrtXIBt6HxtRgsnkXK0B # Morroblivion v66 Resources
     - 1gmdogBYq_EVL3MC6rYWc-stnh5x6e5EC # Hit - Lever Action Anim Pack
-        
+    - 1hfBglYRVeMN3NxITAdDgxdiEGqZAi-5i # Artifacts Revised - Textures
+    
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
     - 1OzRnQMQd6v-jCdpBCwLtvU1PgP9UHPJx # Godfall
@@ -1221,6 +1222,10 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=65790091&i=10628173 # Artifacts Revised
     - https://www.patreon.com/file?h=65790091&i=10628177 # Nchuak Patch for Artifacts
     - https://www.patreon.com/file?h=65790091&i=10628175 # LOTD Patch for Revised
+    - https://www.patreon.com/file?h=65969282&i=10668148 # AoS Staff Enchanting
+    - https://www.patreon.com/file?h=65969282&i=10668147 # AE Staff Enchanting
+    - https://www.patreon.com/file?h=65969282&i=10668144 # Staff Enchanting
+    - https://www.patreon.com/file?h=67059625&i=10872127 # Universal Storage
 
 
     # Fallout 3 Retextures from modgames.net
