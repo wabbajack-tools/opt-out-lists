@@ -385,6 +385,8 @@ GoogleIDs:
     - 1VVUCNgMnUzULH_sX2fsrywV1d16MJQ4E # xLODGen Output
     - 17Ox4I4P0rJUIHCPltum-iq8JTBx-vA9j # BakaFactory ABC
     
+    # Sex-Is-A-Sidequest
+    - 19nnXIWpy0vYR9NsoHQPa-QGFO1jSGzG5 # Sim Spawn Overhaul
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
@@ -1299,7 +1301,6 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=56206295&i=8889994 # Cult Mod
     - https://basementalcc.com/wp-content/uploads/2022/06/Basemental-Venue-List.package # Basemental Venue List
     - https://basementalcc.com/wp-content/uploads/2022/04/Basemental_Gangs-6.18.56-PUBLIC.zip # Basemental Gangs
-    - https://drive.google.com/file/d/19nnXIWpy0vYR9NsoHQPa-QGFO1jSGzG5/view?usp=sharing # Sim Spawn Overhaul
     - https://www.patreon.com/file?h=27751117&i=10994453 # More CAS Columns
     - https://chii.modthesims.info/getfile.php?file=1908696 # Old School CAS
     - https://chii.modthesims.info/getfile.php?file=1694171 # Personality Please
@@ -1315,3 +1316,4 @@ AllowedPrefixes:
     - https://cdn.simfileshare.net/download/1044371/?dl # Simulation Lag fix
     - https://www.patreon.com/file?h=59069062&i=10292284 # All scenarios
     - https://www.patreon.com/file?h=67868500&i=11020021 # better build buy
+    - https://www.mediafire.com/file/4htk5u1splnps6g/McCmdCenter_AllModules_2022_3_2.zip/file # McCmdCenter
