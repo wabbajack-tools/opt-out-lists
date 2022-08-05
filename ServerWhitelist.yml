@@ -1,6 +1,7 @@
 # Server whitelist for Wabbajack
 
 GoogleIDs:
+    - 1vPe4DxufKEacaQMkMtj9fAnywZ6acPtG # YiffyAge of Skyrim release 13
     - 1TEe9iSthw87_EW9MrSqB58N1h90HcN1k # Clarity TTW
     - 1gylSOUxgfZZtZncOpG_vEr-shceAmcLA # New Reno Episode 3 Assets
     - 1IObmTW15lo1DW5q-RioyeKbIO7yP_5cG # ESM for the above
@@ -417,7 +418,7 @@ AllowedPrefixes:
     - https://3dnpc.files.wordpress.com/
     - https://lotdplus.com/
     - https://cdn.bethsoft.com/ # Bethesda tools
-    - https://downloads.vectorplexus.com/
+    - https://downloads.vectorplexis.com/
     # - http://mw.modhistory.com/ Disabled because this site dies every 4 days and takes the build server with it
     - http://www.theassimilationlab.com/
     - http://tesalliance.org/
