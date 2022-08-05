@@ -1,10 +1,6 @@
 # Server whitelist for Wabbajack
 
 GoogleIDs:
-    - 1sKJDRgnbq1Qc2myTJzx0gqE668d4weVF # SAM HPC for SkyFurry
-    - 1Z6L9SFYPYm_lJ5wtM8fcxYZ6NNrOrXxH # SAM RM Morphs for SkyFurry
-    - 1KE4F2SelfQT-admcHq7macPOE0MMyh_E # Male Body for SkyFurry
-    - 1vPe4DxufKEacaQMkMtj9fAnywZ6acPtG # YiffyAge of Skyrim release 13
     - 1TEe9iSthw87_EW9MrSqB58N1h90HcN1k # Clarity TTW
     - 1gylSOUxgfZZtZncOpG_vEr-shceAmcLA # New Reno Episode 3 Assets
     - 1IObmTW15lo1DW5q-RioyeKbIO7yP_5cG # ESM for the above
@@ -398,6 +394,13 @@ GoogleIDs:
     - 1LkYKrl8OVABwJLvEea3SP7Oj1O4-PjDj # Lighting 1
     - 1rObd6KfQ8lVfKMTfL_BTWtn6HmVK_CEu # Lighting 2
     - 1JFaRp3xnL9WaTNhjWK7Vy9X1Pk5vR3cQ # Lighting 3
+    
+    # SkyFurry
+    - 1sKJDRgnbq1Qc2myTJzx0gqE668d4weVF # SAM HPC for SkyFurry
+    - 1Z6L9SFYPYm_lJ5wtM8fcxYZ6NNrOrXxH # SAM RM Morphs for SkyFurry
+    - 1KE4F2SelfQT-admcHq7macPOE0MMyh_E # Male Body for SkyFurry
+    - 1vPe4DxufKEacaQMkMtj9fAnywZ6acPtG # YiffyAge of Skyrim release 13
+    
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
