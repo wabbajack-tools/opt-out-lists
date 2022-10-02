@@ -149,6 +149,15 @@ GoogleIDs:
     - 1QFpYovaDg7pr4bUpeSN4dBKR_QtT9dqu # Lux 5.0 Beta 1
     - 0B4iEH8ar3jtxbFlkVzZSVHN0alk # SkyUI SDK
     - 1kL7eiyKGaHYwYHIgmcHmzFuSSA8D6JT1 # Cabbage ENB is a publicly available link
+    - 12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k # full_inu Armor Pack    
+    - 19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP # Cosmofujia's ER Black Knife & Godslayer's Greatsword
+    - 1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX # Cosmofujia's Elden Ring Spears
+    - 1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA # Tullfx Bloodstorm
+    - 1A8ZQrzA675l1PcDJEOVe3j7rjcnHvp9q # mofu's Olivier Kenjutsu Sword v1.1
+    - 1MHmaAQnX89tssUziX9NZWoV66B_WwEBf # mofu's Olivier Kenjutsu Sword v2.0
+    - 14cix5FZNgPiAJV8mfwB2Yfcqchkd1KqJ # mofu's Olivier Kenjutsu Katana
+    - 1rX4INfO3ieWp25gPh0NiLPl1ktLoegZ9 # mofu's Olivier Kenjutsu Battleaxe and Warhammer
+    - 14WLQgjMaExudmcExtXUAfESc0eV_8k6N # SCAR/ADXP 1.4.3 sneak fix from maxsu
     
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -1423,28 +1432,19 @@ AllowedPrefixes:
     # Arisen (aljo's stuff)
     - https://www.skyrim-guild.com/s/ADXP-Beta-142.zip # ADXP/MCO v1.4.2
     - https://www.skyrim-guild.com/s/ADXP-Beta-143.zip # ADXP/MCO v1.4.3
-    - 14WLQgjMaExudmcExtXUAfESc0eV_8k6N # SCAR/ADXP 1.4.3 sneak fix from maxsu
     - https://www.skyrim-guild.com/s/DMCO-095.7z # DMCO v0.95
     - https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar # Impactful Blocking v1.4
     - https://www.skyrim-guild.com/s/Vanguard-2_2.rar # Vanguard v2.2
     - https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip # DXP Creatures Preview 1
     - https://www.patreon.com/file?h=68233071&i=11449877 # Eskyrim MCO Animations FOMOD (updated link)
     - https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw # Eskyrim 3-Hit Spear Combo
-    - 1rX4INfO3ieWp25gPh0NiLPl1ktLoegZ9 # mofu's Olivier Kenjutsu Battleaxe and Warhammer
-    - 14cix5FZNgPiAJV8mfwB2Yfcqchkd1KqJ # mofu's Olivier Kenjutsu Katana
-    - 1MHmaAQnX89tssUziX9NZWoV66B_WwEBf # mofu's Olivier Kenjutsu Sword v2.0
-    - 1A8ZQrzA675l1PcDJEOVe3j7rjcnHvp9q # mofu's Olivier Kenjutsu Sword v1.1
     - https://mega.nz/file/UOEA0CyL#RP6q-q4zRtc2X0k45FIXfBLh5yS7IrsPAIG7FEZ5Hbc # One Click Power Attack v1.2
     - https://www.patreon.com/file?h=69418463&i=11393448 # Cosmofujia's Elden Ring Twinblades
-    - 1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA # Tullfx Bloodstorm
     - https://www.skyrim-guild.com/s/Arena-Movement.zip # ArenaMovement V2
     - https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z # MikeNike Elder Souls Collection v0.9
     - https://www.patreon.com/file?h=68233071&i=11449874 # Eskyrim Sprinting Animations
-    - 1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX # Cosmofujia's Elden Ring Spears
-    - 12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k # full_inu Armor Pack
     - https://www.skyrim-guild.com/s/Valkyrie-SwordShield-v01.zip # Valkyrie Sword and Shield
     - https://www.patreon.com/file?h=68668550&i=11200681 # Cosmofujia's ER Royal Greatsword
-    - 19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP # Cosmofujia's ER Black Knife & Godslayer's Greatsword
     - https://www.patreon.com/file?h=69498503&i=11344694 # Cosmofujia's ER Heavy Rapier
     - https://www.patreon.com/file?h=68559197&i=11129178 # Cosmofujia's ER Halberds
     - https://www.patreon.com/file?h=72630858&i=11888214 # Cosmofujia's Hand of Malenia
