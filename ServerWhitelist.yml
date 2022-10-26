@@ -445,6 +445,10 @@ GoogleIDs:
     - 1rlbyhbo4P9zN7fOGAaFPA1FkIIODdDvc # Marsh Trees
     - 1k5hw1vtIsUWrO230ZVKbCM8dOFmTE3Jl # COTN Morthal - Reduced Poly Rooves
     
+    # Horizon Roleplay Edition (F4EE version 2.0)
+    - 1Sv6KyUby-ZcMsPcTqYxFIFalRaTVKFbR # PANPC - Horizon Patch
+    - 1CQ2s0aqPcvjaS-FuUFifb_qGgPC8NUaI # PACE - Horizon Patch
+    
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
