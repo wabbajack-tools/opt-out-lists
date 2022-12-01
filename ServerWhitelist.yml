@@ -483,6 +483,7 @@ AllowedPrefixes:
     # - http://mw.modhistory.com/ Disabled because this site dies every 4 days and takes the build server with it
     - http://www.theassimilationlab.com/
     - http://tesalliance.org/
+    - https://tesall.ru/
     - https://taleoftwowastelands.com/
     - http://www.loverslab.com
     - https://www.loverslab.com
