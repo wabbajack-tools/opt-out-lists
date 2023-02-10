@@ -527,6 +527,7 @@ AllowedPrefixes:
     - https://valheim.thunderstore.io/ # Valheim based modding, includes more, isolated mods that aren't hosted on Nexus Mods.
 
     # Common files
+    - https://www.moddb.com/downloads/mirror/128019/123/216f6e8096d63d3cd28974dee5bcc761/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2Fdownloads # Vanilla UI Plus 9.47 (New Vegas)
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
     - http://www.mediafire.com/file/d3rarxpig17gwca/bsp_textures2.zip/file # Superpele's Disordered ReTexture Pack v2.0
     - https://cdn.discordapp.com/attachments/934574001366380584/942219510163845160/nvse_6_2_6b8.7z # beta xNVSE update (Official Discord Link)
