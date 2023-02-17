@@ -1697,3 +1697,6 @@ AllowedPrefixes:
     
     #FUS
     - https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip #Nvidia DLSS
+    
+    # Fable Lore
+    - https://www.patreon.com/file?h=70012838&i=12425533 # FreeFlyCam 13.2.5
