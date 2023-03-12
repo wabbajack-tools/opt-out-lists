@@ -500,13 +500,6 @@ GoogleIDs:
     - 15AMUbiOoXiL9rq2UwiSsdyFJZlK4H-Qy # Blue Ogres
     - 1pLDWnaTbTpIRfLRRAxfNhbdcZQ2DjAb5 # XPMSSE Female Skeleton Fix
     - 1TpHJaos3j-wfG80TOQWsfqnzrzTh3QT2 # Bolar
-
-    # Fallen Society
-    - 15S6rrFk6x2WixGscQ9Us0toKCaHZG9dY #F4SE Data
-    - 1yQjDDhOk3qiC9gnHYEQ_fOH5__SouA7U # xLodGen Output
-    - 14ziBTyqgN6k9n5wGmflk-hbM3iILQSoO # TexGen Output
-    - 1t_O7IkBZbvP0o1xfazQPpOcKRUfkfXIa # Bodytalk Bodyslide Files
-    - 1ebgu-KPnsPjH70FeQzm4wTl5B0Z5r008 # Fusion Girl Bodyslide Files
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
