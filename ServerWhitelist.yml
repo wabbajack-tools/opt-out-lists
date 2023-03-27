@@ -1275,6 +1275,9 @@ AllowedPrefixes:
     
     - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4451      # Retexture of Vvardenfell and Solstheim in original style
     
+    # Sforzinda official drive ids
+    - 1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ # Sforzinda Imitations
+    
     # Tales from Nirn: Skyrim
     - https://1drv.ms/u/s!AtQUPO-wzfPgqkGpxZD9q494JRSE?e=1szbz6 # Sforzinda Variations
     - https://1drv.ms/u/s!AtQUPO-wzfPgqT5Sp-Z0VxF2iDJ0?e=LdxMml # Sforzinda Variations Fashions of the Fourth Era Patch
