@@ -543,6 +543,7 @@ AllowedPrefixes:
     - https://www.skyrim-guild.com/ # Modern Combat Skyrim stuff mostly. Distar/Adri host here
     - https://valheim.thunderstore.io/ # Valheim based modding, includes more, isolated mods that aren't hosted on Nexus Mods.
     - https://geckwiki.com/ # New Vegas Creation Kit
+    - https://gamebanana.com/ # Primary Persona modding site
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
