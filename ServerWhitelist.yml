@@ -401,9 +401,6 @@ GoogleIDs:
     
     # Fusion Girl
     - 17risPk85w0kQcdNicacpE8krW8tKF3sM # Fusion Girl 180REV1
-    
-    # Arkay's Commandment
-    - 1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8 # Pi-CHO ENB N6.75 for Azurite Weathers.7z
 
     # F4WE - Fallout 4 Workshop Extended
     - 1ujwJqYHtdOvAENRRi0G_783bKJpTVJdM # F4WE - LODGen Output
@@ -1209,16 +1206,7 @@ AllowedPrefixes:
     - http://ksp.necrobones.com/files/SpaceY-Lifters/SpaceY-Lifters-1.17.1.zip  # SpaceY Heavy Lifters 1.17.1
 
     # Arkay's Commandment
-    
-    - https://mega.nz/file/f8VAmZyb#B1u18Wh959h0XK-PbrGmWUtg5uy_g7m6OU0rHFp3VEM                 # AllGUD Meshes
-    - https://mega.nz/file/ysl13azR#D1QvN3ea_tl8ANtZ1YKdy2fwhgiVXd44RkwLiKh3KR8                 # AllGUD Patch
-    - https://mega.nz/file/Op01lSia#DOl9wWNqeb5oBil6ZQGIb-SxQcHzk7MdxFTtmaRIM04                 # DynDOLOD Output
-    - https://mega.nz/file/z1l1xQ4B#N0T_AtQii4xXCHASVyLtaKejkaiw8FHb_dp1nKNUOW8                 # FaceGen
-    - https://mega.nz/file/fwlDkIJJ#-SBkW16XaM5P0ovlBQ-GCBCLO4FKbWUEDEe8G_usc1M                 # Grass Cache Output
-    - https://mega.nz/file/Tsth0arD#AEprfVynaDRcCgnyFgB36_lGOjbc8hNEm2U69Aob99k                 # Nemesis Output
-    - https://mega.nz/file/rp1TyQwQ#9_aHHQ9PJbdRPg6YYqcSQsMqv6klV5A6W8H6RJsLVgI                 # Requiem for the Indifferent
-    - https://mega.nz/file/rwlxRYoD#bqrepLG68R4vuZDgVSMc0_bu0gsoo9T-qEyfhJKTS-s                 # TexGen Output
-    - https://mega.nz/file/Gx9zQIzA#CUwm_6M6wYKqQSYt-llmi_jKyPKuPqeey_TFbVn7G6U                 # Terrain LOD
+    - https://web.archive.org/web/20220406163601/https://codeload.github.com/crosire/reshade-shaders/zip/refs/heads/master
       
     # Tsukiro
     
