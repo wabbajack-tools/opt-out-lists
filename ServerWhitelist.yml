@@ -401,9 +401,6 @@ GoogleIDs:
     
     # Fusion Girl
     - 17risPk85w0kQcdNicacpE8krW8tKF3sM # Fusion Girl 180REV1
-    
-    # Arkay's Commandment
-    - 1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8 # Pi-CHO ENB N6.75 for Azurite Weathers.7z
 
     # F4WE - Fallout 4 Workshop Extended
     - 1ujwJqYHtdOvAENRRi0G_783bKJpTVJdM # F4WE - LODGen Output
@@ -483,6 +480,9 @@ GoogleIDs:
     - 1pLDWnaTbTpIRfLRRAxfNhbdcZQ2DjAb5 # XPMSSE Female Skeleton Fix
     - 1TpHJaos3j-wfG80TOQWsfqnzrzTh3QT2 # Bolar
 
+    # Parabellum
+    - 1yzuDyv2iPHp2bxPhyZu_Wlpo7Zb13_Sm # BodyTalk 3 May 2023
+
     # Ro
     - 1wRza-EA8P_O-XlXIxGIytyju4OI2xS8K # Jelidity's Ryn's Karthspire Tweaks
     - 1xGaQXaWVBWuOVxXuMmXhUPJA9--Yzsu8 # Jelidity's Resist Frost Gives Warmth
@@ -511,6 +511,7 @@ AllowedPrefixes:
     - https://lotdplus.com/
     - https://cdn.bethsoft.com/ # Bethesda tools
     - https://downloads.vectorplexis.com/
+    - https://gitlab.com/ #Used for OpenMW
     # - http://mw.modhistory.com/ Disabled because this site dies every 4 days and takes the build server with it
     - http://www.theassimilationlab.com/
     - http://tesalliance.org/
@@ -710,6 +711,7 @@ AllowedPrefixes:
     - https://www.skyrim-guild.com/s/SkySAv28.zip # SkySA - V2.8
     - https://az764295.vo.msecnd.net/stable/da76f93349a72022ca4670c1b84860304616aaa2/VSCode-win32-x64-1.70.0.zip # Visual Studio Code
     - https://www.patreon.com/file?h=65532242&i=10998255 # ESkyrim MCO Animations
+    - https://www.patreon.com/file?h=82920846&i=14179396 # Kingeric's d3dcompiler_43 wrapper
 
     # Common SSE LL Mods
     - https://mega.nz/#!jIRgUKDZ!1Px1-XXNSIwDKMeZc4IZe-X6dMXpvlVbNMUrOTiXNNI # SexLabFrameworkSE_v163_BETA8
@@ -1206,16 +1208,7 @@ AllowedPrefixes:
     - http://ksp.necrobones.com/files/SpaceY-Lifters/SpaceY-Lifters-1.17.1.zip  # SpaceY Heavy Lifters 1.17.1
 
     # Arkay's Commandment
-    
-    - https://mega.nz/file/f8VAmZyb#B1u18Wh959h0XK-PbrGmWUtg5uy_g7m6OU0rHFp3VEM                 # AllGUD Meshes
-    - https://mega.nz/file/ysl13azR#D1QvN3ea_tl8ANtZ1YKdy2fwhgiVXd44RkwLiKh3KR8                 # AllGUD Patch
-    - https://mega.nz/file/Op01lSia#DOl9wWNqeb5oBil6ZQGIb-SxQcHzk7MdxFTtmaRIM04                 # DynDOLOD Output
-    - https://mega.nz/file/z1l1xQ4B#N0T_AtQii4xXCHASVyLtaKejkaiw8FHb_dp1nKNUOW8                 # FaceGen
-    - https://mega.nz/file/fwlDkIJJ#-SBkW16XaM5P0ovlBQ-GCBCLO4FKbWUEDEe8G_usc1M                 # Grass Cache Output
-    - https://mega.nz/file/Tsth0arD#AEprfVynaDRcCgnyFgB36_lGOjbc8hNEm2U69Aob99k                 # Nemesis Output
-    - https://mega.nz/file/rp1TyQwQ#9_aHHQ9PJbdRPg6YYqcSQsMqv6klV5A6W8H6RJsLVgI                 # Requiem for the Indifferent
-    - https://mega.nz/file/rwlxRYoD#bqrepLG68R4vuZDgVSMc0_bu0gsoo9T-qEyfhJKTS-s                 # TexGen Output
-    - https://mega.nz/file/Gx9zQIzA#CUwm_6M6wYKqQSYt-llmi_jKyPKuPqeey_TFbVn7G6U                 # Terrain LOD
+    - https://web.archive.org/web/20220406163601/https://codeload.github.com/crosire/reshade-shaders/zip/refs/heads/master
       
     # Tsukiro
     
@@ -1455,6 +1448,7 @@ AllowedPrefixes:
     # Fallout 3 Retextures from modgames.net
 
     - http://download2391.mediafire.com/2lxvv74yt1eg/d1c1vp8g1jbgb8y/Operation+Anchorage.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_operation_anchorage_retexture/33-1-0-16671
+    - https://cdn.discordapp.com/attachments/1053054518172069918/1109366076569047060/PPlus_1.8.2.5-MergedPatch.zip # Sexlab PPLUS Positions + Init + SLSO Patch Merge
     - http://download2390.mediafire.com/8pt5ps75yzmg/boi3u7tgqan5htt/ThePitt.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_the_pitt_retexture/33-1-0-16642
     - http://download2391.mediafire.com/qgkjh16jdfmg/fwksyu0v6auw32u/BrokenSteel.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_broken_steel_retexture/33-1-0-16752
     - http://download2389.mediafire.com/3nh4x6oqaoyg/ql238cvbl494re3/PointLookout.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_point_lookout_retexture/33-1-0-16648
@@ -1546,6 +1540,7 @@ AllowedPrefixes:
     - https://www.skyrim-guild.com/s/Attack-MCODXP-v1502.zip # ADXP/MCO 1.5.0.2
     - https://www.skyrim-guild.com/s/Attack-MCODXP-v1602.zip # ADXP/MCO 1.6.0.2
     - https://www.skyrim-guild.com/s/Attack-MCODXP-v1603.zip # ADXP/MCO 1.6.0.3 (if distar updates again i will scream)
+    - https://www.skyrim-guild.com/s/Attack-MCO-DXP-v1606.zip # ADXP/MCO 1.6.0.6 (added for u <3 caco)
     - https://www.skyrim-guild.com/s/DMCO-095.7z # DMCO v0.95
     - https://www.skyrim-guild.com/s/DMCO_096.zip # DMCO v0.96
     - https://www.skyrim-guild.com/s/Dodge-MCODXP-v201.zip # DMCO v2.0.1
@@ -1600,7 +1595,7 @@ AllowedPrefixes:
     - https://vectorplexis.com/files/file/283-high-poly-head # High Poly Head SE
     - https://vectorplexis.com/files/file/582-cosmetic-vampire-overhaul-hd # Cosmetic Vampire Overhaul HD SE
     - https://www.skyrim-guild.com/s/DMCO_096.zip # DMCO VERSION 0.96
-    - https://www.mediafire.com/file/bqg1vo0w0161r0q/SSE_SFW_Demonic_Creatures_V1.6.7z/file # Demonic Creatures SFW 1.6
+    - https://www.mediafire.com/file/axqqgh7wgj8p2f9/SSE_SFW_Demonic_Creatures_V1.6.7z/file # Demonic Creatures SFW 1.6
     - http://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file #Vanilla Chokers and Earrings
     - https://mega.nz/file/bHZw1JLZ#2N1-yDAM4vim4IT-RN38laQvGFwozgt5MSZJC0AQrtE # DX DRUID HDT-SMP Patch
     - https://kaidanmod.com/wp-content/uploads/2022/11/BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1.7z # Kaidan 2 BWB Skyrim Got Talent Patch
@@ -1646,6 +1641,7 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=71131410&i=11736475 # Fuse00's Yen hair
     - https://disk.yandex.ru/d/x1F2Gc8SWnZHfg # Beards from DDS Workshop
     - https://www.patreon.com/file?h=69951525&i=11395543 # kingeric's attempt at a DAR crash fix
+    - https://www.patreon.com/file?h=80940548&i=13610342 # Fuse00's Spyro Axe and Shield
     
 
     # Dungeons & Daedra
@@ -1735,8 +1731,13 @@ AllowedPrefixes:
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/2tx0WJ5B # Nuka Ride 6.2.1
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/n8RgBTII # Nuka Ride 6 Bodyslide for CBBE 1.03
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/r9gT2JYA # Nuka Ride 6.1 Voices by Axary (xVASynth ) and Kalistara (11labs) 1.0
+
+    # More of caco's Cringe
     
-    # Uncut Wastelands Enhanced by Dank Lord
+    - https://www.mediafire.com/file/jawkdmiu75gxa3s/AFS+redone+0.7.zip/file # A Forsworn Story Redone 0.7
+    - https://cdn.discordapp.com/attachments/1053054518172069918/1109366076569047060/PPlus_1.8.2.5-MergedPatch.zip # SexLab PPLUS Sort Positions + Init + SLSO Patch Merge
+    
+     # Uncut Wastelands Enhanced by Dank Lord
     - https://www.mediafire.com/file_premium/hni9zvlnjpfjb3f/Visual_Weapon_Mod_Menu_V2-71677-2-1619290760.rar/file # Visual Weapon Mod Menu V2
     - https://www.mediafire.com/file_premium/obyeuzq7kr1eing/Cyberware_2281_1.3.3_eddoursul.win.7z/file # Cyberware 2281 1.3.3
     - https://www.mediafire.com/file_premium/m0ngcmflc0swvup/Cyberware_2281_-_B42_Quickthrow_3.1b_Patch_eddoursul.win.7z/file # Cyberware 2281 1.3.3 3.1b B42 Quickthrow Patch
