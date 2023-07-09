@@ -162,6 +162,9 @@ GoogleIDs:
     - 1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2 # Fixed Equip Sprint Bug Fix from Skyrim Guild
     - 1M3KwLvdQ3XP9MUqHQ0CfqBMsWhli3LC0 # Thief 1.4.2 from https://www.loverslab.com/files/file/4027-thief/
     - 1Mm-rZMjwpCIqeX2xFAsAXZxOWREIQhUM # SuperPele Texture pack for New Vegas
+    - 11TgwNgtbfM1A1AHyp5_C9lGXCeMPTAfn # attacko boss movesets
+    - 19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI # Cosmofujia's ER Great Spears
+    - 11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n # Cosmofujia's ER Legendary Weapons
     
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -1568,9 +1571,6 @@ AllowedPrefixes:
     - https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw/file/gs8AWBJC # COTP Direct Link in hopes of improving user experience    - 
 
     # Vagabond (Ylik's stuff)
-    - 11TgwNgtbfM1A1AHyp5_C9lGXCeMPTAfn # attacko boss movesets
-    - 19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI # Cosmofujia's ER Great Spears
-    - 11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n # Cosmofujia's ER Legendary Weapons
     - https://www.patreon.com/file?h=84565566&i=14552293 # animated interactions skse
     - https://www.patreon.com/file?h=68914571&i=11564092 # eskyrim dual axe
     - https://www.patreon.com/file?h=73960863&i=12153333 # Cosmofujia's ER commander's standard
