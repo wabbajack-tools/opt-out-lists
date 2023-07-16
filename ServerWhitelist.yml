@@ -162,6 +162,9 @@ GoogleIDs:
     - 1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2 # Fixed Equip Sprint Bug Fix from Skyrim Guild
     - 1M3KwLvdQ3XP9MUqHQ0CfqBMsWhli3LC0 # Thief 1.4.2 from https://www.loverslab.com/files/file/4027-thief/
     - 1Mm-rZMjwpCIqeX2xFAsAXZxOWREIQhUM # SuperPele Texture pack for New Vegas
+    - 11TgwNgtbfM1A1AHyp5_C9lGXCeMPTAfn # attacko boss movesets
+    - 19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI # Cosmofujia's ER Great Spears
+    - 11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n # Cosmofujia's ER Legendary Weapons
     
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -1566,6 +1569,16 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=68558668&i=11129077 # Cosmofujia's Rivers of Blood and Moonveil
     - https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw # Children of the Pariah 
     - https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw/file/gs8AWBJC # COTP Direct Link in hopes of improving user experience    - 
+
+    # Vagabond (Ylik's stuff)
+    - https://www.patreon.com/file?h=84565566&i=14552293 # animated interactions skse
+    - https://www.patreon.com/file?h=68914571&i=11564092 # eskyrim dual axe
+    - https://www.patreon.com/file?h=73960863&i=12153333 # Cosmofujia's ER commander's standard
+    - https://www.patreon.com/file?h=68558518&i=11200671 # Cosmofujia's ER Miquellan Knight's Sword
+    - https://www.patreon.com/file?h=68764133&i=11164539 # Cosmofujia's ER Nagakiba
+    - https://www.patreon.com/file?h=80323534&i=13464512 # Cosmofujia's Azure Dragon Glaive
+    - https://www.patreon.com/file?h=76242640&i=12606554 # nioh dai-katana mco
+    - https://eddoursul.win/download/879 # Artifact tracker lotd patch
     
     # Tahrovin
     - https://mega.nz/file/o6o1wIhC#dX4vfLGvsYjzUmGxH7ECyyB0KuN3ELB0KFXybH8-Yyk # ED Horns SSE
@@ -1733,8 +1746,10 @@ AllowedPrefixes:
     - https://mega.nz/file/QSZ2UQhQ#NiBll61rgvS8tqwO2PpP3OjfnrDds8JiYM73Sx8PqvQ # BodySlides
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/2tx0WJ5B # Nuka Ride 6.2.1
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/HooF3L7J # Nuka Ride 6.2.4
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/jxgACYaZ # Nuka Ride 6.3.3
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/n8RgBTII # Nuka Ride 6 Bodyslide for CBBE 1.03
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/HooF3L7J # Nuka Ride 6.2 BodySlide for CBBE 1.04
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/T5pS1JAB # Nuka Ride 6.3 BodySlide for CBBE 1.2
     - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/r9gT2JYA # Nuka Ride 6.1 Voices by Axary (xVASynth ) and Kalistara (11labs) 1.0
 
     # More of caco's Cringe
@@ -1744,6 +1759,10 @@ AllowedPrefixes:
     - https://migal3d.com/downloads/NaughtyVoices_2-3-ST19x8U4TjffK2f4b2U.zip # Naughty Voices 2.3
     - https://migal3d.com/downloads/OPrivacy_2-7b-Yu29g3453YqWER9J.zip # OPrivacy 2.7b
     - https://migal3d.com/downloads/Excitable_Subs-1-3b_22qFtUhQT6G427.zip # Excitable Subs 1.3b
+    - https://mega.nz/file/x7BE3aLY#UfBp2PdATkHcNET4bIDUHwwyVA4r8zTS8_misjkWA1o # SexLab Succubus Twins
+
+    # Brii
+    - https://mega.nz/file/9IhgmAiA#K37BG0fYfe15oOqbfhNjDgrzDGjRjFJHmuZs_yRNvIY # xLODGen 7z Archive
 
     # Skyrim Fuckery Armors
     - https://mega.nz/file/SMlzASbZ#cz-o5g_E3UeWfqjg02KQhifZj8VUgtEHLSvo_bSHXL0 # Adventurer's Wardrobe
