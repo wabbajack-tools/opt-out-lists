@@ -502,6 +502,9 @@ GoogleIDs:
     # Ro
     - 1wRza-EA8P_O-XlXIxGIytyju4OI2xS8K # Jelidity's Ryn's Karthspire Tweaks
     - 1xGaQXaWVBWuOVxXuMmXhUPJA9--Yzsu8 # Jelidity's Resist Frost Gives Warmth
+
+    # Camboi
+    - 1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ # Sforzinda Imitations
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
