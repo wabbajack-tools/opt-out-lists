@@ -502,6 +502,9 @@ GoogleIDs:
     # Ro
     - 1wRza-EA8P_O-XlXIxGIytyju4OI2xS8K # Jelidity's Ryn's Karthspire Tweaks
     - 1xGaQXaWVBWuOVxXuMmXhUPJA9--Yzsu8 # Jelidity's Resist Frost Gives Warmth
+
+    # Camboi
+    - 1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ # Sforzinda Imitations
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
@@ -1839,6 +1842,3 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/chu7an3jow3b5eo/[NINI]+Karlstein.7z/file # [NINI] Karlstein: SunJeong
     - https://www.mediafire.com/file/bsfusujpep24gv3/[NINI]+Red+Nose.7z/file # [NINI] Red Nose: SunJeong
     - https://www.mediafire.com/file/31rtp8makdnazxi/[Christine]+Venom+Blade+Maiden.7z/file # [Christine] Venom Blade Maiden
-
-    # Camboi
-    - 1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ # Sforzinda Imitations
