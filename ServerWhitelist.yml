@@ -169,7 +169,6 @@ GoogleIDs:
     - 1Idn2Y-_dTCoRtUrohb0zNS3Nea2CfheY # Olivier Kenjutsu Greatsword MCO
     - 1PigoPEWDTgS66jKtYaeW_qDHHTXJ88wQ # [Dint999] BDOR Hairs SSE 0.14
     - 1hUphVf6njuMmFWEbUdMJwjm0xspYtz6S # Dirt Roads Beta
-    - 1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP # Fallout Anomaly HUDS
     
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -506,6 +505,15 @@ GoogleIDs:
 
     # Camboi
     - 1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ # Sforzinda Imitations
+
+    # Fallout Anomaly
+    - 1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP # Fallout Anomaly HUDS
+    - 1KdsyV6Sy9rnIyPBKUfwY97I4EnOKNja8 # [KB-47]-ModernVehicles-V1.4.7z
+    - 1687w6nhpTEpKEf2Ea6YqD8XGltvsxRlF # [KB-47]GHOULS 1.0.7z
+    - 1Kic3ImyCIebxcGRZbaKtHJEHh53pKtV_ # [KB-47]-INSTITUTE 1.3.7z
+    - 1ExrOI3yo-OGEk_Iif3tAlxf8n7UpDpjo # [KB-47]-ROBOTS 1.1.7z
+    - 1sWpTDjSYC4xwhEveSuVhykjzHpZ2Qk1Y # [KB-47]Deathclaw Replacer 2.0.7z
+    - 1hLm4nAlg1GID_w868ez3-SN-kj2J0DIe # [KB-47] SYNTHS 1.4.7z
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
@@ -1848,3 +1856,4 @@ AllowedPrefixes:
 
     # Fallout Anomaly
     - https://storage.icestormng-mods.de/s/Jp9nfE8g4iQmyy8/download?path=%2F1.2%2FRelease&files=IceStorms%20Hair%201.2.7z&downloadStartSecret=s0bm398ive # Haircut mod by IceStormNG
+    - https://github.com/isathar/F4_AmmoTweaks/releases/download/1.1/F4_AmmoTweaks_v1.11.7z # Ammo tweaks by Isathar
