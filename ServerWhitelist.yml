@@ -557,7 +557,6 @@ AllowedPrefixes:
     - http://www.shrine-of-kynareth.de # An Oblivion Modders selfhosted mods, lets hope it doesn't break like http://mw.modhistory.com/ 
     - https://gist.github.com/ # Github subdomain
     - https://git.fireundubh.com/ # Fireundubh's Github subdomain
-    - https://eddoursul.win/ # Eddoursul mods (Unfound Loot)
     - https://c6-dev.github.io # c6 (xNVSE Dev)'s Github subdomain
     - https://audixas.github.io # Audixas (Guide and Mod author) Github subdomain
     - https://www.skyrim-guild.com/ # Modern Combat Skyrim stuff mostly. Distar/Adri host here
@@ -657,13 +656,10 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=59495813&i=9545329 # Patreon for RaceMenu AE
     - https://www.patreon.com/file?h=59959475&i=9624564 # Patreon for RaceMenu AE 0.4.19.8
     - https://mega.nz/file/8Iog2abQ#0rQzamCU_uv68QpnBjvlR8SSepyek7LM6sow4rQFh_c # xLODGen 86
-    - https://eddoursul.win/download/582 # Unfound Loot NV
-    - https://eddoursul.win/download/201 # Unfound Loot NV INI
     - https://mega.nz/folder/6dBjwa4R#u5pw7JsxcJI_IAzayULZbw # Th3Overseer Mod Collection
     - https://c6-dev.github.io/mod/NMFL-NV_2.0.7z # C6 Github downloads
     - https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file # Spice of Life NV 1.5
     - https://www.moddb.com/downloads/start/209436?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fthe-ncr # The NCR (ModDB)
-    - https://eddoursul.win/download/228 # Immersive Primary Needs (NV)
     - https://www.patreon.com/file?h=66659308&i=10797349 # Patreon for RaceMenu AE version 0.4.19.9.2
     - https://mega.nz/file/VOg2xYTa#q-MJTjUEz3_BRbpkDF6AhX0vSlYBouKHJVcRhRPLNJo # OrcTeethReplacement-SE
     - https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip # Skyrim Guild Creature mod version 1
@@ -1456,11 +1452,7 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/kui619aljunjssg/%255BCloud%255D_Layered_Gowns_-_3BA.zip/file # Cloud Layered Gowns
     - https://www.patreon.com/file?h=70012838&i=12425533 # FreeFlyCam 13.2.5
     - https://skse.silverlock.org/beta/skse64_2_02_03.7z # SKSE64 Beta 2.02.03
-    
-    # NNV
-    - https://eddoursul.win/download/222
-    - https://eddoursul.win/download/224
-    
+
     # Licentia Various
 
     - https://www.patreon.com/file?h=52597345&i=9135202 # ORomance Stat Editor
@@ -1562,9 +1554,6 @@ AllowedPrefixes:
     - https://www.skyrim-guild.com/s/Distar-Projectiles-v1.zip # Projectiles
     - https://www.skyrim-guild.com/s/ADXP-Beta-142.zip #ADXP b1.4.2
     - https://mega.nz/file/500kgB7T#vgj0I6B5rS2ViX-dkdK75_oM56NMqZVv_2f9LNQcRPw # OCPA Custom for ADXP/MCO
-    - https://eddoursul.win/download/877 # Artifact Tracker Solitude Museum Patch 1.0
-    - https://eddoursul.win/download/884 # Artifact Tracker INI
-    - https://eddoursul.win/download/1046 # Artifact Tracker v1.0.7
     - https://www.skyrim-guild.com/s/Attack-MCODXP-beta-1501.zip # ADXP b1.5.0.1
     - https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip #ADXP 1.6.0.6
     
@@ -1615,7 +1604,6 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=68764133&i=11164539 # Cosmofujia's ER Nagakiba
     - https://www.patreon.com/file?h=80323534&i=13464512 # Cosmofujia's Azure Dragon Glaive
     - https://www.patreon.com/file?h=76242640&i=12606554 # nioh dai-katana mco
-    - https://eddoursul.win/download/879 # Artifact tracker lotd patch
     - https://www.patreon.com/file?h=89043767&i=15719947 # King HDT-SMP hairstyle by fuse
     - https://www.patreon.com/file?h=78472619&i=13158943 # Aemond Targaryen hair by fuse
     - https://www.patreon.com/file?h=78472619&i=13158944 # Aemond Targaryen Armor set by fuse
@@ -1676,12 +1664,6 @@ AllowedPrefixes:
     - https://mega.nz/file/NIFnRQbC#hWeSPcijrZTuobbsf9XcbT7sQTEM2y8kcbcpHPps1Z8 # Kaidan Immersive Features (Kaidanmod.com)
     - https://mega.nz/file/RZkF3ajR#wHxSibVlG4NS37fechPFS_-cnChvkPoCvbTvwLXNMhI # Kaidan AIO 1.6
     
-    
-    
-    # 
-    - https://eddoursul.win/download/271 # Stash Organizer
-    
-    
     # TRUE VEGAS TTW
     - http://www.mediafire.com/file/qucw6ib5uk22boj/AnNPCOverhaul.rar/file #Dragbodys An NPC Overhaul 
     - http://www.mediafire.com/file/xvt9rte2yk9stc1/BrotherhoodReforged.rar/file #Dragbodys Brother of Steel Reforged 
@@ -1691,12 +1673,8 @@ AllowedPrefixes:
     - http://www.mediafire.com/file/j7xthhc3rqg8n2i/BoomersGoBoom.rar/file # Dragbodys Boomer Overhaul
     - http://www.mediafire.com/file/5h8tl8s2urhbka2/WeAreLegionBETA.rar/file # Dragbodys We Are Legion  
     - https://www.mediafire.com/file/7vxmk2o1u824l5k/TuxekLilBitsV2.1.7z/file # Tuxek Lil Bits  
-    - https://eddoursul.win/download/247 # Enhanced Vision
-    - https://eddoursul.win/download/378 # Bottle Rinse Repeat
-    - https://eddoursul.win/download/369 # Bottle Rinse Repeat TTW Patch 
     - https://www.moddb.com/downloads/start/236022 # Darnified UI TTW
     - https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip # TTW 3.3.2 Hotfix
-    - https://eddoursul.win/download/1066 # Hoodwink 3.3.2 Patch
     - https://mega.nz/file/EAJDTDBb#WCKPY_YyLth24qImJmkt4rydW2-Jrgbz2AJ4gOYzjgA # LODGEN .97
     
     # iAmMe's WoD
