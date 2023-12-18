@@ -1225,8 +1225,9 @@ AllowedPrefixes:
     - https://mega.nz/file/yYtilJZb#xbGG3oimaM08mVEeXyElbgISmp8mAjOGT8KbwjFXTDI                # Devious Devices 5.1
     - https://yadi.sk/d/vZ8ANVOlDTw5Gg                                                         # Defeat Fixed by Themis (SKSE)
     
-   # Librum
-   
+   # Scenic Route Games
+
+    - https://dl.dropboxusercontent.com/scl/fi/h5ecdykbw2jeiyx86biqw/Dodge-MCO-DXP-v0.9.8.zip?rlkey=e1w3ftgqw09ftm8ohmr7ek2m2&dl=1 # DMCO 0.9.6
     - https://www.dropbox.com/sh/gfz6ga6ctuduj6j/AACKL3ULA1F59ObnnwUF7YcAa/Wrye%20Bash%20308.202101111451%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash beta. Necessary for Librum
     - https://mega.nz/#!MI41iADD!Qa47iXpHBZLxAICe7My9q-dSAX1Rh9uKQlXFk9vMIOc                   # SSE-Terrain-Tamriel for xLODGen
     - https://mega.nz/#!sFoFRawS!_DSfPVm6Of8h0H_s2OR0Q5jDymcvlcyFCHYDAGQM4Ks                   # SSE-Terrain-Tamriel-Extend
