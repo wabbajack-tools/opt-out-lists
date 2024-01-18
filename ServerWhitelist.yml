@@ -1912,6 +1912,10 @@ AllowedPrefixes:
     # Fallout Anomaly
     - https://storage.icestormng-mods.de/s/Jp9nfE8g4iQmyy8/download?path=%2F1.2%2FRelease&files=IceStorms%20Hair%201.2.7z&downloadStartSecret=s0bm398ive # Haircut mod by IceStormNG
 
+    # Kezyma's Morrowind Remastered
+    - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4454
+    - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4453
+
     # Skyrim GMOH
     - https://www.patreon.com/file?h=70357498&i=11588543 # Gentle Blade Set 3BA CBBE (HDT-SMP) v4.5
     - https://mega.nz/file/bf4VhaCb#WF35skdDrj-yQu_tcdrJ2NGQj0vpNbywutN5tQ2mQ5w # RyanReos Bladedancer
@@ -1920,4 +1924,3 @@ AllowedPrefixes:
     # Steve40 Mods
     - https://www.dropbox.com/s/3tlt2734s3r97hg/skyBirds%20SSE%20Edition%20v1.20.7z?dl=1 # SkyBirds SSE 1.2
     - https://www.dropbox.com/s/0zmfolkcxrpv5d0/Birds%20of%20Skyrim%20SSE%20Edition%202.7.7z?dl=1 # Birds Of Skyrim SSE 2.7
-
