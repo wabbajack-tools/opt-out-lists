@@ -588,6 +588,7 @@ AllowedPrefixes:
     - https://valheim.thunderstore.io/ # Valheim based modding, includes more, isolated mods that aren't hosted on Nexus Mods.
     - https://geckwiki.com/ # New Vegas Creation Kit
     - https://gamebanana.com/ # Primary Persona modding site
+    - https://www.distaranimation.com/ # New location for Distar's mods
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
