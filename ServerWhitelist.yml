@@ -1,6 +1,7 @@
 # Server whitelist for Wabbajack
 
 GoogleIDs:
+    - 1-5AtR8PXFm34jQ6j9gD2H0o67nrpSrXb # Peeno the Mushroom 1.5
     - 1TEe9iSthw87_EW9MrSqB58N1h90HcN1k # Clarity TTW
     - 1gylSOUxgfZZtZncOpG_vEr-shceAmcLA # New Reno Episode 3 Assets
     - 1IObmTW15lo1DW5q-RioyeKbIO7yP_5cG # ESM for the above
@@ -188,6 +189,7 @@ GoogleIDs:
     - 1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3 # [Dint999] BDOR Hairs SSE 0.17
     - 1WmGuPCblM-L22O38qs939FRRs9ehnLsU # F4NV Colt Single Action Army
     - 1PWkbzpFos4YQLGoxjbOi7OmAeikCBgnZ # F4NV Anti-Materiel Rifle
+    - 1JJvrnaxmui22P1X44V2VTkifjmfahtLM # Everyone's Best Friend - UFO4P Patch
     
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -260,8 +262,8 @@ GoogleIDs:
     - 1C5Jv4b-9KT-CmQwtgx4KWdnl3or-p4Ym # All is Gold
     - 1qY8Xe8LAF63m3UVJM58xVj1TOTd3uR-l # MCO Sprint Attack Stamina Fix by Maxsu
     - 1vWIbrO7nHgW27HbjXBxMjuM3sJDitAF9 # [Dint999] BDOR Hairs SSE 0.15
-    
-    
+
+
     
     # For Licentia's Evolving OStim Suite
 
@@ -362,6 +364,10 @@ GoogleIDs:
     - 18dNx4YjLMeoWqVXNn4lzlQ_3BP4aP5h3 #DynDOLOD compatible Vivid map custom edit
     - 1t3UTlZm_qioZNhvyFJSRMAlpYidBIz98 # DynDOLOD output
     - 1OLwBANDJ7CVmL5oFR7gCn3ERXSkWQ-cv # xLODGen Output
+
+    # Atelier 2 Screenarchery Locations - Alabast
+    - 1sAp3Q7rYLq1otpojLap1t6N6h9nrAJFm # Karlov Manor
+
     
     # Librum
     - 1-emQWfJr3e-JC15sEN_OtHAASKaKMfz3 # Librum DynDOLOD Output
@@ -442,6 +448,7 @@ GoogleIDs:
     - 1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_ # Dint999 Facepart Mod
     - 1K0c3czPfsBdhRHdXUJlIYQdErqIrp7Cd # Barbarian Bodypaints Fixed
     - 124yGslgLhuqCetB_MPPvSa7XO49nTxhP # Community Overlays 1 Repackage v2
+    - 1vu0O6eTru5kZPe-6pWDjfCXoN2n8uh67 # Community Overlays 1 Repackage Fixed
     
     # Tahrovin
     - 1iSsWBkCty2Edq7mOwG_RV3K0s3lSi8wG # Bodyslide Output
@@ -485,6 +492,7 @@ GoogleIDs:
     - 1u85h3rTvR2778AjegtovyLKIhkv-pM1b # BDO Hairs [Dint] v0.13
     - 1OnusxmnvFuVgsSL9m9stDiMPnnoic_lq # Attacko Realistic AI Edit
     - 1hAtWvFUoHZQIOI9eaq4EwUueJDCQx9Av # MOfu EldenRing Attack Animation Dual Wield MCO SE
+    - 1tj686VIBWryVAkqYqTJLTBuN8kVzuIWU # Olivier Magic Casting - Nexus (Diverse Magic Casting)
     
     # iAmMe's WoD
     - 1VTi8QCFq7GUfoUGUeDkEiwPSJtsRw_88 # FO4 Immersive Cube Maps
@@ -543,6 +551,14 @@ GoogleIDs:
 
     # Skyrim Legendary Edition WD
     - 114RS5tS9B7az2i-DI6tJyyCFyQLZcYqO # SexLab Aroused Redux V28b Modified by BakaFactory (for LE)
+
+    # FILFY Modlist
+    - 1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM # [dint999] Sorceress Papillo Outfit 1.0.7
+    - 12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P # [dint999] Forgotten Princess Armor Set 1.1.7
+    - 1uVGV8yWPpFlKiULf6a1OtwYXd55f1srK # [dint999] BDOr Guardian Kharoxia Clothes 1.0.1
+
+    # Nordic Souls
+    - 1RmTOdP_P3DwnPs60IJhEBQQb-qOuUObt # Kaidan - Extended Edition 14.9
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
@@ -588,6 +604,8 @@ AllowedPrefixes:
     - https://valheim.thunderstore.io/ # Valheim based modding, includes more, isolated mods that aren't hosted on Nexus Mods.
     - https://geckwiki.com/ # New Vegas Creation Kit
     - https://gamebanana.com/ # Primary Persona modding site
+    - https://www.distaranimation.com/ # New location for Distar's mods
+    - https://files.moddinglounge.com/ # Rage's lists
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
@@ -757,6 +775,10 @@ AllowedPrefixes:
     # Wunduniik Modlist
     - https://mega.nz/file/Z5hHkITY#Z8aAobWpKCl9lCC5dmOg0tuLHasOIE62mP92cE7wl_Y # Kome's Inventory Tweaks
     - https://mega.nz/file/J1oxAbKQ#OlfYJRajDyavVUt3sj3E2AwIf2Q4y4PywMTtTt-ZqlY # Skyfall Unique Windmills
+
+    # FILFY Modlist
+    - https://www.mediafire.com/file/4wdvgnua8zel039/[Christine]+Knight+Girl.7z/file # [Christine] Knight Girl
+    - https://www.mediafire.com/file/rwynzbu2mstm683/NewMiller_Strange.7z/file # NewMiller Strange Piercings
 
     # Aetherius/Animonculory
     - https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg # Book Of The Dead Trees
@@ -933,6 +955,12 @@ AllowedPrefixes:
     # Living Skyrim Baka Edition LODs (ForgottenGlory & Hajo)
     - https://mega.nz/file/s80mDRJR#XBFiId-dOJbo1EYFuYS79XnSckXHNm9kSlIpRI5ixKA # DynDOLOD Output
     - https://mega.nz/file/dhsQ0biK#jhTTjA3tAuZrg12xDgjKQSI0qZkg7h5eCQFy0G0YTdg # SSELODGen Output    
+
+    # FO4 Survivor Slave
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q                 # Nuka Ride 6.4.7
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/folder/ylhRWDAB # Nuka Ride - Textures for the Girls 1.1
+    - https://mega.nz/folder/epZxGIRR#-V3hKLRvXlXWKfwF8zr-Sw                 # Commonwealth Slavers 2.4.6
+    - https://mega.nz/folder/epZxGIRR#-V3hKLRvXlXWKfwF8zr-Sw/folder/39gHBaIQ # Commonwealth Slavers - Voices 1.02
     
     # Wyrmstooth LE
     - https://archive.org/download/wyrmstooth1.18/Wyrmstooth%201.18.zip # Wyrmstooth LE
@@ -1594,29 +1622,13 @@ AllowedPrefixes:
     # Masterstroke
     - https://mega.nz/file/oDxVjTDT#nDkSIwWLZxYFLMlUBKWAEaVCWpEb4U8yg_7dRwNAlK4 # Devious Devices 5.2 Beta 7
     
-    # Arisen/Fahluaan (aljo's stuff)
-    - https://www.skyrim-guild.com/s/ADXP-Beta-132.zip # ADXP 1.3.2
-    - https://www.skyrim-guild.com/s/ADXP-Beta-142.zip # ADXP 1.4.2
-    - https://www.skyrim-guild.com/s/ADXP-Beta-143.zip # ADXP 1.4.3
-    - https://www.skyrim-guild.com/s/Attack-MCODXP-beta-1501.zip # ADXP/MCO 1.5.0.1
-    - https://www.skyrim-guild.com/s/Attack-MCODXP-v1502.zip # ADXP/MCO 1.5.0.2
-    - https://www.skyrim-guild.com/s/Attack-MCODXP-v1602.zip # ADXP/MCO 1.6.0.2
-    - https://www.skyrim-guild.com/s/Attack-MCODXP-v1603.zip # ADXP/MCO 1.6.0.3 (if distar updates again i will scream)
-    - https://www.skyrim-guild.com/s/Attack-MCO-DXP-v1606.zip # ADXP/MCO 1.6.0.6 (added for u <3 caco)
-    - https://www.skyrim-guild.com/s/DMCO-095.7z # DMCO v0.95
-    - https://www.skyrim-guild.com/s/DMCO_096.zip # DMCO v0.96
-    - https://www.skyrim-guild.com/s/Dodge-MCODXP-v201.zip # DMCO v2.0.1
-    - https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar # Impactful Blocking v1.4
-    - https://www.skyrim-guild.com/s/Vanguard-2_2.rar # Vanguard v2.2
-    - https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip # DXP Creatures Preview 1
+    # aljo's stuff
     - https://www.patreon.com/file?h=68233071&i=11449877 # Eskyrim MCO Animations FOMOD (updated link)
     - https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw # Eskyrim 3-Hit Spear Combo
     - https://mega.nz/file/UOEA0CyL#RP6q-q4zRtc2X0k45FIXfBLh5yS7IrsPAIG7FEZ5Hbc # One Click Power Attack v1.2
     - https://www.patreon.com/file?h=69418463&i=11393448 # Cosmofujia's Elden Ring Twinblades
-    - https://www.skyrim-guild.com/s/Arena-Movement.zip # ArenaMovement V2
     - https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z # MikeNike Elder Souls Collection v0.9
     - https://www.patreon.com/file?h=68233071&i=11449874 # Eskyrim Sprinting Animations
-    - https://www.skyrim-guild.com/s/Valkyrie-SwordShield-v01.zip # Valkyrie Sword and Shield
     - https://www.patreon.com/file?h=68668550&i=11200681 # Cosmofujia's ER Royal Greatsword
     - https://www.patreon.com/file?h=69498503&i=11344694 # Cosmofujia's ER Heavy Rapier
     - https://www.patreon.com/file?h=68559197&i=11129178 # Cosmofujia's ER Halberds
@@ -1629,6 +1641,7 @@ AllowedPrefixes:
     - https://mega.nz/file/pNcFUIIT#tSvpP8ZPQeEqYmztne_gymwAJG-OKIQ-C1IzXINE-oQ # BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z
     - https://mega.nz/file/0A1DiaDL#kld_Q-jx-e_CsC1jn8wb0SHA7GMBCZJMq_adNbRk3Sg # BWB-Kaidan-2-Lux-Patch.7z
     - https://mega.nz/file/9cVGTSaA#dFy6SFzZXxwDO39NW0HHZDOU_P2G02l4HIMTHWwGRT0 # Kaidan-3DNPC-Patch.7z
+    - https://mega.nz/file/WZt0BDCL#JNUTn_5P2sEPuHm3znSdrrqN28tPnxvmVzeFOw67FAU # HIGH POLY HEAD - EXPRESSIVE FACIAL ANIMATION - MALE EDITION - EYEBROW FIX
 
     # Vagabond (Ylik's stuff)
     - https://www.patreon.com/file?h=84565566&i=14552293 # animated interactions skse
@@ -1659,7 +1672,10 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=89750615&i=15903352 # Edge UI 0.5
     - https://www.patreon.com/file?h=70893549&i=11569622 # Animated Dwarven Arsenal v0.4
     - https://www.patreon.com/file?h=98401985&i=17721156 # Edge UI 0.55
+    - https://www.patreon.com/file?h=85575896&i=14852792 # ADXP I MCO WoLong QuarterStaff
+    - https://www.patreon.com/file?h=80427933&i=13489201 # ADXP I MCO Nioh Spear All Stances
     - https://dl.dropboxusercontent.com/scl/fi/dhakgaesolxwoyliinn01/Creatures-MCO-DXP-Public-release-v0.2.2.0.zip?rlkey=o5vpeeiinp16mgrja410a6izk&dl=0 # Creatures MCO|DXP : Public release
+    - https://www.patreon.com/file?h=103421081&i=18735736 # Smooth Power Shot
     
     # Tahrovin
     - https://mega.nz/file/o6o1wIhC#dX4vfLGvsYjzUmGxH7ECyyB0KuN3ELB0KFXybH8-Yyk # ED Horns SSE
@@ -1718,6 +1734,7 @@ AllowedPrefixes:
     - https://cdn.discordapp.com/attachments/861766770062000128/875108471933108294/Immersive_Wastelanders_1.8.zip # Immersive Wastelanders v1.8
     - https://www.mediafire.com/file/xoyhhu6hhs5cg6c/ZeX-ZBG-0223.zip # ZeX-ZBG-0223
     - https://mega.nz/file/sftCgb6A#H47o1JIJqP57dvf3CUR3pcxHUiEyQJBPCghmI4nuyAg # Problems of Survivor v1.5.2 Voiced v1.1
+    - https://www.mediafire.com/file/5wprzl5ifvg1oht/Kziitd_F*t*sh_Toolset_1.0_Beta_2.3.7z # Kziitd Fetish Toolset 1.0 Beta 2.3
     
     # Do Not Go Gentle
     - https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ/file/V9pz2SCY # HG Hairdos 2
@@ -1813,10 +1830,9 @@ AllowedPrefixes:
     - https://mega.nz/file/F6RXGKYD#aNOkFvekCutniLe92b4DAyxNaDjbLxXMN2yGRDkKY4Q
     
     # Geborgen's Stuff (Nordic Souls)
-    - https://mega.nz/file/YAMXlR5Q#yY82UYsh35adDdWdrOQspcfmBmO9YJfJdiCwaB92yZc # Kaidan - Extended Edition v14.9
-    - https://mega.nz/file/JV0D1JrR#OdiIlqPhn3T83iL7KSW5lhZ3qXR1UTbpnXvmk8cDslY # Kaidan - Inigo Banter Patch 2
-    - https://mega.nz/file/gJcgFZyB#QdDw5sUivkI6DhVzr_dw4hfAfnjgOPkqjWbFWXrvH2I # Kaidan - ASLAL Patch
-    - https://mega.nz/file/ZZNEHBSB#c88QISCg5e_P-mdTZFpH6EWf_R-eAqys0r6aPxj0ezA # Kaidan - Rumarin - 3DNPC Patch
+    - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-ASLAL-Patch.7z # Kaidan - ASLAL Patch
+    - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-Inigo-Banter-Patch.7z # Kaidan - Inigo Banter Patch
+    - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-3DNPC-Patch.7z # Kaidan - 3DNPC Patch
 
     # Parabellum by cacophony
     - https://mega.nz/file/8zBCGJhI#apyUCBuGuZQ_5Va7iby02AEybzKLE25tSEcGML1C-Yg # Vtaw Wardrobe 8 2K v1.0
@@ -1886,6 +1902,8 @@ AllowedPrefixes:
     - https://mega.nz/file/wcMX2bbY#pclC-VmYq95zTcxggFmW7Khj6nKA2xJ2C11XT8ypT_s # Kaidan Extended All-In-One 1.8.4
     - https://mega.nz/file/RQ113BKT#qoYV6zZQsugesTYIFXqFv4_64MixzwRzH4Hk1jZqTGM # Kaidan Extended All-In-One 1.8.5
     - https://mega.nz/file/pBFxWCIT#6tloxS06ozUFlm9L9hAhZxcZsu3yjJWjdqCC4FGXcQk # Kaidan Extended All-In-One 1.9.2
+    - https://mega.nz/file/0dcilQ6Y#LZbAPMNQmKdd2ZCOOaJesRi15v6n-9wuT37KM6FiwEA # Kaidan Extended All-In-One 1.9.9.1
+    - https://mega.nz/file/8A0Q3BaL#runJx3MQkTHyon04ygzjbCjY8AusO8E2rOSLBGO9A9s # Kaidan Extended All-In-One 2.1.3
     - https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/9DoUlSKL # BakaFactory ABC
     - https://mega.nz/file/MUkzBZrS#8MVyh5H4jlZIuK2mhhCcsL6NYBl6lElOvyDbxLJ99qA # MEGA version of Peeno 1.5
     - https://www.patreon.com/file?h=88365776&i=15560430 # Acheron 1.4
@@ -1937,9 +1955,10 @@ AllowedPrefixes:
     - https://mega.nz/file/CCoVBSKZ#AKeC07-8IppzNieVBxjuM7c4riJnSHigSZHUjV68yjM # RyanReos High Priestess
 
     # Steve40 Mods
-    - https://www.dropbox.com/s/3tlt2734s3r97hg/skyBirds%20SSE%20Edition%20v1.20.7z?dl=1 # SkyBirds SSE 1.2
-    - https://www.dropbox.com/s/0zmfolkcxrpv5d0/Birds%20of%20Skyrim%20SSE%20Edition%202.7.7z?dl=1 # Birds Of Skyrim SSE 2.7
-
+    - https://www.dropbox.com/s/3tlt2734s3r97hg/skyBirds SSE Edition v1.20.7z?dl=1 # SkyBirds SSE 1.2
+    - https://www.dropbox.com/s/0zmfolkcxrpv5d0/Birds of Skyrim SSE Edition 2.7.7z?dl=1 # Birds Of Skyrim SSE 2.7
+    - https://www.dropbox.com/s/iv7wov5tdmslcin/Birds and Flocks SSE Edition v2.1.7z?dl=1 # Birds and Flocks 2.1.7
+    
     # The Nico Experience
     - https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw # BDOR Complete Collection by Kirax
 
@@ -1959,8 +1978,21 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/9e000wxv51i4afw/iAm_fixes_Vominheim.rar/file # iAm_fixes_Vominheim ( Permission to uplaod )
     - https://www.mediafire.com/file/g1ei06w0wd6hlsd/[Cloud]+Hex+Tenebris+-+3BA.zip/file # -3BA version
 
-     # Modlist Installers for Baldur's Gate 3
-     - https://f.rpghq.org/KwIMvdbW7egG.zip?n=DignifyLadies-v3.1.0.zip # Dignify: Ladies (3.1.0)
-     - https://f.rpghq.org/LI59aIYHDquV.zip?n=DignifyGentlemen-v1.0.zip # Dignify: Gentleman (1.0)
-     - https://f.rpghq.org/sRW7r3Bg4WVx.zip?n=DignifyAstarionLeather-v1.0.zip # Dignify: Astarion Leather (1.0)
-     - https://f.rpghq.org/EaZ81uMouKEL.zip?n=DignifyGale-v1.0.zip # Dignify: Gale (1.0)
+    # Modlist Installers for Baldur's Gate 3
+    - https://f.rpghq.org/KwIMvdbW7egG.zip?n=DignifyLadies-v3.1.0.zip # Dignify: Ladies (3.1.0)
+    - https://f.rpghq.org/LI59aIYHDquV.zip?n=DignifyGentlemen-v1.0.zip # Dignify: Gentleman (1.0)
+    - https://f.rpghq.org/sRW7r3Bg4WVx.zip?n=DignifyAstarionLeather-v1.0.zip # Dignify: Astarion Leather (1.0)
+    - https://f.rpghq.org/EaZ81uMouKEL.zip?n=DignifyGale-v1.0.zip # Dignify: Gale (1.0)
+    # Faerun Enhanced - BG3 (from zino)
+    - https://drive.google.com/file/d/1pofLcmBatfn9H5xfXgMXu-xwEoR4DZHz/view?usp=sharing # MANTIS' OC PRESETS VOL. I - BG3 Preset Collection
+    - https://www.patreon.com/file?h=102509958&i=18601507 # MANTIS' GAME OF THRONES PRESETS - BG3 Preset Collection
+    - https://www.patreon.com/file?h=102510023&i=18604004 # MANTIS' WITCHER INSPIRED PRESETS - BG3 Preset Collection
+    - https://drive.google.com/file/d/1PNeTExH0tEeaOPr4JocXCKff23iTD365/view?usp=sharing # MANTIS' HOUSE OF THE DRAGON PRESETS - BG3 Preset Collection
+    - https://www.patreon.com/file?h=102506271&i=18535437 # MANTIS' LORD OF THE RINGS PRESETS - BG3 Preset Collection
+
+    # Atelier 2 Screenarchery Locations - Alabast
+    - https://www.mediafire.com/file/q8uvt66g2ey6plk/GomaPeroLand_SE_V6.7z/file # GomaPeroLand
+    - https://www.mediafire.com/file/m8tweucxev95rsx/Aether_Suite_SE.7z/file # Aether Suite
+
+    # By macintroll, exclusively uploaded for New Vegas Visual Renewal (https://salamand3r.fail/new-vegas-visual-renewal/refurbishment), permission received from salamand3r for guide inclusion, requested for Uranium Fever by Kamchatka
+    - https://drive.google.com/file/d/1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm/view # WASTELAND CLOTHING HD
