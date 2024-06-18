@@ -611,6 +611,7 @@ AllowedPrefixes:
     - https://gamebanana.com/ # Primary Persona modding site
     - https://www.distaranimation.com/ # New location for Distar's mods
     - https://files.moddinglounge.com/ # Rage's lists
+    - https://mod.pub/ # ModPub implements per mod collection permissions
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
