@@ -2026,5 +2026,5 @@ AllowedPrefixes:
 
     # SubScribeStar Test
 
-    - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1302296/c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip?token=RohnIZyZ8Z4AO5gVR1t7FawgViXG1StPYnIfR20WQJQ&expires=1725285830 # Baka SLAL 6.90
-    - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1142672/e0f2f9ed-a105-41c9-89e5-a316941b9657.7z?token=sQ-Xub3JXia6b6-4IIi9tnlr6KLyjfpTwfL0_Y8xSFM&expires=1725285882 # Baka ABC 3.10
+    - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1302296/c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip # Baka SLAL 6.90
+    - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1142672/e0f2f9ed-a105-41c9-89e5-a316941b9657.7z # Baka ABC 3.10
