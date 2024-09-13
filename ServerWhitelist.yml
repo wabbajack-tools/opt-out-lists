@@ -2032,6 +2032,17 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/q8uvt66g2ey6plk/GomaPeroLand_SE_V6.7z/file # GomaPeroLand
     - https://www.mediafire.com/file/m8tweucxev95rsx/Aether_Suite_SE.7z/file # Aether Suite
 
+    # NV:MP RADD Server Mods
+    - https://murica-east-cdn.nv-mp.com/NVMP-Q.esp # NVMP-Q.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Jr.esp # NVMP_-_Jr.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Jr.bsa # NVMP_-_Jr.bsa - Server Mod Asset Archive
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Pres.esp # NVMP_-_Pres.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Pres.bsa # NVMP_-_Pres.bsa - Server Mod Asset Archive
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Breezy.esp # NVMP_-_Breezy.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Grimm.esp # NVMP_-_Grimm.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/SanFran.esm # SanFran.esm - Server Mod
+    - https://murica-east-cdn.nv-mp.com/SanFran%20-%20Main.bsa # SanFran - Main.bsa - Server Mod Asset Archive
+    
     # SubScribeStar Test
 
     - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1302296/c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip # Baka SLAL 6.90
