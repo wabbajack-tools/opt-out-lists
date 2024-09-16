@@ -2041,7 +2041,7 @@ AllowedPrefixes:
     - https://murica-east-cdn.nv-mp.com/NVMP_-_Breezy.esp # NVMP_-_Breezy.esp - Server Mod
     - https://murica-east-cdn.nv-mp.com/NVMP_-_Grimm.esp # NVMP_-_Grimm.esp - Server Mod
     - https://murica-east-cdn.nv-mp.com/SanFran.esm # SanFran.esm - Server Mod
-    - https://murica-east-cdn.nv-mp.com/SanFran%20-%20Main.bsa # SanFran - Main.bsa - Server Mod Asset Archive
+    - https://murica-east-cdn.nv-mp.com/SanFran - Main.bsa # SanFran - Main.bsa - Server Mod Asset Archive
     
     # SubScribeStar Test
 
