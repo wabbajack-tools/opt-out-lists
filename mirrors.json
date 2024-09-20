@@ -1,0 +1,380 @@
+[
+  {
+    "Hash": "yU5bNk5QutY=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-0-16-1573837424.7z",
+    "Size": 754411,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 113472,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.0.16"
+    }
+  },
+  {
+    "Hash": "KtxzH7IMQF4=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-0-17-1574326499.7z",
+    "Size": 755689,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 113950,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.0.17"
+    }
+  },
+  {
+    "Hash": "sFB/yVFd4Qw=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-0-18-1596654938.7z",
+    "Size": 921663,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 153930,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender 64 (SKSE64)",
+      "Version": "2.0.18"
+    }
+  },
+  {
+    "Hash": "QKBrQzDmmxo=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-0-19-1596881812.7z",
+    "Size": 922412,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 154409,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.0.19"
+    }
+  },
+  {
+    "Hash": "B0H61OxirmU=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-0-19-1596988326.7z",
+    "Size": 922047,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 154651,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.0.19"
+    }
+  },
+  {
+    "Hash": "v1aK6iCHYs8=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-0-20-1633684151.7z",
+    "Size": 813935,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.5.97 from Steam",
+      "FileID": 233411,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.0.20"
+    }
+  },
+  {
+    "Hash": "WBZMCbWZc+w=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-1-0-1641914648.7z",
+    "Size": 812546,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 255895,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.1.0"
+    }
+  },
+  {
+    "Hash": "e4djiHz+t4I=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-1-1-1641914673.7z",
+    "Size": 812267,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 255896,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.1.1"
+    }
+  },
+  {
+    "Hash": "MSTzrkonWwo=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-1-2-1641914704.7z",
+    "Size": 817091,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.318 from Steam",
+      "FileID": 255897,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.1.2"
+    }
+  },
+  {
+    "Hash": "nmqbjiVBqL0=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-1-3-1641914728.7z",
+    "Size": 761838,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 255898,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.1.3"
+    }
+  },
+  {
+    "Hash": "mF9V6XC4hw0=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-1-4-1641914755.7z",
+    "Size": 761820,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 255899,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.1.4"
+    }
+  },
+  {
+    "Hash": "5rT7zzRuKxE=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-1-5-1641914779.7z",
+    "Size": 762653,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.353 from Steam",
+      "FileID": 255900,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.1.5"
+    }
+  },
+  {
+    "Hash": "0hGa0bjtU8Y=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender 64 (SKSE64)-30379-2-2-0-1663663071.7z",
+    "Size": 763119,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.629 from Steam",
+      "FileID": 317873,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.2.0"
+    }
+  },
+  {
+    "Hash": "pLIWf7bAH8s=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-2-2-1663747016.7z",
+    "Size": 763600,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.640 from Steam",
+      "FileID": 318235,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.2.2"
+    }
+  },
+  {
+    "Hash": "XWpSKVSz73I=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64) GOG-30379-2-2-2-1664531395.7z",
+    "Size": 746822,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.659 from GOG.com",
+      "FileID": 320440,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64) GOG",
+      "Version": "2.2.2"
+    }
+  },
+  {
+    "Hash": "apgcVObboLg=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515370.7z",
+    "Size": 748635,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.640 from Steam",
+      "FileID": 323365,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.2.3"
+    }
+  },
+  {
+    "Hash": "TYTH+5lSW5E=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515406.7z",
+    "Size": 749015,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.659 from GOG.com",
+      "FileID": 323366,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64) GOG",
+      "Version": "2.2.3"
+    }
+  },
+  {
+    "Hash": "fn42dcuMVyk=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-2-4-1701793997.7z",
+    "Size": 750997,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.1130 from Steam",
+      "FileID": 449035,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.2.4"
+    }
+  },
+  {
+    "Hash": "/eLsyck0PIw=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-2-5-1701926955.7z",
+    "Size": 750919,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.1130 from Steam",
+      "FileID": 449463,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.2.5"
+    }
+  },
+  {
+    "Hash": "5LyfyGcjRGA=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z",
+    "Size": 751136,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.1170 from Steam",
+      "FileID": 462377,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64)",
+      "Version": "2.2.6"
+    }
+  },
+  {
+    "Hash": "ARUma0uz7lg=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender (SKSE64) GOG-30379-2-2-6-1707977381.7z",
+    "Size": 935992,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim Special Edition 1.6.1179 from GOG.com",
+      "FileID": 470991,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30379,
+      "Name": "Skyrim Script Extender (SKSE64) GOG",
+      "Version": "2.2.6"
+    }
+  }
+]
