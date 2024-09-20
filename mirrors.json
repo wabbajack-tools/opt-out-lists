@@ -376,5 +376,293 @@
       "Name": "Skyrim Script Extender (SKSE64) GOG",
       "Version": "2.2.6"
     }
+  },
+    {
+    "Hash": "kjDuRoaTvsk=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender for VR (SKSEVR)-30457-2-0-10-1574161927.7z",
+    "Size": 751557,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 113811,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30457,
+      "Name": "Skyrim Script Extender for VR (SKSEVR)",
+      "Version": "2.0.10"
+    }
+  },
+  {
+    "Hash": "IwKSN7quh9Y=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender for VR (SKSEVR)-30457-2-0-11-1590524186.7z",
+    "Size": 1010395,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 142190,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30457,
+      "Name": "Skyrim Script Extender for VR (SKSEVR)",
+      "Version": "2.0.11"
+    }
+  },
+  {
+    "Hash": "EC7q0HMq98w=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender for VR (SKSEVR)-30457-2-0-12-1596921393.7z",
+    "Size": 1069309,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "This had the wrong internal version information for sksevr_loader.exe and sksevr_steam_loader.dll.",
+      "FileID": 154494,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30457,
+      "Name": "Skyrim Script Extender for VR (SKSEVR)",
+      "Version": "2.0.12"
+    }
+  },
+  {
+    "Hash": "h1gcz2sdU7E=",
+    "Meta": "",
+    "Name": "Skyrim Script Extender for VR (SKSEVR)-30457-2-0-12-1715212974.7z",
+    "Size": 1010226,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with Skyrim VR 1.4.15 on Steam.",
+      "FileID": 499284,
+      "GameName": "SkyrimSpecialEdition",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 30457,
+      "Name": "Skyrim Script Extender for VR (SKSEVR)",
+      "Version": "2.0.12"
+    }
+  },
+    {
+    "Hash": "ZYHR3XZKmUQ=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender VR (F4SEVR)-42159-0-6-20-1574090063.7z",
+    "Size": 592984,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 171114,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42159,
+      "Name": "Fallout 4 Script Extender VR (F4SEVR)",
+      "Version": "0.6.20"
+    }
+  },
+  {
+    "Hash": "siA3qyL/kTk=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender VR (F4SEVR)-42159-0-6-21-1719284892.7z",
+    "Size": 593089,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 324296,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42159,
+      "Name": "Fallout 4 Script Extender VR (F4SEVR)",
+      "Version": "0.6.21"
+    }
+  },
+   {
+    "Hash": "qva1zUfEDPY=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-17-1574018879.7z",
+    "Size": 594682,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 171069,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.6.17"
+    }
+  },
+  {
+    "Hash": "6+HMHuqNOl8=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-18-1574328631.7z",
+    "Size": 667485,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 171270,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.6.18"
+    }
+  },
+  {
+    "Hash": "mxLyNqXz9xI=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-19-1574420012.7z",
+    "Size": 598421,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 171353,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.6.19"
+    }
+  },
+  {
+    "Hash": "ATD+Jxq+jdk=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-20-1575670277.7z",
+    "Size": 598663,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 172157,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.6.20"
+    }
+  },
+  {
+    "Hash": "KjhKrrH61jo=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-21-1615309044.7z",
+    "Size": 598435,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 203272,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.6.21"
+    }
+  },
+  {
+    "Hash": "Lf1JlHOs04A=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-22-1665656649.7z",
+    "Size": 649816,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "",
+      "FileID": 253312,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.6.22"
+    }
+  },
+  {
+    "Hash": "21h4TOKduN0=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z",
+    "Size": 650275,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with runtime 1.10.163.",
+      "FileID": 253313,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.6.23"
+    }
+  },
+  {
+    "Hash": "FZwbIrqbys4=",
+    "Meta": "",
+    "Name": "Mod Developer Test F4SE-42147-0-7-0-1714527314.7z",
+    "Size": 895875,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "This is a test build being uploaded for mod developers to test against the new 1.10.980 build of the game. Expect problems. Remember, all old .dll plugins need to be updated for the newest version of the game!",
+      "FileID": 313354,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Mod Developer Test F4SE",
+      "Version": "0.7.0"
+    }
+  },
+  {
+    "Hash": "T7kWWYxXyMc=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-7-1-1714711908.7z",
+    "Size": 897616,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "All native code plugins (.dlls) need to be updated by their creators for 1.10.980.\n\u003Cbr /\u003EOld native code plugins not loading is not a problem with F4SE.\n\u003Cbr /\u003E\u003Cbr /\u003E1.10.980 itself is pretty unstable, so expect crashes that aren\u0027t F4SE\u0027s fault.",
+      "FileID": 313799,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.7.1"
+    }
+  },
+  {
+    "Hash": "yh3Xq+W9x4A=",
+    "Meta": "",
+    "Name": "Fallout 4 Script Extender (F4SE)-42147-0-7-2-1715628153.7z",
+    "Size": 900007,
+    "State": {
+      "$type": "NexusDownloader, Wabbajack.Lib",
+      "Author": null,
+      "Description": "Compatible with runtime 1.10.984.\n\u003Cbr /\u003E\u003Cbr /\u003EAll native code plugins (.dlls) need to be updated by their creators for 1.10.980\u002B.\n\u003Cbr /\u003EOld native code plugins not loading is not a problem with F4SE.",
+      "FileID": 316287,
+      "GameName": "Fallout4",
+      "ImageURL": null,
+      "IsNSFW": false,
+      "ModID": 42147,
+      "Name": "Fallout 4 Script Extender (F4SE)",
+      "Version": "0.7.2"
+    }
   }
 ]
