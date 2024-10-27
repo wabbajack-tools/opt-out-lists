@@ -577,6 +577,9 @@ GoogleIDs:
     # Uranium Fever
     - 1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu # Tammer's NIF-Bashed Armor Mega-Pack v4.2
     - 1vfDv38LLWaZMxiDqZr7cmMx31XxNSBtW # Tammer's NIF-Bashed Armor Mega-Pack v5.0
+
+    # Twisted Skyrim
+    - 1px_bs2dGWMWODO0hqAu1ivIhlzatbct9
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
@@ -1018,7 +1021,6 @@ AllowedPrefixes:
     # Twisted Skyrim
     - https://www.mediafire.com/file/qchk12cwaiuuknf/ScreenArcherMenuSkyrim0.5.1AE.zip/file # Screen Archer Menu
     - https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file # Paragon Sparrow Huntress
-    - https://drive.google.com/file/d/1px_bs2dGWMWODO0hqAu1ivIhlzatbct9/view # Kaidan Extended Edition 3.0.5
 
     # Skyrimified
     - https://www.patreon.com/file?h=47007938&i=7297552 # Sigils of Skyrim 2K Banners
