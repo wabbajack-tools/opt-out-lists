@@ -2093,3 +2093,7 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=115658146&m=376483627 # _Fuse00_ArmorSpriggan (CBBE)
     - https://www.patreon.com/file?h=115658146&m=376483634 # _Fuse00_ArmorSpriggan (Vanille Male)
     - https://www.patreon.com/file?h=111649008&m=350723048 # [TalesOfStar] Air Balloons
+
+    # Enderal SE mod.pub release files
+    -https://mod.pub/enderal-se/38/files
+    
