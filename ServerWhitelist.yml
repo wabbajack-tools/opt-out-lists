@@ -635,6 +635,7 @@ AllowedPrefixes:
     - https://files.moddinglounge.com/ # Rage's lists
     - https://www.overtake.gg/ # Assetto Corsa mods
     - https://mod.io/ # Mod.io is an increasingly common resource for game makers who want PC and console modding support.
+    - https://mod.pub/ # New versions of Enderal require manualUrl for mod.pub
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
