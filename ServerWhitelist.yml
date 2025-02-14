@@ -198,6 +198,9 @@ GoogleIDs:
     - 17cMBS6WolewrwwjAbFiSng4b0ybIUUpH # Capital Wasteland Hideouts - TTW SawyerBatty Patch
     - 1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi # Mobile Truck Base Sorting Add On - TTW
     - 1HoCfV3JJGlRzc4zOflfWgEDh6x9cl0a9 # MAIM 3 Beta
+    - 1CXdZi2vOpxKde6H_5NZaJOeHmMsJIreT # HDT-SMP Elite Wolf Armor Patch
+    - 1Xz3EXwzvY1pmzS9RiLl21m89eaYJ00-g # HDT-SMP Elite Wolf Armor 3BA Patch
+    - 1qsW6gFcmZdS5yZLnS0owQQyf0b-J6thB # HDT-SMP Elite Wolf Armor HIMBO Patch
 
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -582,6 +585,7 @@ GoogleIDs:
 
     # Twisted Skyrim
     - 1px_bs2dGWMWODO0hqAu1ivIhlzatbct9
+    - 1bQhAF9X4MrPUos9JoXiXjrj9p5MgzJHu # Kaidan 3.0.4
     - 1cHuLCUzX_wXuyXZCSjU75OTL_rlz5WSE # MOFU MCO greatsword moveset
 
     # Mages & Vikings
@@ -1032,6 +1036,35 @@ AllowedPrefixes:
     # Twisted Skyrim
     - https://www.mediafire.com/file/qchk12cwaiuuknf/ScreenArcherMenuSkyrim0.5.1AE.zip/file # Screen Archer Menu
     - https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file # Paragon Sparrow Huntress
+    - https://www.mediafire.com/file/5q9g85rrgefllx6/[Rektas]+First+Priest+-+3BA.7z/file # First Priest Rektas Market
+    - https://www.mediafire.com/file/p9t454tc1fwafv7/%255BRektas%255D_First_Priest_-_4K_textures.7z/file # First Priest 4k Textures Rektas Market
+    - https://www.mediafire.com/file/z3thehre02qh0nz/H2135's+Halloween+Outfit+2020+[SE]+-+3BA.7z/file # H2135 Halloween Rektas Market
+    - https://www.mediafire.com/file/vltyeln24cwg7eu/%255BRektas%255D_Taranis_%255BSE%255D_-_3BA.7z/file # Taranis Rektas Market
+    - https://www.mediafire.com/file/aui9j84x6ntkel1/%255BRektas%255D_Taranis_%255BSE%255D_-_4K_textures.7z/file # Taranis 4k Rektas Market
+    - https://www.mediafire.com/file/xg8sj0216bsijg1/Vampire+Chain+[SE]+-+3BA.7z/file # Vampire Chain Rektas Market
+    - https://www.mediafire.com/file/o6dz4dws9u2oeyv/%255BRektas%255D_Sanguine_%255BSE%255D_-_3BA.7z/file # Sanguine Rektas Market
+    - https://www.mediafire.com/file/ype8eix7bd8iau1/%255BRektas%255D_Sanguine_%255BSE%255D_-_4K_textures.7z/file # Sanguine 4k Rektas Market
+    - https://www.mediafire.com/file/0w9slls4syy9kul/H2135s_Pirate_Series2_%255BSE%255D_-_3BA.7z/file # Pirate Series 2 Rektas Market
+    - https://www.mediafire.com/file/79r5g9isq3zjyvu/H2135%2527s_Fantasy_Series_7_%255BSE%255D_-_3BA.7z/file # Fantasy Series 7 Rektas Market
+    - https://www.mediafire.com/file/ghcib0sjyvc2vqx/H2135's+Fantasy+Series8+[SE]+-+3BA.7z/file # Fantasy Series 8 Rektas Market
+    - https://www.mediafire.com/file/e7xpd2poxwokqvp/%255BRektas%255D_Temptress_%255BSE%255D_-_3BA.7z/file # Temptress Rektas Market
+    - https://www.mediafire.com/file/5xqia6pfsn17chm/Temptress_%255BSE%255D_-_4K_textures.7z/file # Temptress 4k Rektas Market
+    - https://www.mediafire.com/file/6k8yn4ahyvz5lqx/%255BRektas%255D_Dark_Nun_%255BSE%255D_-_3BA.7z/file # Dark nun Rektas Market
+    - https://www.mediafire.com/file/cjwhyvo7ec1k61o/Dark_Nun_%255BSE%255D_-_4K_textures.7z/file # Dark nun 4k Rektas Market
+    - https://www.mediafire.com/file/hdo9s6qgfn8jt8j/Luna+[SE]+-+3BA.7z/file # Luna Rektas Market
+    - https://www.mediafire.com/file/ofwwlbbli50ddih/Luna_%255BSE%255D_-_4K_textures.7z/file # Luna 4k Rektas Market
+    - https://www.mediafire.com/file/74v4exp7crkf087/%255BMelodic%255D_Spiked_Tape_%255BSE%255D_-_CBBE.7z/file # Spiked Tape Rektas Market
+    - https://www.mediafire.com/file/bya1g1iga0wrkjq/%255BRektas%255D_Wrap_Around_Dress_%255BSE%255D_-_CBBE.7z/file # Wrap around dress Rektas Market
+    - https://www.mediafire.com/file/egbw5wcvsm2kgfn/Wrap_Around_Dress_%255BSE%255D_-_4K_textures.7z/file # Wrap around dress 4k Rektas Market
+    - https://www.mediafire.com/file/77486amn2cocfxg/Lovely_Latex_%255BSE%255D_-_CBBE.7z/file # Lovely Latex Rektas Market
+    - https://www.mediafire.com/file/024uztrtwv0sr2c/Lovely_Latex_-_4K_textures.7z/file # Lovely Latex 4k Rektas Market
+    - https://www.mediafire.com/file/bnqmaf6r5odxnd1/%255BNINI%255D_Operator_%255BSE%255D_-_CBBE.7z/file # Operator Rektas Market
+    - https://mega.nz/file/LPw2FIaB#HWOhW7W2s_G_4eNeLWo8gFEJC8OSzy4RiwDIEovUHe8 # nier automa 2b https://www.immyneedscake.com/
+    - https://mega.nz/file/CCoVBSKZ#AKeC07-8IppzNieVBxjuM7c4riJnSHigSZHUjV68yjM # High priestess https://www.immyneedscake.com/
+    - https://mega.nz/file/bTonha4T#71VcWDBLQ2arEUdOjBE6ABVJYKjgAFKwRj1u1SWJoP0 # Battle bunny irelia https://www.immyneedscake.com/
+    - https://mega.nz/file/uH4E2JYD#sbGEhsJkXjWQol5ZmmYnCDuLtGAhjh73UZGVZsgMcFs # Elf Paladin https://www.immyneedscake.com/
+    - https://mega.nz/file/CT5Wwb4b#MJUeDDqqZRILfxy6Ju-doWOhTQ0Jgc2MhkqYDiepiDQ # Primrose Egypt https://www.immyneedscake.com/
+    - https://mega.nz/file/bf4VhaCb#WF35skdDrj-yQu_tcdrJ2NGQj0vpNbywutN5tQ2mQ5w # Bladedancer https://www.immyneedscake.com/
 
     # Skyrimified
     - https://www.patreon.com/file?h=47007938&i=7297552 # Sigils of Skyrim 2K Banners
@@ -2106,12 +2139,23 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=115658146&m=376483634 # _Fuse00_ArmorSpriggan (Vanille Male)
     - https://www.patreon.com/file?h=111649008&m=350723048 # [TalesOfStar] Air Balloons
 
+    # Various Fuse00 Armors & Outfits
+    - https://www.patreon.com/file?h=119777385&m=404636074 # _Fuse00_ArmorSasrir.rar
+    - https://www.patreon.com/file?h=68902488&m=189514266 # _Fuse00_ArmorSona (Vanilla Male)
+    - https://www.patreon.com/file?h=68902488&m=160093279 # _Fuse00_ArmorSona (Alt XML)
+    - https://www.patreon.com/file?h=93095428&m=248004338 # _Fuse00_ArmorFreija (CBBE)
+    - https://www.patreon.com/file?h=93095428&m=248004425 # _Fuse00_ArmorFreija (Vanilla Male)
+    - https://www.patreon.com/file?h=96406751&m=265878755 # _Fuse00_ArmorShadow
+    - https://www.patreon.com/file?h=109829703&m=339148708 # _Fuse00_ArmorDaemon
+    - https://www.patreon.com/file?h=122295901&m=422046302 # _Fuse00_ArmorAkasha (CBBE)
+    
     # N.Y.A 5.2
 
     - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1392029/e9d678a1-c21d-4c47-a74c-d571eaeb3224.7z # Baka SLAL 7.00
 
 
     # Fusion Girl Body replacer Fallout 4
+
     - https://www.mediafire.com/file/1vljtubz9nzwr1h/FusionGirl-0223.7z/file # Fusion Girl Female Body Replacer (FG)
 
    #Serana Dead Sexy 
@@ -2120,3 +2164,7 @@ AllowedPrefixes:
     -https://mega.nz/file/PyIlHT5T#oQlM4WE0JGkSOyCz2UvpQQsg7dHgsUbvgiFTX7ZxIlc #Buxom Wench Yuriana 1.56 Beta Kozuke Hajime open public version. Patreon Reference page https://www.patreon.com/posts/happy-holidays-95158589
     -https://mega.nz/file/x7BE3aLY#UfBp2PdATkHcNET4bIDUHwwyVA4r8zTS8_misjkWA1o #Succubus Twins SE Mirror Reference Serana Dead Sexy - Official Nexus collection https://next.nexusmods.com/skyrimspecialedition/collections/gv7h2i
     -https://www.patreon.com/file?h=95158589&m=299795319 #Buxom Wench Yuriana 1.56 Beta Patch Kozuke Hajime Open Public version Patreon Reference page https://www.patreon.com/posts/happy-holidays-95158589
+
+    # N.Y.A 6.0
+
+    - https://www.mediafire.com/file/twkgw922oc4nwca/Arachne_Spider_Race_%255BSE%255D_1.2.rar/file # https://www.patreon.com/posts/arachne-race-1-2-99309740 Arachne Race 1.2
