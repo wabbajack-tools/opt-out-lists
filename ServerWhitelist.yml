@@ -590,6 +590,9 @@ GoogleIDs:
 
     # Mages & Vikings
     - 1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g # [Dint999] HairPack02 SSE 1.11
+    - 17tGAnd24wOxZvyVhx9Znox46PKu-H7xn # HDT-SMP Nord Steelheart Armor Patch
+    - 1ADieQvqDlyL8wi4zq-Su_mV-dSBrLc7Y # HDT-SMP Nord Steelheart Armor Patch for CBBE 3BA
+    - 1JApPcNyapv5onUsOjfnNXAQNQGKARZUX # HDT-SMP Nord Steelheart Armor Patch for HIMBO
 
     # TVirus
     - 1sAp3Q7rYLq1otpojLap1t6N6h9nrAJFm # Karlov Manor SE (linked on LoversLab)
@@ -2105,6 +2108,9 @@ AllowedPrefixes:
     - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/993525/361830fd-9b59-4928-8103-96643dc48f7a.zip # Baka Motion Data Pack
 
     # Mages & Vikings
+    - https://www.patreon.com/file?h=111649008&m=350723048 # [TalesOfStar] Air Balloons
+
+    # Various Fuse00 Assets
     - https://www.patreon.com/file?h=76570894&m=182241020 # _Fuse00AmberHair
     - https://www.patreon.com/file?h=68902488&m=189514266 # _Fuse00_ArmorSona
     - https://www.patreon.com/file?h=62190804&m=158215584 # _Fuse00TaurielHair
@@ -2137,16 +2143,12 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=109829703&m=339148708 # _Fuse00_ArmorDaemon
     - https://www.patreon.com/file?h=115658146&m=376483627 # _Fuse00_ArmorSpriggan (CBBE)
     - https://www.patreon.com/file?h=115658146&m=376483634 # _Fuse00_ArmorSpriggan (Vanille Male)
-    - https://www.patreon.com/file?h=111649008&m=350723048 # [TalesOfStar] Air Balloons
-
-    # Various Fuse00 Armors & Outfits
-    - https://www.patreon.com/file?h=119777385&m=404636074 # _Fuse00_ArmorSasrir.rar
+    - https://www.patreon.com/file?h=119777385&m=404636074 # _Fuse00_ArmorSasrir
     - https://www.patreon.com/file?h=68902488&m=189514266 # _Fuse00_ArmorSona (Vanilla Male)
     - https://www.patreon.com/file?h=68902488&m=160093279 # _Fuse00_ArmorSona (Alt XML)
     - https://www.patreon.com/file?h=93095428&m=248004338 # _Fuse00_ArmorFreija (CBBE)
     - https://www.patreon.com/file?h=93095428&m=248004425 # _Fuse00_ArmorFreija (Vanilla Male)
     - https://www.patreon.com/file?h=96406751&m=265878755 # _Fuse00_ArmorShadow
-    - https://www.patreon.com/file?h=109829703&m=339148708 # _Fuse00_ArmorDaemon
     - https://www.patreon.com/file?h=122295901&m=422046302 # _Fuse00_ArmorAkasha (CBBE)
 
     # MaskedRPGFan Settings Loaders
