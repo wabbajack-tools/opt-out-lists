@@ -1,14 +1,6 @@
 # Server whitelist for Wabbajack
 
 GoogleIDs:
-    - 1nFrARhbOY9jGHORm9lEYN3aho44FT-VE # HDT-SMP Miraak Robes
-    - 1dAlqHPsWyBvfR2xmivQA-DGnZTGJ3HM7 # Fitted Ebony HDT-SMP Patch
-    - 1falsNeHbbpRzU9d7C6f1jWV5Nr0zR5OT # Fitted Ebony HDT-SMP CBBE 3BA Bodyslides
-    - 1R3yqbARXhuZbkJiDzbz178PbpR0yJxLI # Fitted Ebony HDT-SMP HIMBO Bodyslides
-    - 1w-Q318GnrC4_kkxsKnPqvJaI6mLn5sKr # Combined CBBE + UUNP + TBD Sliders
-    - 1F21gdqgBHYOPB-T8RHsLKBBS16skY5oU # HDT-SMP HZD Aloy's Outfit [SE]
-    - 1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5 # BDOr Winter Mountain Guardian Spirit
-    - 15ck3vUYkfK118j-nWfAj1BwfzbzRKdnk # VIGILANT Boss Moveset v1.0
     - 1-5AtR8PXFm34jQ6j9gD2H0o67nrpSrXb # Peeno the Mushroom 1.5
     - 1TEe9iSthw87_EW9MrSqB58N1h90HcN1k # Clarity TTW
     - 1gylSOUxgfZZtZncOpG_vEr-shceAmcLA # New Reno Episode 3 Assets
@@ -604,6 +596,16 @@ GoogleIDs:
 
     # TVirus
     - 1sAp3Q7rYLq1otpojLap1t6N6h9nrAJFm # Karlov Manor SE (linked on LoversLab)
+
+    #OmnisWorld
+    - 1nFrARhbOY9jGHORm9lEYN3aho44FT-VE # HDT-SMP Miraak Robes
+    - 1dAlqHPsWyBvfR2xmivQA-DGnZTGJ3HM7 # Fitted Ebony HDT-SMP Patch
+    - 1falsNeHbbpRzU9d7C6f1jWV5Nr0zR5OT # Fitted Ebony HDT-SMP CBBE 3BA Bodyslides
+    - 1R3yqbARXhuZbkJiDzbz178PbpR0yJxLI # Fitted Ebony HDT-SMP HIMBO Bodyslides
+    - 1w-Q318GnrC4_kkxsKnPqvJaI6mLn5sKr # Combined CBBE + UUNP + TBD Sliders
+    - 1F21gdqgBHYOPB-T8RHsLKBBS16skY5oU # HDT-SMP HZD Aloy's Outfit [SE]
+    - 1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5 # BDOr Winter Mountain Guardian Spirit
+    - 15ck3vUYkfK118j-nWfAj1BwfzbzRKdnk # VIGILANT Boss Moveset v1.0
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
@@ -2151,7 +2153,7 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=93095428&m=248004425 # _Fuse00_ArmorFreija (Vanilla Male)
     - https://www.patreon.com/file?h=96406751&m=265878755 # _Fuse00_ArmorShadow
     - https://www.patreon.com/file?h=122295901&m=422046302 # _Fuse00_ArmorAkasha (CBBE)
-    
+
     # Alternate Links for Mega Files
     - https://www.mediafire.com/file_premium/wvgl002k5nqy05h/DX_Druid_Armor_CBBE_SE_HDT-SMP.7z/file # DX Druid Armor HDT-SMP Patch
 
