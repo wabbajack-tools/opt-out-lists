@@ -2180,3 +2180,14 @@ AllowedPrefixes:
     # N.Y.A 6.0
 
     - https://www.mediafire.com/file/twkgw922oc4nwca/Arachne_Spider_Race_%255BSE%255D_1.2.rar/file # https://www.patreon.com/posts/arachne-race-1-2-99309740 Arachne Race 1.2
+    
+    # Sin1ster Valheim
+    - https://thunderstore.io/package/download/Azumatt/AzuAntiCheat/4.3.11/ # Azumatt-AzuAntiCheat-4.3.10.zip
+    - https://thunderstore.io/package/download/Azumatt/AzuHoverStats/1.1.8/ # Azumatt-AzuHoverStats-1.1.8.zip
+    - https://thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.2202/ # denikson-BepInExPack_Valheim-5.4.2202.zip
+    - https://thunderstore.io/package/download/DFG/Ballista_Reloader/0.217.25/ # DFG-Ballista_Reloader-0.217.25.zip
+    - https://thunderstore.io/package/download/MaxFoxGaming/Better_Beehives/1.2.3/ # MaxFoxGaming-Better_Beehives-1.2.1.zip
+    - https://thunderstore.io/package/download/Smoothbrain/ServerCharacters/1.4.15/ # Smoothbrain-ServerCharacters-1.4.15.zip
+    - https://thunderstore.io/package/download/VentureValheim/World_Advancement_Progression/0.3.3/ # VentureValheim-World_Advancement_Progression-0.3.3.zip
+    - https://thunderstore.io/package/download/VentureValheim/Venture_Floating_Items/0.3.2/ # VentureValheim-Venture_Floating_Items-0.3.2.zip
+    - https://thunderstore.io/package/download/ComfyMods/Gizmo/1.15.0/ # ComfyMods-Gizmo-1.15.0.zip
