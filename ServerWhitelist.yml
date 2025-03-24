@@ -649,7 +649,7 @@ AllowedPrefixes:
     - https://www.skyrim-guild.com/ # Modern Combat Skyrim stuff mostly. Distar/Adri host here
     - https://www.modding-guild.com/ # skyrim-guild renames to modding-guild
     - https://modding-guild.com/ # skyrim-guild renames to modding-guild
-    - https://valheim.thunderstore.io/ # Valheim based modding, includes more, isolated mods that aren't hosted on Nexus Mods.
+    - https://thunderstore.io/ # Thunderstore modding, includes more games than just valheim. Subdomain unnecessary for downloads. Inlcudes isolated mods that aren't hosted on Nexus Mods.
     - https://geckwiki.com/ # New Vegas Creation Kit
     - https://gamebanana.com/ # Primary Persona modding site
     - https://www.distaranimation.com/ # New location for Distar's mods
