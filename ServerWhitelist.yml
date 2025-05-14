@@ -668,6 +668,8 @@ AllowedPrefixes:
     - https://files.moddinglounge.com/ # Rage's lists
     - https://www.overtake.gg/ # Assetto Corsa mods
     - https://mod.io/ # Mod.io is an increasingly common resource for game makers who want PC and console modding support.
+    - https://g-6715.modapi.io # Mod.io CDN for Baldur's Gate 3
+    - https://binary.modcdn.io # Mod.io CDN for all Games
     - https://mod.pub/ # New versions of Enderal require manualUrl for mod.pub
 
     # Common files
