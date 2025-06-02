@@ -615,11 +615,7 @@ GoogleIDs:
     # Mount and Blades 2 : Bannerlord
     - 1LDU4l5zSXqVIvgY0XiY9OoYysdReL8po # Life in Calradia 0.6.5.2
     - 1zvDNt6e6FbC7TIjRNnMvWaYdw047Ue_4 # My Little Warband 1.2.11
-
-    # Serana Dead Sexy : The Queen of Screams and Whispers of Mara: Echoes of the Dark Lady
-    - 1kphyNUBtv0lqRn6naI_LNHuH5nwTIlTT #Tulius SMP Hair 3 806 Big Head
-    - 1nSqmX7VVAs6r7CyCDuPX6wkWvzZNROYM #Tulius SMP Hair 3 Fixed ESP
-    
+ 
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
