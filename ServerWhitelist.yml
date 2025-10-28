@@ -2226,6 +2226,9 @@ AllowedPrefixes:
 
     # MaskedRPGFan Settings Loaders
     - https://www.patreon.com/file?h=117178497&m=386619775 # True Armor Settings Loader
+
+    # Modern Stagger Lock
+    - https://github.com/SkyHorizon3/ModernStaggerLock/releases/download/v1.07a/Modern.Stagger.Lock-v1.07a.-.AE.-.VR.7z # Modern Stagger Lock v1.07a
     
     # N.Y.A 5.2
 
