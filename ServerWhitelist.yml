@@ -641,6 +641,9 @@ GoogleIDs:
     
     # Mojave Express Wabbajack
     - 11mUAG8U0jrohgKy5rZlWZA5D4eswrakz # Tammer's NIF-Bashed Armor Mega-Pack v6.0.1
+
+    # Telsera
+    - 1LA1VqdA81iXFdTuoEJHPDKhsMQSYxRwh # Sforzinda's Destinations
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
