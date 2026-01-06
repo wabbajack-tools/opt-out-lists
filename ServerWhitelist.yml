@@ -1,6 +1,7 @@
 # Server whitelist for Wabbajack
 
 GoogleIDs:
+    - 1B1p7p13mZWTrHCE6dsel4jRGtOsHuu7k # [Dint999] BDOR Hairs SSE 0.23
     - 1LaAHMfCiWEdvhk7fuXLWhfPtg8RbnpO6 # HDT-SMP Apachii Radovid Robes Patch
     - 1-5AtR8PXFm34jQ6j9gD2H0o67nrpSrXb # Peeno the Mushroom 1.5
     - 1TEe9iSthw87_EW9MrSqB58N1h90HcN1k # Clarity TTW
@@ -2240,7 +2241,6 @@ AllowedPrefixes:
     
     # Alternate Links for Mega Files
     - https://www.mediafire.com/file_premium/wvgl002k5nqy05h/DX_Druid_Armor_CBBE_SE_HDT-SMP.7z/file # DX Druid Armor HDT-SMP Patch
-    - https://www.mediafire.com/file/1enjwvkrgv6iq1q/%255BDint999%255D_BDOR_Hairs_SSE_0.20.7z/file # Dint's BDOR Hairs
     - https://www.mediafire.com/file/27t4gh7kppbfayu/%255BDint999%255D_HairPack02_SSE_1.12_%2528base%2529.7z/file # More Hairs from Dint
 
     # MaskedRPGFan Settings Loaders
