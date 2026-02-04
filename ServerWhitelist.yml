@@ -1,6 +1,9 @@
 # Server whitelist for Wabbajack
 
 GoogleIDs:
+    # KIMUT NSFW 2026 files
+    - 1IKc-cBPQnJIR-jY-pZbXxN9CuAxx0U1O # KIMUT_DynDOLOD_Output
+
     - 1B1p7p13mZWTrHCE6dsel4jRGtOsHuu7k # [Dint999] BDOR Hairs SSE 0.23
     - 1LaAHMfCiWEdvhk7fuXLWhfPtg8RbnpO6 # HDT-SMP Apachii Radovid Robes Patch
     - 1-5AtR8PXFm34jQ6j9gD2H0o67nrpSrXb # Peeno the Mushroom 1.5
