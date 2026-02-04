@@ -704,10 +704,6 @@ AllowedPrefixes:
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
-    - https://cdn.discordapp.com/attachments/934574001366380584/942219510163845160/nvse_6_2_6b8.7z # beta xNVSE update (Official Discord Link)
-    - https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z # xEdit 4.0.3g (Official Discord Link)
-    - https://cdn.discordapp.com/attachments/518048160526893057/863117377146191882/xEdit_4.0.3h.7z # xEdit 4.0.3h (Official Discord Link)
-    - https://cdn.discordapp.com/attachments/518048160526893057/863262167415259146/xEdit_4.0.3h_Hotfix_1.7z # xEdit 4.0.3h Hotfix 1 (Official Discord Link)
     - https://archive.org/download/wyrmstooth1.18SSE/Wyrmstooth%201.18%20SSE.zip    # Wyrmstooth 1.18SE
     - https://mega.nz/#!RVxiWBYA!Uipp7y8vwpPvyRnNRyHoLVT3wFjIEbIdmouMqfsQm60 # SSE-Terrain-Tamriel.esm
     - https://mega.nz/file/MI41iADD#Qa47iXpHBZLxAICe7My9q-dSAX1Rh9uKQlXFk9vMIOc # SSE-Terrain-Tamriel.esm NEW
@@ -773,7 +769,6 @@ AllowedPrefixes:
     - https://mega.nz/#!BZhlVCAJ!s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4 #FO4LODGen Resources 
     - https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip # FNV GECK
     - http://geckwiki.com/images/c/ca/GECK_NVE_v1.4.7z # Backup FNV GECK
-    - https://cdn.discordapp.com/attachments/1074569079123365929/1085715700263440465/ImprovedCameraSE-1.0.0.PR51.7z # Improved Camera to prevent recompiles
     - https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4 # Fallout 4 LODGen Resources 1.1
     - https://blog.kakaocdn.net/dn/sw4vW/btq6qhhMipa/5pfOLEqRjfofAvBLH3R411/Smooth%20DAR%20Combat%20Dodge.7z?attach=1&knm=tfile.7z # Smooth DAR Combat Dodge
     - https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth%20Magic%20Casting%20Animation%203.2.7z?attach=1&knm=tfile.7z # Smooth Magic Casting Animation 3.2.7
@@ -838,9 +833,6 @@ AllowedPrefixes:
     - https://mega.nz/file/Bk4iiQCC#ITPiuAeo0Ck88MFHKZ4Fkah6bDV9stC0QjqvS-h9vOc # VR Patch
     
     # Fallout VR
-    - https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip # MCM VR
-    - https://cdn.discordapp.com/attachments/929147656469626950/1055724837814931526/PANPC_2.0.10-stable.7z # PANPC
-    - https://cdn.discordapp.com/attachments/928100623453417492/943923878873423932/Companion_Heal_Thyself_v1.5.7z # Heal Thyself
     - https://github.com/rollingrock/Fallout-4-VR-Body/releases/download/v0.75/FRIK.-.v0.75.2.-.20250812.7z # FRIK 75
     - https://mega.nz/file/dzBGyKTQ#IP7ScyzT28d-ZnAIqYiQLqe6gci-7gK6Kqr7BSGz4xE #openvr fix
     - https://mega.nz/file/dzBXCACC#Q5mP-kqPY6_doO_9ne4sqd8DhwmqSwDoDOeQfLyIU8I #Truegear
@@ -850,7 +842,6 @@ AllowedPrefixes:
     - http://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file # Spice of Life Vanilla v1-5
     - https://mega.nz/#!P1lHECYB!csTfQD2LGPsvPKp4XaZXkLoFmUZeXvmXso_NbwoHudM # The Blue Note
     - https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2Fcore-huduivui%2B.html # Vanilla_UI_Plus_New_Vegas_8.50
-    - https://cdn.discordapp.com/attachments/229635753989242881/731516637605265418/ccc_icons_v2.7z # Perk-Style JIP CCC Icons
     
     # Keizaal
     - https://mega.nz/#!yJ10waDA!ZA_UOzpuaUWL9YBmUaCRT-bruJmQbVNif7tji9wKt0Q # Keizaal LODs
@@ -977,15 +968,11 @@ AllowedPrefixes:
     - https://mega.nz/file/ZSgDHYjL#Iy9IYODuHP4YluQ_NENg_pzadNMnhe0XaheoEiQyVhw                             # 60 FPS GUI - E3 HUD
     - https://mega.nz/file/wbwRTQBJ#cBZEDU78G548dBRWiI0EYm-CXbHArrBX8AQ9tS2q_Ls                             # Aerondight Replacer.zip
     - https://www.patreon.com/file?h=63982317&i=10309524                                                    # bsbah Lady of the Lack
-    - https://cdn.discordapp.com/attachments/486202559951011870/633534346489233471/DebugConsoleEnabler.7z   # DebugConsoleEnabler via ASI loader
     - https://mega.nz/file/oLwhlZRT#K8Jny9L2bdhrzvUQCvb_F9_fHrn-SymOE9k-BC2RrHo                             # Disable Pesky Sword And Arrows Trails.zip
     - https://mega.nz/file/QGQQ0CgQ#1Wn-M2oE7q-TUTW9Akry_ReBsusm0A_0Ijw9sP6Mbds                             # EE Wolf Medallion HUD
     - https://mega.nz/file/JfpW0bSJ#LubttJclKTMpgM5WZA6YMTjBsI50PUtY1y0BbY66zbE                             # E3 Improved Combat Animations
-    - https://cdn.discordapp.com/attachments/486202559951011870/894253594231054456/Elysium.7z               # Elysium Grass
     - https://mega.nz/file/FfI3TADB#40fAgMqZ50MR9f4LDAVXGJy_lx-66qmucG4_udcgGHM                             # Enemy HUD.zip
-    - https://cdn.discordapp.com/attachments/966003567720800266/985164195374972998/FerociousReshade1.02.7z  # Ferocious Reshade
     - https://mega.nz/file/Mf410bKC#CFanH_o1RgLqqMUCyyeEByoU13R-8_VmJkc36ZUa5ek                             # Geralt With Lore.zip
-    - https://cdn.discordapp.com/attachments/955348078725058560/1028622922430042173/GSFX_Shaders_Final.rar  # GrooteS Shaders
     - https://mega.nz/file/ZDAgyQST#GpnHdrdWcU0558XMfQugG3ct0yzTtbsY_loil_Tc6XE                             # HD Water.7z
     - https://mega.nz/file/4PhX2IIZ#l56tQEdyLeHvIgZMAfHTG7Q1b1oMD6uAxLzJkgZjR-s                             # Killing Monsters Armor Fix With HD Chainmail.zip
     - https://mega.nz/file/geBjFAgS#QKIbwtE06NptGOmti2n1sTAORA7WmIf2CBMmlS8kawg                             # Less White Eyebrows.7z
@@ -1149,21 +1136,9 @@ AllowedPrefixes:
 
     # Misc Fallout 4 Files From Oynlen and DeathByKitty
     - https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc # More Feral Ghouls
-    - https://cdn.discordapp.com/attachments/739264626495062075/739423092958298152/Optional_patch_for_Zombie_Walkers-43441-0-9-1581441320.rar # MFG ZW Patch
-    - https://cdn.discordapp.com/attachments/739264626495062075/739423078592938004/Optional_patch_for_Unique_NPCs-43441-1-0-1581612645.rar # MFG UNPC Patch
-    - https://cdn.discordapp.com/attachments/739264626495062075/739423063715872798/Optional_patch_for_no_ghoul-childrens-43441-0-9-1581441361.rar # MFG No Kids Patch
-    - https://cdn.discordapp.com/attachments/739264626495062075/739423114580197446/Hotfix_for_1.0-43441-1-0a-1581515283.rar # MFG No Radroach Fix
-    - https://cdn.discordapp.com/attachments/739264626495062075/739423127913889822/Horizon_MFG_Patch-43441-1-0-1581612367.rar # MFG Horizon Patch
     - https://mega.nz/file/eRVTCKLZ#cZoL3aS1j4qTpvcmQgQztlcaEVCT9b2noqqCuZn7eGA # Face Mask
-    - https://cdn.discordapp.com/attachments/739264626495062075/739443758566866954/Wall_Rugs-46256-0-1-1594654737.rar # Wall Rugs
     - https://mega.nz/file/fd9iXSAK#f3CyZyf-ngT5IZ6zunm2rzOyFLaLeZELi49Q4GGlBj0 # A Forest 0.7
-    - https://cdn.discordapp.com/attachments/739264626495062075/739412871829651496/MeshFix01-45330-0-5a-1595443888.rar # A Forest Mesh Fix 1
-    - https://cdn.discordapp.com/attachments/739264626495062075/739412938359832667/MeshFix02-45330-0-5a-1595444651.rar # A Forest Prewar Mesh Fix
     - https://mega.nz/file/HVsFXQxR#ZCFRmvWQozFBpUDHrYxqu2vSWTAfmUGmRDhXoL_3fjU # A Forest 0.6
-    - https://cdn.discordapp.com/attachments/739264626495062075/739416370122326026/Toilet_Paper-43857-0-1-1584115459.rar # Toilet Paper
-    - https://cdn.discordapp.com/attachments/739264626495062075/739419849545089054/Wearable_Hot_Dogs-44915-0-1-1588816984.7z # Wearable Hot Dogs
-    - https://cdn.discordapp.com/attachments/739264626495062075/739419884466864142/Hot_Dog_Object_Version-44915-0-1-1588817278.rar # Hot Dog Object Version
-    - https://cdn.discordapp.com/attachments/739264626495062075/739419910953893928/Hot_Dog_Rifle-44915-0-1-1588964186.rar # Hot Dog Rifle
     - https://mega.nz/file/bmh2WQqR#iUi9rDCF0qqDcpHb1LyI1vRlo5slJi33MmrUMjLRXu8 # Great Green Jewel by AWARHERO
     
     # Misc Hair for Fallout 4
@@ -1202,7 +1177,6 @@ AllowedPrefixes:
     - https://vk.com/doc396890194_487527365?hash=3667a6a94f55359f01                         # katkat guard armors
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon-1.7a-English.7z           # The Dungeons of Ivellon
     - http://www.planetoblivion.de/Downloads/PI/ev/quests/Ivellon_Patch_1.8.7z              # The Dungeons of Ivellon 1.8 Update
-    - https://cdn.discordapp.com/attachments/817007847673298994/829644233874866246/NAO.ENB.zip # NAO ENB
     
     # Emperor's Wasteland
     - https://mega.nz/file/VfY1mAIQ#LddwqEaxir6snC3T5BDPrNc8pTQZFdd8nW7GPIQUJx0 # 0.1.0 Body Slide Output
@@ -1662,7 +1636,6 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=58880671&i=9390040 # OSound
     - https://www.patreon.com/file?h=56220800&i=8891701 # OPubes
     - https://www.patreon.com/file?h=53664710&i=8892036 # OCrime
-    - https://cdn.discordapp.com/attachments/899858453869256704/899858960444698664/OMasturbation.7z # OMasturbation
     - https://mega.nz/file/j64AnQLQ#SsGVP7pBSv-P3FGO7TyryPHUTmZtT0fybF8fAJfVi8w # SexLab Solutions Voice Files
     - https://mega.nz/file/VL5FDBoS#99jsLgDaCjUTk7wER48I2votSmKGiqdvt3jsp_uzMp0 # Artifacts Revised - Textures
     - https://www.patreon.com/file?h=65790091&i=10628173 # Artifacts Revised
@@ -1680,12 +1653,10 @@ AllowedPrefixes:
     # Fallout 3 Retextures from modgames.net
 
     - http://download2391.mediafire.com/2lxvv74yt1eg/d1c1vp8g1jbgb8y/Operation+Anchorage.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_operation_anchorage_retexture/33-1-0-16671
-    - https://cdn.discordapp.com/attachments/1053054518172069918/1109366076569047060/PPlus_1.8.2.5-MergedPatch.zip # Sexlab PPLUS Positions + Init + SLSO Patch Merge
     - http://download2390.mediafire.com/8pt5ps75yzmg/boi3u7tgqan5htt/ThePitt.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_the_pitt_retexture/33-1-0-16642
     - http://download2391.mediafire.com/qgkjh16jdfmg/fwksyu0v6auw32u/BrokenSteel.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_broken_steel_retexture/33-1-0-16752
     - http://download2389.mediafire.com/3nh4x6oqaoyg/ql238cvbl494re3/PointLookout.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_point_lookout_retexture/33-1-0-16648
-    - https://cdn.discordapp.com/attachments/771590385054515210/1197998349127798905/PANPC_2.0.12-stable.7z?ex=65bd4de8&is=65aad8e8&hm=f84fc716ba27d79ee4b6258acc04ff843c584900addd28eb10ea086d7112f703&
-  
+    
     # Whispering Chills (SKK Mods)
     
     - https://skkmods.com/mod/skk-random-encounter-manager/ # SKK Random Encounter Manager (manual download)
@@ -1887,7 +1858,6 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z # Misc Hairstyles v1.6 by Atherisz
     - https://www.moddingham.com/download/file.php?id=59 # AAF for FO4
     - https://mega.nz/folder/R6BkiaYC#ApuvRJWeE2wWpMPneVdS2Q # Problems of Survivor for FO4
-    - https://cdn.discordapp.com/attachments/861766770062000128/875108471933108294/Immersive_Wastelanders_1.8.zip # Immersive Wastelanders v1.8
     - https://www.mediafire.com/file/xoyhhu6hhs5cg6c/ZeX-ZBG-0223.zip # ZeX-ZBG-0223
     - https://mega.nz/file/sftCgb6A#H47o1JIJqP57dvf3CUR3pcxHUiEyQJBPCghmI4nuyAg # Problems of Survivor v1.5.2 Voiced v1.1
     - https://www.mediafire.com/file/5wprzl5ifvg1oht/Kziitd_F*t*sh_Toolset_1.0_Beta_2.3.7z # Kziitd Fetish Toolset 1.0 Beta 2.3
@@ -1978,9 +1948,6 @@ AllowedPrefixes:
     - https://mega.nz/file/haoBFLAB#Bka9McxP2JiYrim2_n2djTib_zHVdK38VbkwiH116Hk # dTry's Key Utils NG
     
     # Fallout VR Essentials
-    - https://cdn.discordapp.com/attachments/408380736941588481/1059902935955427348/Companion_Heal_Thyself_v1.5.7z
-    - https://cdn.discordapp.com/attachments/929147656469626950/1086481190615265290/PANPC_2.0.12-stable.7z
-    - https://cdn.discordapp.com/attachments/929147656469626950/1191504488977137907/PANPC_2.0.13-stable.7z
     - https://mega.nz/file/JupwTCRB#CnkwNVb5u4O9J7BBPL2T0Owd2AUKorL0XZ_oNJYNI2M
     - https://mega.nz/file/9iYQmSjZ#6njpQ6cLdQDNY_eMhu-mGSmeTtFedKl50nanhHSSn8U
     - https://mega.nz/file/F6RXGKYD#aNOkFvekCutniLe92b4DAyxNaDjbLxXMN2yGRDkKY4Q
@@ -2050,7 +2017,6 @@ AllowedPrefixes:
     # More of caco's Cringe
     
     - https://www.mediafire.com/file/jawkdmiu75gxa3s/AFS+redone+0.7.zip/file # A Forsworn Story Redone 0.7
-    - https://cdn.discordapp.com/attachments/1053054518172069918/1109366076569047060/PPlus_1.8.2.5-MergedPatch.zip # SexLab PPLUS Sort Positions + Init + SLSO Patch Merge
     - https://migal3d.com/downloads/NaughtyVoices_2-3-ST19x8U4TjffK2f4b2U.zip # Naughty Voices 2.3
     - https://migal3d.com/downloads/OPrivacy_2-7b-Yu29g3453YqWER9J.zip # OPrivacy 2.7b
     - https://migal3d.com/downloads/Excitable_Subs-1-3b_22qFtUhQT6G427.zip # Excitable Subs 1.3b
@@ -2147,9 +2113,7 @@ AllowedPrefixes:
      # N.Y.A NSFW Skyrim
     - https://www.mediafire.com/file/xcrzwu3757co1pm/Automated_SLSB_Conversions_0.6c.7z/file # Animation Pack Conversion by BabyImpala with Permission
     - https://www.mediafire.com/file/j386qo0w4qjm1b3/More_Nasty_Critters_Animations_SE_V15_4.7z/file # Merged Version of all 3 SplitVolumnes by MoreNastyCritters
-    - https://cdn.discordapp.com/attachments/1063514401375780874/1198357469903204383/SexLab_Framework_PPLUS_-_V2.3.2.1_-_1.5.97.zip?ex=65da4bdd&is=65c7d6dd&hm=3121fe0ab2594a7a661e07a0d19c0dafe7f72813946e2be02479e04977e51a9b& # Sexlab + 2.3.2.1 / SE 1.5.9.7 ( Inline Permission from Scrab )
     - http://www.mediafire.com/file/o5yacfkx21p3b8i/Sexlab_DLL_16640_Replacer.rar # Sexlab Framework 16640 Working DLL ( Inline Permission from Scrab )
-    - https://cdn.discordapp.com/attachments/1177560192192352336/1178355556113731604/SexLab_P_Quick_Scene_Start_Spell_-_4.0.0.zip?ex=65db5ba1&is=65c8e6a1&hm=0afebe8fd8aedc5ce84171cc1b0d649fd62bbe888f4d75c89f95fcdb6c34ab4c& # Sexlab + Quick Spell Inline ( Proof as Screenshot in File )
     - https://www.patreon.com/posts/edge-ui-0-55-98401985 # Edge UI 0.55 Public Release
     - https://mega.nz/file/9moCWSDB#PWuH6fkHj_JHquUBucIt6AZXOcWgcnMofarrq4mPJWY # SexyBono Eyes by immyneedscake
     - https://mega.nz/file/PaRXiQBK#PZyU2kfU2XEVIiuT1B1C82MCb8sKv5Ozg8QY9ls1dsY # Morningstar Wing SMP by immyneedscake
@@ -2357,6 +2321,4 @@ AllowedPrefixes:
     - https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/xPJzlJBb      # BakaFactory ABC LE SE 3.31
     - 1DVblr2x8q7WiBt64i06kZk8OeBPpn7NY                                         # SkyFurry NG Male Body 1.6.0
 
-    # Complex Sorter Beta
-    - https://cdn.discordapp.com/attachments/915413649638707251/1356673607656411217/Complex_Sorter_1.13-beta3.rar # Complex Sorter 1.13 Beta 3
-
+  
