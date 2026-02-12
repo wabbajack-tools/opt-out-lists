@@ -212,6 +212,7 @@ GoogleIDs:
     - 1QtuvbJu1t3hqSL9HbPOjZSkTmljw7GAo # vanaheimr mines and caves
     - 1jjHVbrWwnaaPw1-FUjDUDw2e4clSUm1p # Vanaheimr Ore Veins PBR
     - 1uUzqc2j0P5PGIqty1FOlwlTAg-ogEj67 # Jiaye's Vigilant PBR AIO
+    - 1-_xxVHVVMTc-5eFFtrV8lu1zHFDbEpKF # Immersive Kaidan AIO V5.0.1
 
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -1992,6 +1993,9 @@ AllowedPrefixes:
     - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-Inigo-Banter-Patch.7z # Kaidan - Inigo Banter Patch
     - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-3DNPC-Patch.7z # Kaidan - 3DNPC Patch
 
+    # Nordic Souls PBR Edition
+    - https://www.patreon.com/file?h=144043971&m=599239036 # Women of Skyrim Refined by RedguardDiaspora
+    
     # Parabellum by cacophony
     - https://mega.nz/file/8zBCGJhI#apyUCBuGuZQ_5Va7iby02AEybzKLE25tSEcGML1C-Yg # Vtaw Wardrobe 8 2K v1.0
     - https://mega.nz/file/1E8RHZ7Z#SWxMF3lT-4mfUYRgrlq1hhokeS_z1fplmiZJvaP1JNY # Vtaw Wardrobe 8 BodySlides
@@ -2335,6 +2339,7 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=142907434&m=561537632 # Men of Skyrim Refined Resources by RedguardDiaspora
     - https://www.patreon.com/file?h=142904482&m=560019871 # True Sons of Skyrim Refined Resources by RedguardDiaspora
     - https://www.patreon.com/file?h=142904482&m=561520407 # True Sons of Skyrim by RedguardDiaspora
+    - https://www.patreon.com/file?h=122807764&m=425631739 # SkyrimSE/AE Garbage Collector Logger & Bug Fix
 
     # F4FEVR
     - https://www.patreon.com/file?h=145305266&m=577052398 # XDI for Fallout 4 VR 1.3.5 by LH.Adonis
@@ -2343,3 +2348,26 @@ AllowedPrefixes:
     - https://mega.nz/file/TE9TCDRI#Elhg4ivAWriefWh_hpNjmCK7sYGzaP2lgDTHBBpzbyc # CRPOvergrowthPrevis.7z
     - https://mega.nz/file/bddDRQaL#cuSDULUI70wgs1HgKSBQoIIAHPYp3Hhb3Ukpivy0BxI # CRPPlugins_FullRelease.7z
     - https://mega.nz/file/uQtl0BBK#kUfaZp-DrSCZqR_HDkBjXoPw9VNflG42N1EUm6uxYO8 # CRP Overgrowth Main Archive.7z
+
+    # LM's Vanilla Hair Retex
+    - https://mega.nz/folder/eF1zyBxB#VSqyfwVl9xextpT1i5vvZQ/file/XVkREBqY # LM's Vanilla Hair Retex
+    - https://mega.nz/folder/eF1zyBxB#VSqyfwVl9xextpT1i5vvZQ/file/bMkVyT6Y # LM's Vanilla Hair Retex Flowmaps for CS HairSpec
+
+    # Sorre's Skyrim
+    - https://www.patreon.com/file?h=78672000&m=188804663                       # GS_SLAL SE 13 12
+    - https://www.patreon.com/file?h=80004988&m=193037467                       # GS_SLAL Creatures 13 03
+    - https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/xPJzlJBb      # BakaFactory ABC LE SE 3.31
+    - 1DVblr2x8q7WiBt64i06kZk8OeBPpn7NY                                         # SkyFurry NG Male Body 1.6.0
+
+    # Licentia NEXT Modlist files
+    - https://www.patreon.com/file?h=142697088&m=558575507 # Nether's Elana 2.1.0
+    - https://www.patreon.com/file?h=142697088&m=561858364 # Nether's Elana 2.1.0 - Approach Test Fix
+    - https://www.patreon.com/file?h=135800881&m=511310361 # BakaFactory's Animations for Ostim Standalone
+
+    # Ascended Fates Skyrim AE Modlist
+    - https://mega.nz/file/rJghkKBZ#Orm3SQ4_W7Icpbnjs--FzvX2cJQlZg82WlywEct_Jfw # ZAZ 8.0 CBBE SE Rev2
+    - https://subscribestar.adult/posts/2039736 # BakaFactory SLAL Animation 7.30V LE / SE
+    - https://subscribestar.adult/posts/2011241 # BaboDialogue 6.00V
+    - https://subscribestar.adult/posts/993525 # Baka Motion Data Pack 1.70V
+    - https://subscribestar.adult/posts/1812061 # SLAP Redux 3.62V
+    - https://subscribestar.adult/posts/1078724 # Sexlab Horrible Harassment Expansion [SLHH Expansion] V3.85 Hotfix
