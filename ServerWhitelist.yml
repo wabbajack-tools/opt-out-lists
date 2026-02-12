@@ -702,6 +702,7 @@ AllowedPrefixes:
     - https://g-6715.modapi.io # Mod.io CDN for Baldur's Gate 3
     - https://binary.modcdn.io # Mod.io CDN for all Games
     - https://mod.pub/ # New versions of Enderal require manualUrl for mod.pub
+    - https://ggmods.com/
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
