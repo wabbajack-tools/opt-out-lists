@@ -212,6 +212,7 @@ GoogleIDs:
     - 1QtuvbJu1t3hqSL9HbPOjZSkTmljw7GAo # vanaheimr mines and caves
     - 1jjHVbrWwnaaPw1-FUjDUDw2e4clSUm1p # Vanaheimr Ore Veins PBR
     - 1uUzqc2j0P5PGIqty1FOlwlTAg-ogEj67 # Jiaye's Vigilant PBR AIO
+    - 1-_xxVHVVMTc-5eFFtrV8lu1zHFDbEpKF # Immersive Kaidan AIO V5.0.1
 
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -579,6 +580,8 @@ GoogleIDs:
     - 1hLm4nAlg1GID_w868ez3-SN-kj2J0DIe # [KB-47] SYNTHS 1.4.7z
     - 1VUt6NbWWaLWHtOMbFhmsEXPZU5Iy6MV3 # Sdak1 Car Replacer
     - 1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h # XDI Wolfmark Fix
+    - 1gdAxKoMClHXPE-UDTkA4MJnbdz_FvFKf # F76 Sounds
+    - 1jAouE6-fxaIHSWn8k0n_oflBTi98h3yd # Trauma for Maim 3
 
     # NEFARAM
     - 1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ # Dint Hair Pack 02 SE 1.10
@@ -701,6 +704,7 @@ AllowedPrefixes:
     - https://g-6715.modapi.io # Mod.io CDN for Baldur's Gate 3
     - https://binary.modcdn.io # Mod.io CDN for all Games
     - https://mod.pub/ # New versions of Enderal require manualUrl for mod.pub
+    - https://ggmods.com/
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
@@ -2358,14 +2362,27 @@ AllowedPrefixes:
     - 1DVblr2x8q7WiBt64i06kZk8OeBPpn7NY                                         # SkyFurry NG Male Body 1.6.0
 
     # KIMUT Modlist
-    - 1h4zsq3CUESyjuFLMumHu2GexGnLyu_OJ                         # [SSE] H2135's Pirate Series2 CBBE 3BA CBPC-SMP Bodyslide v1.2
-    - 1Z-Y_SiKUk5BzD5itC5Oi5cGCqTJ4e0QP                         # [SSE] H2135 Fantasy Series4 CBBE 3BA CBPC-SMP Bodyslide v1.1
-    - 1pamn7MlWQA8LKUpo0vu4UXQ1MnCe-hnY                         # [SSE] H2135's Fantasy Series6 CBBE 3BA SMP Bodyslide
-    - 1t6cXS44MFuR1DrzdfMzQOglkZivqG9gh                         # [SSE] H2135's Fantasy Series7 CBBE 3BA SMP Bodyslide
-    - 1tmzMB3qFvmRoQdNHTC9qlMBs-_iuEie6                         # [SSE] H2135 Fantasy Series8 CBBE 3BA CBPC-SMP Bodyslide v2
-    - 1z4g0JbNFRrl5AktMhCBMwB6-aS8dmS-k                         # [SSE] H2135 Fantasy Series9 CBBE 3BA CBPC-SMP Bodyslide v1.3
-    - 1A2L2SD67z_oPJoclbUqRAQu-fpxr702F                         # [SSE] H2135's 3-Month Special Outfit 3BA CBPC-SMP Bodyslide v1.1
-    - https://www.patreon.com/file?h=95410094&m=259755129       # MCOSprintAttackFix
-    - https://www.patreon.com/file?h=95410094&m=259763243       # MCO Attack MCO Maxsu Edition v1.10
+    - 1h4zsq3CUESyjuFLMumHu2GexGnLyu_OJ # [SSE] H2135's Pirate Series2 CBBE 3BA CBPC-SMP Bodyslide v1.2
+    - 1Z-Y_SiKUk5BzD5itC5Oi5cGCqTJ4e0QP # [SSE] H2135 Fantasy Series4 CBBE 3BA CBPC-SMP Bodyslide v1.1
+    - 1pamn7MlWQA8LKUpo0vu4UXQ1MnCe-hnY # [SSE] H2135's Fantasy Series6 CBBE 3BA SMP Bodyslide
+    - 1t6cXS44MFuR1DrzdfMzQOglkZivqG9gh # [SSE] H2135's Fantasy Series7 CBBE 3BA SMP Bodyslide
+    - 1tmzMB3qFvmRoQdNHTC9qlMBs-_iuEie6 # [SSE] H2135 Fantasy Series8 CBBE 3BA CBPC-SMP Bodyslide v2
+    - 1z4g0JbNFRrl5AktMhCBMwB6-aS8dmS-k # [SSE] H2135 Fantasy Series9 CBBE 3BA CBPC-SMP Bodyslide v1.3
+    - 1A2L2SD67z_oPJoclbUqRAQu-fpxr702F # [SSE] H2135's 3-Month Special Outfit 3BA CBPC-SMP Bodyslide v1.1
+    - https://www.patreon.com/file?h=95410094&m=259755129 # MCOSprintAttackFix
+    - https://www.patreon.com/file?h=95410094&m=259763243 # MCO Attack MCO Maxsu Edition v1.10
     - https://cdn.discordapp.com/attachments/1434192247687086100/1463042058137632879/CS-Jiaye-Exp-26-01-20-RR.7z?ex=69a27c98&is=69a12b18&hm=0c6c1ea5fd64b91aa01f6bd91ff79ba896a623afa8f25608dd425e6142a89126& # CS-Jiaye-Exp-26-01-20-RR
     - https://cdn.discordapp.com/attachments/1437857783369433150/1466014651685801984/Dlizzios_Post_Processing_for_CS.zip?ex=69a2c10a&is=69a16f8a&hm=f622660228467c8955bee7e076f1894e6913020e013ccd382d0ffcf530d300fe& # Dlizzios Post Processing for CS
+    
+    # Licentia NEXT Modlist files
+    - https://www.patreon.com/file?h=142697088&m=558575507 # Nether's Elana 2.1.0
+    - https://www.patreon.com/file?h=142697088&m=561858364 # Nether's Elana 2.1.0 - Approach Test Fix
+    - https://www.patreon.com/file?h=135800881&m=511310361 # BakaFactory's Animations for Ostim Standalone
+
+    # Ascended Fates Skyrim AE Modlist
+    - https://mega.nz/file/rJghkKBZ#Orm3SQ4_W7Icpbnjs--FzvX2cJQlZg82WlywEct_Jfw # ZAZ 8.0 CBBE SE Rev2
+    - https://subscribestar.adult/posts/2039736 # BakaFactory SLAL Animation 7.30V LE / SE
+    - https://subscribestar.adult/posts/2011241 # BaboDialogue 6.00V
+    - https://subscribestar.adult/posts/993525 # Baka Motion Data Pack 1.70V
+    - https://subscribestar.adult/posts/1812061 # SLAP Redux 3.62V
+    - https://subscribestar.adult/posts/1078724 # Sexlab Horrible Harassment Expansion [SLHH Expansion] V3.85 Hotfix
