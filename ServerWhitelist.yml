@@ -213,6 +213,8 @@ GoogleIDs:
     - 1jjHVbrWwnaaPw1-FUjDUDw2e4clSUm1p # Vanaheimr Ore Veins PBR
     - 1uUzqc2j0P5PGIqty1FOlwlTAg-ogEj67 # Jiaye's Vigilant PBR AIO
     - 1-_xxVHVVMTc-5eFFtrV8lu1zHFDbEpKF # Immersive Kaidan AIO V5.0.1
+    - 1LXkLpFlu0ZtzOY6SB5-x3j2mcXFQe1P7 # H2135 Fantasy Series 4 UBE Public Version
+    - 1foHKNLKavKnDRlXd_vOkVzmBuvy41i0e # H2135 Fantasy Series 8 UBE Public Version
 
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -1858,6 +1860,7 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/dagsc06w2e3fhao/Demonic+Creatures+V1.9+SE_AE_any+version.7z/file # Demonic Creatures v1.9
     - https://www.mediafire.com/file/ozyywsvrqvhk8wd/Demonic+Creatures+V2.0+SE_AE_any+version.7z/file # Demonic Creatures v2.0
     - https://mega.nz/folder/CQRmwITa#QwZBqaiwQNGAAzdhAhKsYA # Anub 7.2025 Free pack
+    - https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg
     
 
 
@@ -2109,6 +2112,7 @@ AllowedPrefixes:
 
     # Fallout Anomaly
     - https://storage.icestormng-mods.de/s/Jp9nfE8g4iQmyy8/download?path=%2F1.2%2FRelease&files=IceStorms%20Hair%201.2.7z&downloadStartSecret=s0bm398ive # Haircut mod by IceStormNG
+    - https://storage.icestormng-mods.de/public.php/dav/files/q75niiHZ8RwbzkJ/Mine%20And%20Trap%20Detector/1.2/Release/MineDetector_1.2.7z # Trap & Mine Detector by IceStormNG
 
     # Kezyma's Morrowind Remastered
     - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4454
@@ -2373,7 +2377,12 @@ AllowedPrefixes:
     - https://subscribestar.adult/posts/993525 # Baka Motion Data Pack 1.70V
     - https://subscribestar.adult/posts/1812061 # SLAP Redux 3.62V
     - https://subscribestar.adult/posts/1078724 # Sexlab Horrible Harassment Expansion [SLHH Expansion] V3.85 Hotfix
-
+    - https://www.patreon.com/posts/124921524 # BG3 Makeup UBE Conversion (UBE Discord)
+    - https://www.patreon.com/posts/ube-hit2-eyes-124503936 # UBE Hit 2 Eyes (UBE Discord)
+    - https://drive.proton.me/urls/0NN33ZHK78#yEcYeBHZRtrj # Nordic Warmaiden Bodyhair UBE Conversion (UBE Discord)
+    - https://mega.nz/file/UVojFSzJ#ucG-wMI6FmpU1B0hVUigdkRl1jwOJ4Vsmu2TFyktcAQ # Community Overlays 1 UBE Conversion (UBE Discord)
+    - https://mega.nz/file/schAVCYI#XrsHoNBD3NTidyzIps4YnheY3v7GrnRZTkOYyG7oT7A # Community Overlays 3 UBE Conversion (UBE Discord)
+    
     # Maelstrom's Stuff (Bannerlord Modlist)
     - https://www.patreon.com/file?h=146526974&m=585329449 # Artem Core 1.01
     - https://www.patreon.com/file?h=141441592&m=573786451 # Artem's Better Map Visuals 1.02
@@ -2381,4 +2390,3 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=146532586&m=585610270 # Artem's Living Animations 1.36
     - https://www.patreon.com/file?h=144716178&m=603945755 # Artem's Hunts 1.9.11
     - https://www.patreon.com/file?h=144672887&m=572603602 # Artem's Nostalgic Conversation 1.0.7
-    
