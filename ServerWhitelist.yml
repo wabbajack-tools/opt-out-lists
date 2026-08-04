@@ -655,6 +655,10 @@ GoogleIDs:
 
     # Telsera
     - 1LA1VqdA81iXFdTuoEJHPDKhsMQSYxRwh # Sforzinda's Destinations
+
+    # Merethic
+    - 170kd1NUhUG34KNpI1IPbgSL1eXKZx8r7 # Caenarvon Glasses Pack Vol2
+    - 1PV9vPW9MHxJZ03n3D397O0kP3n0Oeoi4 # Caenarvon Glasses Pack Vol2 - ENB Complex Materials Patch
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
