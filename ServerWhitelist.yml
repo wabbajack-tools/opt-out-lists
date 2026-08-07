@@ -2338,7 +2338,10 @@ AllowedPrefixes:
     - https://craftian.itch.io/citizens-of-tamriel #Citizens of Tamriel
     - https://craftian.itch.io/patches-pandemonium #various compatibility patches. 
     
-    
+    # Styyx' Mods - Requires ManualURL due to itch.io's java script weirdness
+    - https://styyxus.itch.io/absorb-xp-fix-skse # Absorb XP Fix
+    - https://styyxus.itch.io/dungeons-are-dangerous # Dungeons Are Dangerous
+    - https://styyxus.itch.io/save-restrictions-skse # Save Restrictions SKSE
 
     # N.Y.A 6.0
 
