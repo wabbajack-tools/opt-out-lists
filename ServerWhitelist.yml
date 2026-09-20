@@ -660,6 +660,18 @@ GoogleIDs:
     # Merethic
     - 170kd1NUhUG34KNpI1IPbgSL1eXKZx8r7 # Caenarvon Glasses Pack Vol2
     - 1PV9vPW9MHxJZ03n3D397O0kP3n0Oeoi4 # Caenarvon Glasses Pack Vol2 - ENB Complex Materials Patch
+
+    # Lost World Reborn
+    - 1EAFNt6xQD_iHZhzMnTP1XnogQSC1EuFO # [KB-47] Kellogg 1.7.7z
+    - 1U4JUteVgExsYudtHvp4_ruQ1u64FY04I # [KB-47] DC Police 1.1.7z
+    - 1wfiK4sz6dDQtsqHn7mqxV1vUVYx2_p-H # [KB-47] B.O.S 2.3.7z
+    - 1opeucRcw1LJa6SKzT3Pn0jSsH9J9ZW3- # [KB-47]-ModernVehicles-V1.4.7z (live replacement for 1KdsyV6Sy9rnIyPBKUfwY97I4EnOKNja8)
+    - 1KGSO9PoZwEyR1cu4OCTn7QvykL0GWui_ # [KB-47]Warbird1.2.7z
+    - 144GfEiU42oY20xKGmbBIOdrQbzGU9fWw # [MetroLastLight]_MutantBear 1.0.7z
+    - 1ZYGvtalj2pe5iGF4v-hzUkJ5HO8e0j7q # Mother Courage.7z
+    - 1NIPQtfOgs7aMcNxHDPf2fXbbF2qhrihs # Mutilation [GRIM - Feral Ghoul Replacer].rar
+    - 1hP2Jhks4UsWLxVv6gixEJz2Osf843_VB # [KB-47] Clickers 2.1.7z
+    - 1wywhfqPgfezn3XnyGIpxbvjvv1UYemFT # [KB-47] EFT Zombies BETA 0.6.7z
     
 AllowedPrefixes:
     - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
@@ -2736,4 +2748,12 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/n5m1xpyguauigpx/Vtaw_HaileyCombatSuitV1.2.zip/file # VTAW Hailey Combat Suit
     - https://www.mediafire.com/file/q57xfi7wu80j9wi/VtawGothDressV1.0.7z/file # VTAW Goth Dress
     - https://www.mediafire.com/file/k91zdf4i940y432/VtawGothDressBodyslidesV1.0.7z/file # VTAW Goth Dress BodySlides
+
+    # Lost World Reborn
+    - https://mega.nz/file/t1VkjRja#-NJF3z3fSsjqSs8EgDmxKM0oWo431eO_IhYUCiSnzrQ # [FO4] Modern Clothing Replacer - Beta v0.2.7z
+    - https://mega.nz/file/SdMUTawa#0j4jIboAAgs1w6klHJBI3ErB67fDbP9ZXn0Y8V_K6sI # Settlement Defence Systems.rar
+    - https://mega.nz/file/ZwtX2S4Q#k5GBqWv5yu1Bc7NzQ-21oUj6Kbpn85OesOqAaPntykM # Railroad Expansion Latest - Jan 2022.rar
+    - https://mega.nz/file/TN0XzLbJ#uCpzqFecOpS8uDdaDqJhN-ObUw887n-mowVF9n4kR34 # Car Replacer.rar
+    - https://www.mediafire.com/file/9ju5goo5uxm3sot/Children+of+Atom+Expansion+R.E.D.U.X.rar/file # Children of Atom Expansion R.E.D.U.X.rar
+    - https://www.mediafire.com/file/2kkmficpuodqyis/Triggermen+Expansion.rar/file # Triggermen Expansion.rar
     
